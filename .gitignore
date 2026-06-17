@@ -179,3 +179,37 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# ==============================
+# CeylonSavour local secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Testing and linting caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local logs and generated temporary outputs
+logs/
+artifacts/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+
+# OS files
+Thumbs.db
+.DS_Store
