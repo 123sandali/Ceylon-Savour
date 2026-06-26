@@ -213,3 +213,7 @@ build/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Reproducible extracted copies of DVC-tracked USDA archives
+data/raw/international/usda/**/extracted/*
+!data/raw/international/usda/**/extracted/.gitkeep
