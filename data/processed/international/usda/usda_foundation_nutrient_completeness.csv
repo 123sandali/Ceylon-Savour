@@ -1,0 +1,235 @@
+﻿dataset,source_nutrient_id,nutrient_master_id,name,unit_name,foods_with_nutrient,total_foods,completeness_percent
+foundation,1051.0,1051,Water,G,387,395,97.97
+foundation,1007.0,1007,Ash,G,368,395,93.16
+foundation,1091.0,1091,"Phosphorus, P",MG,367,395,92.91
+foundation,1090.0,1090,"Magnesium, Mg",MG,367,395,92.91
+foundation,1089.0,1089,"Iron, Fe",MG,367,395,92.91
+foundation,1087.0,1087,"Calcium, Ca",MG,367,395,92.91
+foundation,1098.0,1098,"Copper, Cu",MG,367,395,92.91
+foundation,1101.0,1101,"Manganese, Mn",MG,367,395,92.91
+foundation,1095.0,1095,"Zinc, Zn",MG,367,395,92.91
+foundation,1092.0,1092,"Potassium, K",MG,367,395,92.91
+foundation,1003.0,1003,Protein,G,353,395,89.37
+foundation,1093.0,1093,"Sodium, Na",MG,349,395,88.35
+foundation,1004.0,1004,Total lipid (fat),G,341,395,86.33
+foundation,1002.0,1002,Nitrogen,G,326,395,82.53
+foundation,1005.0,1005,"Carbohydrate, by difference",G,322,395,81.52
+foundation,2047.0,2047,Energy (Atwater General Factors),KCAL,322,395,81.52
+foundation,2048.0,2048,Energy (Atwater Specific Factors),KCAL,288,395,72.91
+foundation,1175.0,1175,Vitamin B-6,MG,222,395,56.2
+foundation,1079.0,1079,"Fiber, total dietary",G,198,395,50.13
+foundation,1167.0,1167,Niacin,MG,192,395,48.61
+foundation,1165.0,1165,Thiamin,MG,185,395,46.84
+foundation,1166.0,1166,Riboflavin,MG,165,395,41.77
+foundation,1014.0,1014,Maltose,G,161,395,40.76
+foundation,1013.0,1013,Lactose,G,161,395,40.76
+foundation,1011.0,1011,Glucose,G,161,395,40.76
+foundation,1012.0,1012,Fructose,G,161,395,40.76
+foundation,1010.0,1010,Sucrose,G,161,395,40.76
+foundation,1103.0,1103,"Selenium, Se",UG,153,395,38.73
+foundation,1063.0,1063,"Sugars, Total",G,149,395,37.72
+foundation,1177.0,1177,"Folate, total",UG,137,395,34.68
+foundation,1292.0,1292,"Fatty acids, total monounsaturated",G,124,395,31.39
+foundation,1258.0,1258,"Fatty acids, total saturated",G,124,395,31.39
+foundation,1176.0,1176,Biotin,UG,118,395,29.87
+foundation,1162.0,1162,"Vitamin C, total ascorbic acid",MG,118,395,29.87
+foundation,1293.0,1293,"Fatty acids, total polyunsaturated",G,109,395,27.59
+foundation,1265.0,1265,SFA 16:0,G,106,395,26.84
+foundation,1266.0,1266,SFA 18:0,G,106,395,26.84
+foundation,1264.0,1264,SFA 14:0,G,102,395,25.82
+foundation,1263.0,1263,SFA 12:0,G,97,395,24.56
+foundation,1062.0,1062,Energy,kJ,95,395,24.05
+foundation,1008.0,1008,Energy,KCAL,95,395,24.05
+foundation,1009.0,1009,Starch,G,90,395,22.78
+foundation,1253.0,1253,Cholesterol,MG,89,395,22.53
+foundation,1257.0,1257,"Fatty acids, total trans",G,86,395,21.77
+foundation,1262.0,1262,SFA 10:0,G,84,395,21.27
+foundation,1267.0,1267,SFA 20:0,G,83,395,21.01
+foundation,1299.0,1299,SFA 15:0,G,81,395,20.51
+foundation,1300.0,1300,SFA 17:0,G,81,395,20.51
+foundation,1301.0,1301,SFA 24:0,G,81,395,20.51
+foundation,1406.0,1406,PUFA 20:3 n-6,G,79,395,20.0
+foundation,1316.0,1316,"PUFA 18:2 n-6 c,c",G,78,395,19.75
+foundation,1075.0,1075,Galactose,G,78,395,19.75
+foundation,1261.0,1261,SFA 8:0,G,77,395,19.49
+foundation,1315.0,1315,MUFA 18:1 c,G,77,395,19.49
+foundation,2016.0,2016,PUFA 18:2 c,G,77,395,19.49
+foundation,1273.0,1273,SFA 22:0,G,76,395,19.24
+foundation,1260.0,1260,SFA 6:0,G,76,395,19.24
+foundation,1271.0,1271,PUFA 20:4,G,76,395,19.24
+foundation,2018.0,2018,PUFA 18:3 c,G,76,395,19.24
+foundation,1259.0,1259,SFA 4:0,G,76,395,19.24
+foundation,1185.0,1185,Vitamin K (phylloquinone),UG,75,395,18.99
+foundation,2025.0,2025,PUFA 22:6 c,G,75,395,18.99
+foundation,2023.0,2023,PUFA 20:5c,G,75,395,18.99
+foundation,2026.0,2026,PUFA 20:2 c,G,75,395,18.99
+foundation,1323.0,1323,MUFA 17:1,G,75,395,18.99
+foundation,2024.0,2024,PUFA 22:5 c,G,74,395,18.73
+foundation,1311.0,1311,PUFA 18:2 CLAs,G,73,395,18.48
+foundation,1178.0,1178,Vitamin B-12,UG,73,395,18.48
+foundation,1304.0,1304,TFA 18:1 t,G,72,395,18.23
+foundation,1303.0,1303,TFA 16:1 t,G,72,395,18.23
+foundation,1321.0,1321,"PUFA 18:3 n-6 c,c,c",G,70,395,17.72
+foundation,1276.0,1276,PUFA 18:4,G,70,395,17.72
+foundation,2020.0,2020,PUFA 20:3 c,G,70,395,17.72
+foundation,1333.0,1333,MUFA 15:1,G,69,395,17.47
+foundation,1334.0,1334,PUFA 22:2,G,69,395,17.47
+foundation,1405.0,1405,PUFA 20:3 n-3,G,68,395,17.22
+foundation,1102.0,1102,"Molybdenum, Mo",UG,68,395,17.22
+foundation,1335.0,1335,SFA 11:0,G,68,395,17.22
+foundation,1312.0,1312,MUFA 24:1 c,G,68,395,17.22
+foundation,1411.0,1411,PUFA 22:4,G,67,395,16.96
+foundation,1404.0,1404,"PUFA 18:3 n-3 c,c,c (ALA)",G,66,395,16.71
+foundation,1314.0,1314,MUFA 16:1 c,G,66,395,16.71
+foundation,1305.0,1305,TFA 22:1 t,G,66,395,16.71
+foundation,1329.0,1329,"Fatty acids, total trans-monoenoic",G,65,395,16.46
+foundation,2012.0,2012,MUFA 20:1 c,G,65,395,16.46
+foundation,1184.0,1184,Vitamin K (Dihydrophylloquinone),UG,65,395,16.46
+foundation,1085.0,1085,Total fat (NLEA),G,63,395,15.95
+foundation,1109.0,1109,Vitamin E (alpha-tocopherol),MG,63,395,15.95
+foundation,1272.0,1272,PUFA 22:6 n-3 (DHA),G,63,395,15.95
+foundation,1278.0,1278,PUFA 20:5 n-3 (EPA),G,63,395,15.95
+foundation,1280.0,1280,PUFA 22:5 n-3 (DPA),G,62,395,15.7
+foundation,1183.0,1183,Vitamin K (Menaquinone-4),UG,60,395,15.19
+foundation,1125.0,1125,"Tocopherol, beta",MG,59,395,14.94
+foundation,1127.0,1127,"Tocopherol, delta",MG,59,395,14.94
+foundation,2022.0,2022,PUFA 20:4c,G,59,395,14.94
+foundation,1126.0,1126,"Tocopherol, gamma",MG,59,395,14.94
+foundation,1128.0,1128,"Tocotrienol, alpha",MG,58,395,14.68
+foundation,1131.0,1131,"Tocotrienol, delta",MG,58,395,14.68
+foundation,1129.0,1129,"Tocotrienol, beta",MG,58,395,14.68
+foundation,1130.0,1130,"Tocotrienol, gamma",MG,58,395,14.68
+foundation,1317.0,1317,MUFA 22:1 c,G,58,395,14.68
+foundation,2009.0,2009,MUFA 14:1 c,G,58,395,14.68
+foundation,1105.0,1105,Retinol,UG,57,395,14.43
+foundation,1414.0,1414,PUFA 20:3 n-9,G,57,395,14.43
+foundation,1313.0,1313,"PUFA 20:2 n-6 c,c",G,56,395,14.18
+foundation,2010.0,2010,MUFA 17:1 c,G,56,395,14.18
+foundation,1215.0,1215,Methionine,G,54,395,13.67
+foundation,1217.0,1217,Phenylalanine,G,54,395,13.67
+foundation,1212.0,1212,Isoleucine,G,54,395,13.67
+foundation,1214.0,1214,Lysine,G,54,395,13.67
+foundation,1213.0,1213,Leucine,G,54,395,13.67
+foundation,1219.0,1219,Valine,G,54,395,13.67
+foundation,1211.0,1211,Threonine,G,54,395,13.67
+foundation,1210.0,1210,Tryptophan,G,54,395,13.67
+foundation,1221.0,1221,Histidine,G,54,395,13.67
+foundation,1306.0,1306,TFA 18:2 t not further defined,G,54,395,13.67
+foundation,1114.0,1114,Vitamin D (D2 + D3),UG,53,395,13.42
+foundation,1170.0,1170,Pantothenic acid,MG,53,395,13.42
+foundation,1110.0,1110,"Vitamin D (D2 + D3), International Units",IU,53,395,13.42
+foundation,1106.0,1106,"Vitamin A, RAE",UG,52,395,13.16
+foundation,1277.0,1277,MUFA 20:1,G,51,395,12.91
+foundation,1111.0,1111,Vitamin D2 (ergocalciferol),UG,48,395,12.15
+foundation,1330.0,1330,"Fatty acids, total trans-dienoic",G,48,395,12.15
+foundation,1100.0,1100,"Iodine, I",UG,47,395,11.9
+foundation,2014.0,2014,MUFA 22:1 n-9,G,46,395,11.65
+foundation,2019.0,2019,TFA 18:3 t,G,44,395,11.14
+foundation,1220.0,1220,Arginine,G,43,395,10.89
+foundation,1225.0,1225,Glycine,G,43,395,10.89
+foundation,1226.0,1226,Proline,G,43,395,10.89
+foundation,1223.0,1223,Aspartic acid,G,43,395,10.89
+foundation,1224.0,1224,Glutamic acid,G,43,395,10.89
+foundation,1227.0,1227,Serine,G,43,395,10.89
+foundation,1218.0,1218,Tyrosine,G,43,395,10.89
+foundation,1222.0,1222,Alanine,G,43,395,10.89
+foundation,1112.0,1112,Vitamin D3 (cholecalciferol),UG,42,395,10.63
+foundation,1180.0,1180,"Choline, total",MG,39,395,9.87
+foundation,1108.0,1108,"Carotene, alpha",UG,38,395,9.62
+foundation,1120.0,1120,"Cryptoxanthin, beta",UG,38,395,9.62
+foundation,1107.0,1107,"Carotene, beta",UG,38,395,9.62
+foundation,2006.0,2006,SFA 21:0,G,37,395,9.37
+foundation,1122.0,1122,Lycopene,UG,36,395,9.11
+foundation,2033.0,2033,Total dietary fiber (AOAC 2011.25),G,34,395,8.61
+foundation,2004.0,2004,SFA 7:0,G,33,395,8.35
+foundation,2021.0,2021,PUFA 22:3,G,33,395,8.35
+foundation,2007.0,2007,SFA 23:0,G,33,395,8.35
+foundation,2003.0,2003,SFA 5:0,G,33,395,8.35
+foundation,2015.0,2015,MUFA 22:1 n-11,G,33,395,8.35
+foundation,2008.0,2008,MUFA 12:1,G,33,395,8.35
+foundation,2005.0,2005,SFA 9:0,G,33,395,8.35
+foundation,2013.0,2013,TFA 20:1 t,G,32,395,8.1
+foundation,1281.0,1281,TFA 14:1 t,G,32,395,8.1
+foundation,1050.0,1050,"Carbohydrate, by summation",G,30,395,7.59
+foundation,1123.0,1123,Lutein + zeaxanthin,UG,29,395,7.34
+foundation,1269.0,1269,PUFA 18:2,G,28,395,7.09
+foundation,1196.0,1196,"Choline, from phosphotidyl choline",MG,27,395,6.84
+foundation,1195.0,1195,"Choline, from phosphocholine",MG,27,395,6.84
+foundation,1228.0,1228,Hydroxyproline,G,27,395,6.84
+foundation,1197.0,1197,"Choline, from glycerophosphocholine",MG,27,395,6.84
+foundation,1199.0,1199,"Choline, from sphingomyelin",MG,27,395,6.84
+foundation,1198.0,1198,Betaine,MG,27,395,6.84
+foundation,1194.0,1194,"Choline, free",MG,27,395,6.84
+foundation,1331.0,1331,"Fatty acids, total trans-polyenoic",G,26,395,6.58
+foundation,1232.0,1232,Cysteine,G,25,395,6.33
+foundation,2017.0,2017,TFA 18:2 t,G,24,395,6.08
+foundation,2058.0,2058,Beta-glucan,G,23,395,5.82
+foundation,1268.0,1268,MUFA 18:1,G,22,395,5.57
+foundation,1270.0,1270,PUFA 18:3,G,22,395,5.57
+foundation,1296.0,1296,Delta-5-avenasterol,MG,19,395,4.81
+foundation,1286.0,1286,Campesterol,MG,19,395,4.81
+foundation,1274.0,1274,MUFA 14:1,G,19,395,4.81
+foundation,2038.0,2038,High Molecular Weight Dietary Fiber (HMWDF),G,19,395,4.81
+foundation,2065.0,2065,Low Molecular Weight Dietary Fiber (LMWDF),G,19,395,4.81
+foundation,1288.0,1288,Beta-sitosterol,MG,19,395,4.81
+foundation,1294.0,1294,Beta-sitostanol,MG,19,395,4.81
+foundation,1275.0,1275,MUFA 16:1,G,19,395,4.81
+foundation,1285.0,1285,Stigmasterol,MG,19,395,4.81
+foundation,1216.0,1216,Cystine,G,18,395,4.56
+foundation,1071.0,1071,Resistant starch,G,17,395,4.3
+foundation,1137.0,1137,"Boron, B",UG,17,395,4.3
+foundation,1146.0,1146,"Nickel, Ni",UG,17,395,4.3
+foundation,1094.0,1094,"Sulfur, S",MG,17,395,4.3
+foundation,1097.0,1097,"Cobalt, Co",UG,17,395,4.3
+foundation,1032.0,1032,Citric acid,MG,15,395,3.8
+foundation,1039.0,1039,Malic acid,MG,15,395,3.8
+foundation,2052.0,2052,Delta-7-Stigmastenol,MG,15,395,3.8
+foundation,1113.0,1113,25-hydroxycholecalciferol,UG,15,395,3.8
+foundation,1161.0,1161,cis-Lutein/Zeaxanthin,UG,14,395,3.54
+foundation,1041.0,1041,Oxalic acid,MG,13,395,3.29
+foundation,1044.0,1044,Quinic acid,MG,13,395,3.29
+foundation,2032.0,2032,"Cryptoxanthin, alpha",UG,13,395,3.29
+foundation,1409.0,1409,PUFA 18:3i,G,13,395,3.29
+foundation,1119.0,1119,Zeaxanthin,UG,12,395,3.04
+foundation,2060.0,2060,Ergosta-7-enol,MG,11,395,2.78
+foundation,1284.0,1284,Ergosterol,MG,11,395,2.78
+foundation,2069.0,2069,Glutathione,MG,11,395,2.78
+foundation,2057.0,2057,Ergothioneine,MG,11,395,2.78
+foundation,2059.0,2059,Vitamin D4,UG,11,395,2.78
+foundation,1160.0,1160,cis-Lycopene,UG,11,395,2.78
+foundation,1159.0,1159,cis-beta-Carotene,UG,11,395,2.78
+foundation,1121.0,1121,Lutein,UG,11,395,2.78
+foundation,1188.0,1188,5-methyl tetrahydrofolate (5-MTHF),UG,11,395,2.78
+foundation,2062.0,2062,"Ergosta-5,7-dienol",MG,11,395,2.78
+foundation,2061.0,2061,"Ergosta-7,22-dienol",MG,11,395,2.78
+foundation,2028.0,2028,trans-beta-Carotene,UG,11,395,2.78
+foundation,1082.0,1082,"Fiber, soluble",G,10,395,2.53
+foundation,1084.0,1084,"Fiber, insoluble",G,10,395,2.53
+foundation,2029.0,2029,trans-Lycopene,UG,10,395,2.53
+foundation,1289.0,1289,Campestanol,MG,8,395,2.03
+foundation,1287.0,1287,Brassicasterol,MG,8,395,2.03
+foundation,2049.0,2049,Daidzin,MG,6,395,1.52
+foundation,2051.0,2051,Glycitin,MG,6,395,1.52
+foundation,1341.0,1341,Genistein,MG,6,395,1.52
+foundation,1340.0,1340,Daidzein,MG,6,395,1.52
+foundation,2050.0,2050,Genistin,MG,6,395,1.52
+foundation,1043.0,1043,Pyruvic acid,MG,5,395,1.27
+foundation,2000.0,2000,Total Sugars,G,5,395,1.27
+foundation,1298.0,1298,"Phytosterols, other",MG,4,395,1.01
+foundation,1118.0,1118,"Carotene, gamma",UG,4,395,1.01
+foundation,2053.0,2053,Stigmastadiene,MG,4,395,1.01
+foundation,1279.0,1279,MUFA 22:1,G,3,395,0.76
+foundation,1117.0,1117,Phytofluene,UG,2,395,0.51
+foundation,2063.0,2063,Verbascose,G,2,395,0.51
+foundation,1077.0,1077,Stachyose,G,2,395,0.51
+foundation,1076.0,1076,Raffinose,G,2,395,0.51
+foundation,1116.0,1116,Phytoene,UG,2,395,0.51
+foundation,1024.0,1024,Specific Gravity,SP_GR,1,395,0.25
+foundation,1191.0,1191,10-Formyl folic acid (10HCOFA),UG,1,395,0.25
+foundation,1192.0,1192,5-Formyltetrahydrofolic acid (5-HCOH4,UG,1,395,0.25
+foundation,1325.0,1325,PUFA 20:3,G,1,395,0.25
+foundation,1407.0,1407,PUFA 20:4 n-3,G,1,395,0.25
+foundation,1413.0,1413,MUFA 18:1-11 c (18:1c n-7),G,1,395,0.25
+foundation,1332.0,1332,SFA 13:0,G,1,395,0.25
+foundation,1408.0,1408,PUFA 20:4 n-6,G,1,395,0.25
+foundation,2068.0,2068,Vitamin E,MG,1,395,0.25

@@ -1,0 +1,5 @@
+﻿dataset,table,key_columns,exact_duplicate_rows,duplicate_key_groups,rows_in_duplicate_key_groups,automatic_removal_applied
+foundation,food,fdc_id,0,0,0,False
+foundation,food_nutrient,fdc_id + nutrient_id,0,4,8,False
+fndds,food,fdc_id,0,0,0,False
+fndds,food_nutrient,fdc_id + nutrient_id,0,0,0,False

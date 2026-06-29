@@ -1,0 +1,17 @@
+{
+  "database_name": "FlavorDB2",
+  "provider": "CoSyLab, IIIT-Delhi",
+  "website": "https://cosylab.iiitd.edu.in/flavordb2/",
+  "academic_use": true,
+  "commercial_use": false,
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+  "attribution_required": true,
+  "main_entities": [
+    "ingredient",
+    "natural_source",
+    "flavor_molecule",
+    "taste_descriptor",
+    "odor_descriptor",
+    "functional_group"
+  ]
+}

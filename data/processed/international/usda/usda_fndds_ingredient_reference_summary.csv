@@ -1,0 +1,2 @@
+﻿dataset,source_table,row_count,parent_food_key,ingredient_description_column,foods_with_input_reference,fndds_food_coverage_percent,ingredient_description_non_null_percent,available_columns,interpretation
+fndds,input_food.csv,18584,fdc_id,sr_description,5431,99.9816,100.0,"id, fdc_id, fdc_of_input_food, seq_num, amount, sr_code, sr_description, unit, portion_code, portion_description, gram_weight, retention_code","FNDDS provides ingredient references for many survey foods, but it is not a complete or authoritative ingredient source for Sri Lankan dishes."

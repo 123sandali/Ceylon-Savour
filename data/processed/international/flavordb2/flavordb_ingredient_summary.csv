@@ -1,0 +1,6 @@
+﻿filename,entity_id,ingredient_name,category,molecule_count
+cardamom.json,327,Elattaria,Spice,173
+cinnamon.json,330,Cinnamomum,Spice,183
+clove.json,331,Syzygium,Spice,177
+coconut.json,172,Cocos Nucifera,Fruit,161
+ginger.json,333,Zingiber,Spice,251

@@ -1,0 +1,710 @@
+﻿entity_id,ingredient_name,odor_descriptor,molecule_count
+330,Cinnamomum,floral odor,3
+330,Cinnamomum,odorless,3
+330,Cinnamomum,pungent,3
+330,Cinnamomum,camphor-like odor,2
+330,Cinnamomum,characteristic,2
+330,Cinnamomum,fatty,2
+330,Cinnamomum,floral,2
+330,Cinnamomum,green,2
+330,Cinnamomum,odor of hyacinth@pleasant,2
+330,Cinnamomum,piney,2
+330,Cinnamomum,pleasant,2
+330,Cinnamomum,pleasant odor,2
+330,Cinnamomum,slight peppermint odor@characteristic odor similar to menthol,2
+330,Cinnamomum,spicy,2
+330,Cinnamomum,strong lemon odor,2
+330,Cinnamomum,& nitrobenzene,1
+330,Cinnamomum,...floral-fruity odor,1
+330,Cinnamomum,acetone odor,1
+330,Cinnamomum,acetone-like odor@sweet,1
+330,Cinnamomum,acetophenone,1
+330,Cinnamomum,acrid odor,1
+330,Cinnamomum,aldehyde odor,1
+330,Cinnamomum,almond-like odor.,1
+330,Cinnamomum,almost floral odor when highly purified,1
+330,Cinnamomum,also similar to cananga@medicinal odor,1
+330,Cinnamomum,anise oil odor,1
+330,Cinnamomum,apple-like odor@powerful penetrating,1
+330,Cinnamomum,bitter almond-like odor@pungent,1
+330,Cinnamomum,burnt sweet@hot fat@disagreeable choking odor,1
+330,Cinnamomum,but with phenolic notes@phenolic odor,1
+330,Cinnamomum,buttery,1
+330,Cinnamomum,camphoraceous,1
+330,Cinnamomum,camphoraceous odor,1
+330,Cinnamomum,carnation odor,1
+330,Cinnamomum,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like,1
+330,Cinnamomum,characteristic fruity odor (on dilution)@strong,1
+330,Cinnamomum,characteristic hawthorn odor@odor resembles that of coumarin,1
+330,Cinnamomum,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor,1
+330,Cinnamomum,characteristic odor of pine@odor of turpentine,1
+330,Cinnamomum,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond,1
+330,Cinnamomum,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.,1
+330,Cinnamomum,characteristic sweetish,1
+330,Cinnamomum,characteristic turpentine odor@dry,1
+330,Cinnamomum,citrus odor,1
+330,Cinnamomum,cooling,1
+330,Cinnamomum,decayed cabbage.,1
+330,Cinnamomum,delicate flowery odor@mild,1
+330,Cinnamomum,disagreeable,1
+330,Cinnamomum,disagreeable odor@disagreeable odor.,1
+330,Cinnamomum,discernable at 0.5 to 5 ppm@sweet,1
+330,Cinnamomum,distinct aromatic,1
+330,Cinnamomum,distinctive ethereal odor,1
+330,Cinnamomum,extremely sharp@extremely acrid,1
+330,Cinnamomum,extremely sharp@pungent odor,1
+330,Cinnamomum,faint aromatic odor,1
+330,Cinnamomum,faint pleasant aromatic odor,1
+330,Cinnamomum,fish-like odor when warm,1
+330,Cinnamomum,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.,1
+330,Cinnamomum,floral-fruity odor recalling bergamot and pear.,1
+330,Cinnamomum,flower fruit odor,1
+330,Cinnamomum,fragrant,1
+330,Cinnamomum,fragrant and penetrating odor@penetrating aromatic odor,1
+330,Cinnamomum,fragrant odor,1
+330,Cinnamomum,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor,1
+330,Cinnamomum,fragrant odor@fruity odor,1
+330,Cinnamomum,fresh and light,1
+330,Cinnamomum,fruity,1
+330,Cinnamomum,fruity odor,1
+330,Cinnamomum,fruity odor reminiscent of jasmin,1
+330,Cinnamomum,fruity odor@characteristic odor,1
+330,Cinnamomum,fruity odor@fruity with a brandy note,1
+330,Cinnamomum,fruity-floral,1
+330,Cinnamomum,fruity@characteristic odor similar to acetaldehyde@pungent,1
+330,Cinnamomum,gardenia,1
+330,Cinnamomum,green grass odor@sharp,1
+330,Cinnamomum,has a weak citrus odor,1
+330,Cinnamomum,herbal and floral,1
+330,Cinnamomum,intense lemon-citronella-rose odor,1
+330,Cinnamomum,irritating odor similar to benzenaldehyde,1
+330,Cinnamomum,like almond@... bitter,1
+330,Cinnamomum,lilac,1
+330,Cinnamomum,lily and other flowers.,1
+330,Cinnamomum,mild-spicy,1
+330,Cinnamomum,mint- or acetone-like odor,1
+330,Cinnamomum,muguet,1
+330,Cinnamomum,mustard-like odor,1
+330,Cinnamomum,odor of cloves@warm,1
+330,Cinnamomum,odor of jasmine@woody,1
+330,Cinnamomum,odor of lavender@sweet,1
+330,Cinnamomum,odor of rotten cabbage@sulfidy@powerful,1
+330,Cinnamomum,odor of thyme@a spicy-herbal,1
+330,Cinnamomum,odor reminiscent of anise (differing from anethole),1
+330,Cinnamomum,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral,1
+330,Cinnamomum,odorless or with a slight benzaldehyde odor@faint,1
+330,Cinnamomum,odorless@weak unpleasant odor@available forms have very slightly acrid odor,1
+330,Cinnamomum,oily@weak citrus-lime odor,1
+330,Cinnamomum,or having an odor resembling that of ozone@... slightly sharp odor ...,1
+330,Cinnamomum,orange-rose odor@floral,1
+330,Cinnamomum,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor,1
+330,Cinnamomum,pear-like odor@characteristic flowery (jasmine) odor@powerful but thin,1
+330,Cinnamomum,peculiar odor,1
+330,Cinnamomum,penetrating fruity odor@characteristic banana,1
+330,Cinnamomum,peppermint odor /dl-menthol/@cooling odor /89-78-1/,1
+330,Cinnamomum,phenolic odor@sweet,1
+330,Cinnamomum,pine,1
+330,Cinnamomum,pine odor@pine-like aroma,1
+330,Cinnamomum,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like,1
+330,Cinnamomum,pleasant@terpene odor,1
+330,Cinnamomum,powerful,1
+330,Cinnamomum,pungent odor@penetrating fruity odor,1
+330,Cinnamomum,pungent@moderately sharp,1
+330,Cinnamomum,quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor,1
+330,Cinnamomum,rancid odor@faint tallow-like odor when spectroscopically pure.,1
+330,Cinnamomum,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet,1
+330,Cinnamomum,rosy,1
+330,Cinnamomum,"rosy refreshing and wet"" seashore""",1
+330,Cinnamomum,sassafras odor,1
+330,Cinnamomum,sharp persistent odor,1
+330,Cinnamomum,slight,1
+330,Cinnamomum,slightly herbal odor@clove,1
+330,Cinnamomum,slightly medicinal odor reminiscent of thyme@aromatic odor,1
+330,Cinnamomum,slightly spicy odor@banana-like fruity odor,1
+330,Cinnamomum,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet,1
+330,Cinnamomum,somewhat like peppermint,1
+330,Cinnamomum,somewhat resembling the odor of benzaldehyde@... almond-like odor ...,1
+330,Cinnamomum,somewhat sickening sweet and acrid odor,1
+330,Cinnamomum,spice-clove odor,1
+330,Cinnamomum,spicy note@strong odor of cinnamon,1
+330,Cinnamomum,strong,1
+330,Cinnamomum,suffocating,1
+330,Cinnamomum,sweet,1
+330,Cinnamomum,sweet floral fresh,1
+330,Cinnamomum,sweet rose odor@pleasant geranium-like odor@pleasant,1
+330,Cinnamomum,sweet rose@the odor of pure nerol is sweet,1
+330,Cinnamomum,sweetish aromatic odor@mild pleasant odor@when pure,1
+330,Cinnamomum,sweetish smell@pleasant aromatic vanilla odor,1
+330,Cinnamomum,synthetic acid is odorless,1
+330,Cinnamomum,tarry odor,1
+330,Cinnamomum,tarry odor@somewhat sickeningly sweet and acrid,1
+330,Cinnamomum,thymol odor@medicinal smoke odor,1
+330,Cinnamomum,turpentine-like odor@terpene odor,1
+330,Cinnamomum,unpleasant odor@disagreeable odor like garlic@pungent,1
+330,Cinnamomum,unpleasant@choking odor,1
+330,Cinnamomum,waxy,1
+330,Cinnamomum,with a citrus nuance,1
+330,Cinnamomum,wood odor@flowery-fresh odor and reminiscent of lily of the valley,1
+330,Cinnamomum,woody or resinous aroma@piney,1
+172,Cocos Nucifera,odorless,7
+172,Cocos Nucifera,characteristic,4
+172,Cocos Nucifera,powerful,4
+172,Cocos Nucifera,fatty,3
+172,Cocos Nucifera,floral odor,3
+172,Cocos Nucifera,fuel-like,3
+172,Cocos Nucifera,pungent,3
+172,Cocos Nucifera,acrid,2
+172,Cocos Nucifera,fruity,2
+172,Cocos Nucifera,green,2
+172,Cocos Nucifera,odor of hyacinth@pleasant,2
+172,Cocos Nucifera,pleasant,2
+172,Cocos Nucifera,slight,2
+172,Cocos Nucifera,slight peppermint odor@characteristic odor similar to menthol,2
+172,Cocos Nucifera,strong lemon odor,2
+172,Cocos Nucifera,waxy,2
+172,Cocos Nucifera,winey,2
+172,Cocos Nucifera,acetone odor,1
+172,Cocos Nucifera,acetone-like odor@sweet,1
+172,Cocos Nucifera,acrid odor,1
+172,Cocos Nucifera,aldehyde odor,1
+172,Cocos Nucifera,almond-like odor.,1
+172,Cocos Nucifera,almost floral odor when highly purified,1
+172,Cocos Nucifera,also similar to cananga@medicinal odor,1
+172,Cocos Nucifera,and orange-like odor,1
+172,Cocos Nucifera,apple-like odor@powerful penetrating,1
+172,Cocos Nucifera,burnt sweet@hot fat@disagreeable choking odor,1
+172,Cocos Nucifera,but aromatic,1
+172,Cocos Nucifera,but traces of hydrocarbon impurity may impart an oily and/or rotten egg odor,1
+172,Cocos Nucifera,buttery,1
+172,Cocos Nucifera,buttery odor@bland,1
+172,Cocos Nucifera,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like,1
+172,Cocos Nucifera,characteristic fruity odor (on dilution)@strong,1
+172,Cocos Nucifera,characteristic goat-like odor,1
+172,Cocos Nucifera,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor,1
+172,Cocos Nucifera,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond,1
+172,Cocos Nucifera,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.,1
+172,Cocos Nucifera,characteristic sweetish,1
+172,Cocos Nucifera,characteristic@sweet alcohol@pleasant,1
+172,Cocos Nucifera,characteristically disagreeable,1
+172,Cocos Nucifera,citrus,1
+172,Cocos Nucifera,citrus odor,1
+172,Cocos Nucifera,cognac odor,1
+172,Cocos Nucifera,decayed cabbage.,1
+172,Cocos Nucifera,delicate flowery odor@mild,1
+172,Cocos Nucifera,disagreeable,1
+172,Cocos Nucifera,disagreeable odor@disagreeable odor.,1
+172,Cocos Nucifera,distinctive ethereal odor,1
+172,Cocos Nucifera,extremely sharp@extremely acrid,1
+172,Cocos Nucifera,extremely sharp@pungent odor,1
+172,Cocos Nucifera,faint,1
+172,Cocos Nucifera,faint aromatic odor,1
+172,Cocos Nucifera,faint burning odor,1
+172,Cocos Nucifera,faint pleasant aromatic odor,1
+172,Cocos Nucifera,fatty odor,1
+172,Cocos Nucifera,fatty odor@coconut aroma@slight odor,1
+172,Cocos Nucifera,fish-like odor when warm,1
+172,Cocos Nucifera,floral,1
+172,Cocos Nucifera,floral odor reminiscent of wine@oily,1
+172,Cocos Nucifera,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.,1
+172,Cocos Nucifera,floral-fatty odor@citrus odor@similar to that of an orange peel@penetrating,1
+172,Cocos Nucifera,fragrant,1
+172,Cocos Nucifera,fragrant odor,1
+172,Cocos Nucifera,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor,1
+172,Cocos Nucifera,fragrant odor@fruity odor,1
+172,Cocos Nucifera,fresh orange rose odor@penetrating aromatic odor,1
+172,Cocos Nucifera,fresh-fruit,1
+172,Cocos Nucifera,fruity odor,1
+172,Cocos Nucifera,fruity odor@characteristic odor,1
+172,Cocos Nucifera,fruity odor@fruity with a brandy note,1
+172,Cocos Nucifera,fruity-acid odor@unpleasant and irritating odor@slight odor,1
+172,Cocos Nucifera,fruity-floral,1
+172,Cocos Nucifera,fruity@characteristic odor similar to acetaldehyde@pungent,1
+172,Cocos Nucifera,green grass odor@sharp,1
+172,Cocos Nucifera,honey & orris-like (iris florentina) odor@fatty coconut,1
+172,Cocos Nucifera,like almond@... bitter,1
+172,Cocos Nucifera,like oil of bay,1
+172,Cocos Nucifera,mint- or acetone-like odor,1
+172,Cocos Nucifera,mustard-like odor,1
+172,Cocos Nucifera,nauseating@burnt,1
+172,Cocos Nucifera,odor of lavender@sweet,1
+172,Cocos Nucifera,odor of rotten cabbage@sulfidy@powerful,1
+172,Cocos Nucifera,odor similar to that of quinoline@unpleasant odor,1
+172,Cocos Nucifera,odorless@weak unpleasant odor@available forms have very slightly acrid odor,1
+172,Cocos Nucifera,oily odor,1
+172,Cocos Nucifera,oily@weak citrus-lime odor,1
+172,Cocos Nucifera,or having an odor resembling that of ozone@... slightly sharp odor ...,1
+172,Cocos Nucifera,orange-rose odor@floral,1
+172,Cocos Nucifera,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor,1
+172,Cocos Nucifera,peculiar lard-like odor,1
+172,Cocos Nucifera,penetrating fruity odor@characteristic banana,1
+172,Cocos Nucifera,peppermint odor,1
+172,Cocos Nucifera,peppermint odor /dl-menthol/@cooling odor /89-78-1/,1
+172,Cocos Nucifera,pronounced fatty odor that develops a floral character on dilution,1
+172,Cocos Nucifera,pungent odor,1
+172,Cocos Nucifera,pungent odor@penetrating fruity odor,1
+172,Cocos Nucifera,pungent odor@strong,1
+172,Cocos Nucifera,pungent@moderately sharp,1
+172,Cocos Nucifera,pure sulfur is odorless,1
+172,Cocos Nucifera,quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor,1
+172,Cocos Nucifera,rancid odor,1
+172,Cocos Nucifera,rancid odor@faint tallow-like odor when spectroscopically pure.,1
+172,Cocos Nucifera,rosy,1
+172,Cocos Nucifera,sharp,1
+172,Cocos Nucifera,sharp persistent odor,1
+172,Cocos Nucifera,sickening@nauseating fish-like odor.,1
+172,Cocos Nucifera,slightly pungent disagreeable,1
+172,Cocos Nucifera,slightly spicy odor@banana-like fruity odor,1
+172,Cocos Nucifera,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet,1
+172,Cocos Nucifera,somewhat like peppermint,1
+172,Cocos Nucifera,spice-clove odor,1
+172,Cocos Nucifera,spicy note@strong odor of cinnamon,1
+172,Cocos Nucifera,strong,1
+172,Cocos Nucifera,strong odor,1
+172,Cocos Nucifera,strong odor reminiscent of coconut,1
+172,Cocos Nucifera,suffocating,1
+172,Cocos Nucifera,sweet,1
+172,Cocos Nucifera,sweet rose odor@pleasant geranium-like odor@pleasant,1
+172,Cocos Nucifera,sweetish smell@pleasant aromatic vanilla odor,1
+172,Cocos Nucifera,synthetic acid is odorless,1
+172,Cocos Nucifera,the odor should be faint with no rancidity.,1
+172,Cocos Nucifera,unpleasant odor@disagreeable odor like garlic@pungent,1
+172,Cocos Nucifera,unpleasant@choking odor,1
+172,Cocos Nucifera,woody,1
+172,Cocos Nucifera,yogurt odor,1
+327,Elattaria,odorless,4
+327,Elattaria,characteristic,3
+327,Elattaria,fatty,3
+327,Elattaria,floral odor,3
+327,Elattaria,pungent,3
+327,Elattaria,acrid,2
+327,Elattaria,camphor-like odor,2
+327,Elattaria,citrus odor,2
+327,Elattaria,green,2
+327,Elattaria,odor of hyacinth@pleasant,2
+327,Elattaria,pleasant,2
+327,Elattaria,powerful,2
+327,Elattaria,slight peppermint odor@characteristic odor similar to menthol,2
+327,Elattaria,strong lemon odor,2
+327,Elattaria,...floral-fruity odor,1
+327,Elattaria,acetone odor,1
+327,Elattaria,acetone-like odor@sweet,1
+327,Elattaria,acrid odor,1
+327,Elattaria,aldehyde odor,1
+327,Elattaria,almond-like odor.,1
+327,Elattaria,almost floral odor when highly purified,1
+327,Elattaria,also similar to cananga@medicinal odor,1
+327,Elattaria,apple-like odor@powerful penetrating,1
+327,Elattaria,aromatic,1
+327,Elattaria,burnt sweet@hot fat@disagreeable choking odor,1
+327,Elattaria,but weaker@penetrating,1
+327,Elattaria,buttery,1
+327,Elattaria,camphoraceous,1
+327,Elattaria,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like,1
+327,Elattaria,characteristic fruity odor (on dilution)@strong,1
+327,Elattaria,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor,1
+327,Elattaria,characteristic odor of pine@odor of turpentine,1
+327,Elattaria,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond,1
+327,Elattaria,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.,1
+327,Elattaria,characteristic sweetish,1
+327,Elattaria,characteristic turpentine odor@dry,1
+327,Elattaria,characteristic@sweet alcohol@pleasant,1
+327,Elattaria,cooling,1
+327,Elattaria,decayed cabbage.,1
+327,Elattaria,delicate flowery odor@mild,1
+327,Elattaria,disagreeable,1
+327,Elattaria,disagreeable odor@disagreeable odor.,1
+327,Elattaria,disagreeable odor@suffocating odor of fusel oil@slightly suffocating@nonresidual alcoholic,1
+327,Elattaria,distinctive ethereal odor,1
+327,Elattaria,extremely sharp@extremely acrid,1
+327,Elattaria,extremely sharp@pungent odor,1
+327,Elattaria,faint,1
+327,Elattaria,faint aromatic odor,1
+327,Elattaria,faint pleasant aromatic odor,1
+327,Elattaria,fish-like odor when warm,1
+327,Elattaria,floral,1
+327,Elattaria,floral odor with balsamic and sweet tones and is strongly reminiscent of violet flowers.@sweet-floral odor,1
+327,Elattaria,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.,1
+327,Elattaria,floral odor@odor of citronella oil,1
+327,Elattaria,floral-fruity odor recalling bergamot and pear.,1
+327,Elattaria,fragrant,1
+327,Elattaria,fragrant and penetrating odor@penetrating aromatic odor,1
+327,Elattaria,fragrant odor,1
+327,Elattaria,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor,1
+327,Elattaria,fragrant odor@fruity odor,1
+327,Elattaria,fragrant@faint,1
+327,Elattaria,fresh orange rose odor@penetrating aromatic odor,1
+327,Elattaria,fresh rosy odor@rose odor,1
+327,Elattaria,fruity,1
+327,Elattaria,fruity odor,1
+327,Elattaria,fruity odor@characteristic odor,1
+327,Elattaria,fruity odor@fruity with a brandy note,1
+327,Elattaria,fruity odor@resemble orange flowers,1
+327,Elattaria,fruity-acid odor@unpleasant and irritating odor@slight odor,1
+327,Elattaria,fruity-floral,1
+327,Elattaria,fruity@characteristic odor similar to acetaldehyde@pungent,1
+327,Elattaria,gasoline-like odor,1
+327,Elattaria,green grass odor@sharp,1
+327,Elattaria,has a weak citrus odor,1
+327,Elattaria,hydrocarbon odor,1
+327,Elattaria,intense lemon-citronella-rose odor,1
+327,Elattaria,it has a warm,1
+327,Elattaria,like almond@... bitter,1
+327,Elattaria,like oil of bay,1
+327,Elattaria,lilac,1
+327,Elattaria,mint- or acetone-like odor,1
+327,Elattaria,minty lime oil odor,1
+327,Elattaria,mustard-like odor,1
+327,Elattaria,musty odor@odor like that of amyl alcohol,1
+327,Elattaria,odor of lavender@sweet,1
+327,Elattaria,odor of rotten cabbage@sulfidy@powerful,1
+327,Elattaria,odor of thyme@a spicy-herbal,1
+327,Elattaria,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral,1
+327,Elattaria,odorless@weak unpleasant odor@available forms have very slightly acrid odor,1
+327,Elattaria,oily@weak citrus-lime odor,1
+327,Elattaria,or having an odor resembling that of ozone@... slightly sharp odor ...,1
+327,Elattaria,orange-rose odor@floral,1
+327,Elattaria,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor,1
+327,Elattaria,peculiar lard-like odor,1
+327,Elattaria,peculiar odor,1
+327,Elattaria,penetrating fruity odor@characteristic banana,1
+327,Elattaria,peppermint odor /dl-menthol/@cooling odor /89-78-1/,1
+327,Elattaria,pine,1
+327,Elattaria,piney,1
+327,Elattaria,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like,1
+327,Elattaria,pleasant odor,1
+327,Elattaria,pleasant@terpene odor,1
+327,Elattaria,pungent odor,1
+327,Elattaria,pungent odor@penetrating fruity odor,1
+327,Elattaria,pungent odor@strong,1
+327,Elattaria,pungent@moderately sharp,1
+327,Elattaria,quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor,1
+327,Elattaria,rancid odor,1
+327,Elattaria,rancid odor@faint tallow-like odor when spectroscopically pure.,1
+327,Elattaria,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet,1
+327,Elattaria,reminiscent of violets,1
+327,Elattaria,rosy,1
+327,Elattaria,"rosy refreshing and wet"" seashore""",1
+327,Elattaria,sharp persistent odor,1
+327,Elattaria,slight,1
+327,Elattaria,slightly medicinal odor reminiscent of thyme@aromatic odor,1
+327,Elattaria,slightly pungent disagreeable,1
+327,Elattaria,slightly spicy odor@banana-like fruity odor,1
+327,Elattaria,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet,1
+327,Elattaria,somewhat like peppermint,1
+327,Elattaria,somewhat resembling the odor of benzaldehyde@... almond-like odor ...,1
+327,Elattaria,spice-clove odor,1
+327,Elattaria,spicy,1
+327,Elattaria,spicy note@strong odor of cinnamon,1
+327,Elattaria,strong,1
+327,Elattaria,strong odor,1
+327,Elattaria,suffocating,1
+327,Elattaria,sweet,1
+327,Elattaria,sweet odor@floral,1
+327,Elattaria,sweet rose odor@pleasant geranium-like odor@pleasant,1
+327,Elattaria,sweet rose@the odor of pure nerol is sweet,1
+327,Elattaria,sweetish aromatic odor@mild pleasant odor@when pure,1
+327,Elattaria,sweetish smell@pleasant aromatic vanilla odor,1
+327,Elattaria,synthetic acid is odorless,1
+327,Elattaria,the odor should be faint with no rancidity.,1
+327,Elattaria,turpentine-like odor@terpene odor,1
+327,Elattaria,unpleasant odor@disagreeable odor like garlic@pungent,1
+327,Elattaria,unpleasant@choking odor,1
+327,Elattaria,waxy,1
+327,Elattaria,wine-like,1
+327,Elattaria,wood odor@flowery-fresh odor and reminiscent of lily of the valley,1
+327,Elattaria,woody,1
+327,Elattaria,woody or resinous aroma@piney,1
+331,Syzygium,fatty,3
+331,Syzygium,floral odor,3
+331,Syzygium,odorless,3
+331,Syzygium,pungent,3
+331,Syzygium,characteristic,2
+331,Syzygium,floral,2
+331,Syzygium,fruity,2
+331,Syzygium,fruity odor,2
+331,Syzygium,odor of hyacinth@pleasant,2
+331,Syzygium,pleasant,2
+331,Syzygium,powerful,2
+331,Syzygium,slight,2
+331,Syzygium,slight peppermint odor@characteristic odor similar to menthol,2
+331,Syzygium,spicy,2
+331,Syzygium,strong lemon odor,2
+331,Syzygium,...floral-fruity odor,1
+331,Syzygium,acetone odor,1
+331,Syzygium,acetone-like odor@sweet,1
+331,Syzygium,acrid odor,1
+331,Syzygium,aldehyde odor,1
+331,Syzygium,almond-like odor.,1
+331,Syzygium,almost floral odor when highly purified,1
+331,Syzygium,also similar to cananga@medicinal odor,1
+331,Syzygium,and orange-like odor,1
+331,Syzygium,anise oil odor,1
+331,Syzygium,apple-like odor@powerful penetrating,1
+331,Syzygium,aromatic odor,1
+331,Syzygium,aromatic odor@odor of mothballs@characteritic odor (plates),1
+331,Syzygium,bitter,1
+331,Syzygium,burnt sweet@hot fat@disagreeable choking odor,1
+331,Syzygium,but more pungent,1
+331,Syzygium,buttery,1
+331,Syzygium,carnation odor,1
+331,Syzygium,characteristic acetone like odor,1
+331,Syzygium,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like,1
+331,Syzygium,characteristic fruity odor (on dilution)@strong,1
+331,Syzygium,characteristic odor of pine@odor of turpentine,1
+331,Syzygium,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond,1
+331,Syzygium,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.,1
+331,Syzygium,characteristic sweetish,1
+331,Syzygium,characteristic turpentine odor@dry,1
+331,Syzygium,citrus odor,1
+331,Syzygium,decayed cabbage.,1
+331,Syzygium,delicate flowery odor@mild,1
+331,Syzygium,disagreeable,1
+331,Syzygium,disagreeable odor@disagreeable odor.,1
+331,Syzygium,distinctive ethereal odor,1
+331,Syzygium,extremely sharp@extremely acrid,1
+331,Syzygium,extremely sharp@pungent odor,1
+331,Syzygium,faint aromatic odor,1
+331,Syzygium,faint burning odor,1
+331,Syzygium,faint pleasant aromatic odor,1
+331,Syzygium,fish-like odor when warm,1
+331,Syzygium,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.,1
+331,Syzygium,floral-fruity odor recalling bergamot and pear.,1
+331,Syzygium,fragrant,1
+331,Syzygium,fragrant odor,1
+331,Syzygium,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor,1
+331,Syzygium,fragrant odor@fruity odor,1
+331,Syzygium,fresh and light,1
+331,Syzygium,fresh orange rose odor@penetrating aromatic odor,1
+331,Syzygium,fruity (unripe apple)@pleasant,1
+331,Syzygium,fruity odor reminiscent of jasmin,1
+331,Syzygium,fruity odor@characteristic odor,1
+331,Syzygium,fruity odor@fruity with a brandy note,1
+331,Syzygium,fruity-floral,1
+331,Syzygium,fruity@characteristic odor similar to acetaldehyde@pungent,1
+331,Syzygium,gardenia,1
+331,Syzygium,green,1
+331,Syzygium,green cheese aroma@floral,1
+331,Syzygium,green grass odor@sharp,1
+331,Syzygium,like almond@... bitter,1
+331,Syzygium,lilac,1
+331,Syzygium,lily and other flowers.,1
+331,Syzygium,liquid having the characteristic odor of wintergreen,1
+331,Syzygium,mild-spicy,1
+331,Syzygium,mint- or acetone-like odor,1
+331,Syzygium,muguet,1
+331,Syzygium,mustard-like odor,1
+331,Syzygium,odor of cloves@warm,1
+331,Syzygium,odor of lavender@sweet,1
+331,Syzygium,odor of rotten cabbage@sulfidy@powerful,1
+331,Syzygium,odor of thyme@a spicy-herbal,1
+331,Syzygium,odor reminiscent of anise (differing from anethole),1
+331,Syzygium,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral,1
+331,Syzygium,odorless or with a slight benzaldehyde odor@faint,1
+331,Syzygium,odorless@weak unpleasant odor@available forms have very slightly acrid odor,1
+331,Syzygium,oily@weak citrus-lime odor,1
+331,Syzygium,or having an odor resembling that of ozone@... slightly sharp odor ...,1
+331,Syzygium,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor,1
+331,Syzygium,pear-like odor@characteristic flowery (jasmine) odor@powerful but thin,1
+331,Syzygium,peculiar odor,1
+331,Syzygium,penetrating fruity odor@characteristic banana,1
+331,Syzygium,peppermint odor /dl-menthol/@cooling odor /89-78-1/,1
+331,Syzygium,pine,1
+331,Syzygium,pleasant odor,1
+331,Syzygium,pleasant odor@fragrant,1
+331,Syzygium,pleasant@terpene odor,1
+331,Syzygium,pungent odor of acacia@orange blossom or jasmine-like,1
+331,Syzygium,pungent odor@penetrating fruity odor,1
+331,Syzygium,pungent@moderately sharp,1
+331,Syzygium,quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor,1
+331,Syzygium,rancid odor@faint tallow-like odor when spectroscopically pure.,1
+331,Syzygium,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet,1
+331,Syzygium,rosy,1
+331,Syzygium,sharp persistent odor,1
+331,Syzygium,slightly herbal odor@clove,1
+331,Syzygium,slightly medicinal odor reminiscent of thyme@aromatic odor,1
+331,Syzygium,slightly spicy odor@banana-like fruity odor,1
+331,Syzygium,soln of good grades are practically odorless@almost odorless,1
+331,Syzygium,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet,1
+331,Syzygium,somewhat like peppermint,1
+331,Syzygium,somewhat resembling the odor of benzaldehyde@... almond-like odor ...,1
+331,Syzygium,spice-clove odor,1
+331,Syzygium,spicy note@strong odor of cinnamon,1
+331,Syzygium,strong,1
+331,Syzygium,strong odor,1
+331,Syzygium,suffocating,1
+331,Syzygium,sweet,1
+331,Syzygium,sweet floral fresh,1
+331,Syzygium,sweet rose odor@pleasant geranium-like odor@pleasant,1
+331,Syzygium,sweetish smell@pleasant aromatic vanilla odor,1
+331,Syzygium,synthetic acid is odorless,1
+331,Syzygium,thymol odor@medicinal smoke odor,1
+331,Syzygium,turpentine-like odor@terpene odor,1
+331,Syzygium,unpleasant odor@disagreeable odor like garlic@pungent,1
+331,Syzygium,unpleasant@choking odor,1
+331,Syzygium,winey,1
+331,Syzygium,wood odor@flowery-fresh odor and reminiscent of lily of the valley,1
+331,Syzygium,woody or resinous aroma@piney,1
+333,Zingiber,characteristic,4
+333,Zingiber,sweet,4
+333,Zingiber,camphor-like odor,3
+333,Zingiber,floral odor,3
+333,Zingiber,odorless,3
+333,Zingiber,piney,3
+333,Zingiber,pungent,3
+333,Zingiber,citrus odor,2
+333,Zingiber,fatty,2
+333,Zingiber,floral,2
+333,Zingiber,fragrant,2
+333,Zingiber,fruity,2
+333,Zingiber,fruity odor,2
+333,Zingiber,gasoline-like odor,2
+333,Zingiber,green,2
+333,Zingiber,odor of hyacinth@pleasant,2
+333,Zingiber,pleasant,2
+333,Zingiber,pleasant odor,2
+333,Zingiber,powerful,2
+333,Zingiber,slight,2
+333,Zingiber,slight peppermint odor@characteristic odor similar to menthol,2
+333,Zingiber,strong,2
+333,Zingiber,strong lemon odor,2
+333,Zingiber,waxy,2
+333,Zingiber,acetone odor,1
+333,Zingiber,acetone-like odor@sweet,1
+333,Zingiber,acrid odor,1
+333,Zingiber,aldehyde odor,1
+333,Zingiber,almond-like odor.,1
+333,Zingiber,almost floral odor when highly purified,1
+333,Zingiber,also similar to cananga@medicinal odor,1
+333,Zingiber,and fruity odor@odor reminiscent of cedar wood@violet-like upon dilution,1
+333,Zingiber,and orange-like odor,1
+333,Zingiber,anise oil odor,1
+333,Zingiber,apple-like odor@powerful penetrating,1
+333,Zingiber,banana,1
+333,Zingiber,burnt sweet@hot fat@disagreeable choking odor,1
+333,Zingiber,but aromatic,1
+333,Zingiber,but pleasant banana-like odor.@sweet fruity smell,1
+333,Zingiber,but weaker@penetrating,1
+333,Zingiber,buttery,1
+333,Zingiber,camphoraceous,1
+333,Zingiber,camphoraceous odor,1
+333,Zingiber,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like,1
+333,Zingiber,characteristic fruity odor (on dilution)@strong,1
+333,Zingiber,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor,1
+333,Zingiber,characteristic odor of pine@odor of turpentine,1
+333,Zingiber,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond,1
+333,Zingiber,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.,1
+333,Zingiber,characteristic sweetish,1
+333,Zingiber,characteristic turpentine odor@dry,1
+333,Zingiber,characteristic@sweet alcohol@pleasant,1
+333,Zingiber,characteristically disagreeable,1
+333,Zingiber,citrus,1
+333,Zingiber,cooling,1
+333,Zingiber,decayed cabbage.,1
+333,Zingiber,delicate flowery odor@mild,1
+333,Zingiber,disagreeable,1
+333,Zingiber,disagreeable odor@disagreeable odor.,1
+333,Zingiber,disagreeable odor@suffocating odor of fusel oil@slightly suffocating@nonresidual alcoholic,1
+333,Zingiber,discernable at 0.5 to 5 ppm@sweet,1
+333,Zingiber,distinct aromatic,1
+333,Zingiber,distinctive ethereal odor,1
+333,Zingiber,dry,1
+333,Zingiber,extremely sharp@extremely acrid,1
+333,Zingiber,extremely sharp@pungent odor,1
+333,Zingiber,faint,1
+333,Zingiber,faint aromatic odor,1
+333,Zingiber,faint pleasant aromatic odor,1
+333,Zingiber,fish-like odor when warm,1
+333,Zingiber,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.,1
+333,Zingiber,floral odor@odor of citronella oil,1
+333,Zingiber,floral-fatty odor@citrus odor@similar to that of an orange peel@penetrating,1
+333,Zingiber,fragrant and penetrating odor@penetrating aromatic odor,1
+333,Zingiber,fragrant odor,1
+333,Zingiber,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor,1
+333,Zingiber,fragrant odor@fruity odor,1
+333,Zingiber,fresh orange rose odor@penetrating aromatic odor,1
+333,Zingiber,fresh pungent odor,1
+333,Zingiber,fresh rosy odor@rose odor,1
+333,Zingiber,fruity odor@characteristic odor,1
+333,Zingiber,fruity odor@fruity with a brandy note,1
+333,Zingiber,fruity-acid odor@unpleasant and irritating odor@slight odor,1
+333,Zingiber,fruity-floral,1
+333,Zingiber,fruity@characteristic odor similar to acetaldehyde@pungent,1
+333,Zingiber,garlic-like odor@ethereal odor,1
+333,Zingiber,gasoline-like,1
+333,Zingiber,green grass odor@sharp,1
+333,Zingiber,has a strong vinous odor@sweet@wine odor liquid@strong,1
+333,Zingiber,has a weak citrus odor,1
+333,Zingiber,highly volatile with a pungent odor,1
+333,Zingiber,intense lemon-citronella-rose odor,1
+333,Zingiber,ketonic and camphor odor,1
+333,Zingiber,like almond@... bitter,1
+333,Zingiber,like oil of bay,1
+333,Zingiber,lilac,1
+333,Zingiber,mild fruity odor,1
+333,Zingiber,mint- or acetone-like odor,1
+333,Zingiber,mustard-like odor,1
+333,Zingiber,musty odor@odor like that of amyl alcohol,1
+333,Zingiber,odor of lavender@sweet,1
+333,Zingiber,odor of rotten cabbage@sulfidy@powerful,1
+333,Zingiber,odor of thyme@a spicy-herbal,1
+333,Zingiber,odor reminiscent of anise (differing from anethole),1
+333,Zingiber,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral,1
+333,Zingiber,odorless@weak unpleasant odor@available forms have very slightly acrid odor,1
+333,Zingiber,oily@weak citrus-lime odor,1
+333,Zingiber,or having an odor resembling that of ozone@... slightly sharp odor ...,1
+333,Zingiber,orange-rose odor@floral,1
+333,Zingiber,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor,1
+333,Zingiber,pear-like odor@fruity,1
+333,Zingiber,peculiar lard-like odor,1
+333,Zingiber,peculiar odor,1
+333,Zingiber,penetrating fruity odor@characteristic banana,1
+333,Zingiber,peppermint odor /dl-menthol/@cooling odor /89-78-1/,1
+333,Zingiber,pine,1
+333,Zingiber,pine odor@pine-like aroma,1
+333,Zingiber,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like,1
+333,Zingiber,pleasant odor reminiscent of that of tea roses and faintly of violets.,1
+333,Zingiber,pleasant odor@faint,1
+333,Zingiber,pleasant odor@fragrant,1
+333,Zingiber,pleasant@terpene odor,1
+333,Zingiber,powerful odor@at room temperature,1
+333,Zingiber,pronounced fatty odor that develops a floral character on dilution,1
+333,Zingiber,pungent odor reminiscent of ginger@sweet,1
+333,Zingiber,pungent odor@penetrating fruity odor,1
+333,Zingiber,pungent@moderately sharp,1
+333,Zingiber,quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor,1
+333,Zingiber,rancid odor@faint tallow-like odor when spectroscopically pure.,1
+333,Zingiber,rose-like odor@floral@mild,1
+333,Zingiber,rosy,1
+333,Zingiber,"rosy refreshing and wet"" seashore""",1
+333,Zingiber,sharp persistent odor,1
+333,Zingiber,similar to ethanol@odor perception threshold: <@0.07-100 mg/cu-m@odor recognition threshold: 0.32-150 mg/cu m,1
+333,Zingiber,slightly medicinal odor reminiscent of thyme@aromatic odor,1
+333,Zingiber,slightly spicy odor@banana-like fruity odor,1
+333,Zingiber,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet,1
+333,Zingiber,somewhat like peppermint,1
+333,Zingiber,somewhat resembling the odor of benzaldehyde@... almond-like odor ...,1
+333,Zingiber,somewhat sickening sweet and acrid odor,1
+333,Zingiber,spice-clove odor,1
+333,Zingiber,spicy,1
+333,Zingiber,spicy aroma,1
+333,Zingiber,spicy note@strong odor of cinnamon,1
+333,Zingiber,strong odor,1
+333,Zingiber,suffocating,1
+333,Zingiber,sweet rose odor@pleasant geranium-like odor@pleasant,1
+333,Zingiber,sweet rose@the odor of pure nerol is sweet,1
+333,Zingiber,sweetish aromatic odor@mild pleasant odor@when pure,1
+333,Zingiber,sweetish smell@pleasant aromatic vanilla odor,1
+333,Zingiber,synthetic acid is odorless,1
+333,Zingiber,tarry odor@somewhat sickeningly sweet and acrid,1
+333,Zingiber,the low molecular- weight ester isoamyl acetate (iaa)... is a liquid with an intense,1
+333,Zingiber,thymol odor@medicinal smoke odor,1
+333,Zingiber,turpentine-like odor@terpene odor,1
+333,Zingiber,unpleasant odor@disagreeable odor like garlic@pungent,1
+333,Zingiber,unpleasant@choking odor,1
+333,Zingiber,warm woody,1
+333,Zingiber,wine-like,1
+333,Zingiber,winey,1
+333,Zingiber,wood odor@flowery-fresh odor and reminiscent of lily of the valley,1
+333,Zingiber,woody,1
+333,Zingiber,woody or resinous aroma@piney,1
+333,Zingiber,woody-earthy,1

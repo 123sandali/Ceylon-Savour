@@ -1,0 +1,8 @@
+﻿area,finding
+Foundation food population,"Foundation completeness and normalized outputs use only actual Foundation Food records selected through foundation_food.csv, with a data_type fallback."
+FNDDS nutrient identifier,The FNDDS food_nutrient.nutrient_id values are resolved against nutrient.nutrient_nbr. The nutrient master ID and source join value are both retained.
+Relationship validation,"Relationships are validated using matched and unmatched values, null keys, duplicate parent keys, and a threshold; column existence alone is not treated as valid."
+Observed nutrient counts,Dataset interpretation separates nutrient master-table size from nutrients actually observed in food_nutrient.
+Duplicate nutrient combinations,Duplicate Foundation fdc_id + nutrient_id combinations are retained for manual inspection. Normalized target values use the documented mean aggregation.
+FNDDS ingredients,"FNDDS input_food.csv is included as an international ingredient-reference source, but it is not a complete or authoritative ingredient source for Sri Lankan dishes."
+CeylonSavour use,"USDA supports nutrient standards, portions, categories, and international reference matching. Sri Lankan taste profiles, authenticity, regional relevance, dietary/allergen validation, and tourist friendliness require separate collection."

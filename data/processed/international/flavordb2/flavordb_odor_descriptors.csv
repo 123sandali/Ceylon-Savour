@@ -1,0 +1,830 @@
+﻿entity_id,ingredient_name,molecule_pubchem_id,molecule_name,odor_descriptor
+327,Elattaria,323,coumarin,pleasant
+327,Elattaria,323,coumarin,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor
+327,Elattaria,6989,Thymol,odor of thyme@a spicy-herbal
+327,Elattaria,6989,Thymol,slightly medicinal odor reminiscent of thyme@aromatic odor
+327,Elattaria,7150,Methyl Benzoate,fragrant odor@fruity odor
+327,Elattaria,7150,Methyl Benzoate,also similar to cananga@medicinal odor
+327,Elattaria,637566,Geraniol,sweet rose odor@pleasant geranium-like odor@pleasant
+327,Elattaria,637566,Geraniol,floral odor
+327,Elattaria,878,methanethiol,odor of rotten cabbage@sulfidy@powerful
+327,Elattaria,878,methanethiol,unpleasant odor@disagreeable odor like garlic@pungent
+327,Elattaria,878,methanethiol,decayed cabbage.
+327,Elattaria,240,benzaldehyde,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond
+327,Elattaria,244,benzyl alcohol,faint aromatic odor
+327,Elattaria,17100,alpha-TERPINEOL,floral
+327,Elattaria,17100,alpha-TERPINEOL,lilac
+327,Elattaria,8842,Citronellol,fresh rosy odor@rose odor
+327,Elattaria,6184,Hexanal,characteristic fruity odor (on dilution)@strong
+327,Elattaria,6184,Hexanal,green grass odor@sharp
+327,Elattaria,6184,Hexanal,aldehyde odor
+327,Elattaria,957,1-octanol,fresh orange rose odor@penetrating aromatic odor
+327,Elattaria,8094,Heptanoic Acid,disagreeable
+327,Elattaria,8094,Heptanoic Acid,rancid odor@faint tallow-like odor when spectroscopically pure.
+327,Elattaria,338,salicylic acid,synthetic acid is odorless
+327,Elattaria,11005,Tetradecanoic acid,the odor should be faint with no rancidity.
+327,Elattaria,1183,vanillin,sweetish smell@pleasant aromatic vanilla odor
+327,Elattaria,5280511,(Z)-cinnamyl alcohol,odor of hyacinth@pleasant
+327,Elattaria,5280511,(Z)-cinnamyl alcohol,floral odor
+327,Elattaria,14896,Beta-Pinene,characteristic turpentine odor@dry
+327,Elattaria,14896,Beta-Pinene,woody or resinous aroma@piney
+327,Elattaria,14896,Beta-Pinene,turpentine-like odor@terpene odor
+327,Elattaria,5315892,cinnamyl alcohol,odor of hyacinth@pleasant
+327,Elattaria,5315892,cinnamyl alcohol,floral odor
+327,Elattaria,784,hydrogen peroxide,odorless
+327,Elattaria,784,hydrogen peroxide,or having an odor resembling that of ozone@... slightly sharp odor ...
+327,Elattaria,853433,Isoeugenol,spice-clove odor
+327,Elattaria,2758,Eucalyptol,camphor-like odor
+327,Elattaria,999,Phenylacetic Acid,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.
+327,Elattaria,637511,cinnamaldehyde,pungent
+327,Elattaria,637511,cinnamaldehyde,spicy note@strong odor of cinnamon
+327,Elattaria,8063,Pentanal,powerful
+327,Elattaria,8063,Pentanal,acrid
+327,Elattaria,8063,Pentanal,pungent odor@strong
+327,Elattaria,8063,Pentanal,acrid
+327,Elattaria,8063,Pentanal,pungent odor
+327,Elattaria,8452,Cyclopentanone,distinctive ethereal odor
+327,Elattaria,8452,Cyclopentanone,somewhat like peppermint
+327,Elattaria,6986,2-Isopropyl-5-methylcyclohexanone,slight peppermint odor@characteristic odor similar to menthol
+327,Elattaria,8051,2-Heptanone,penetrating fruity odor@characteristic banana
+327,Elattaria,8051,2-Heptanone,slightly spicy odor@banana-like fruity odor
+327,Elattaria,6054,2-Phenylethanol,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.
+327,Elattaria,11230,Terpinen-4-ol,pine
+327,Elattaria,439263,(+)-Neomenthol,peppermint odor /dl-menthol/@cooling odor /89-78-1/
+327,Elattaria,1110,succinic acid,odorless
+327,Elattaria,31289,Nonanal,orange-rose odor@floral
+327,Elattaria,31289,Nonanal,waxy
+327,Elattaria,31289,Nonanal,green
+327,Elattaria,3893,lauric acid,characteristic
+327,Elattaria,3893,lauric acid,like oil of bay
+327,Elattaria,379,octanoic acid,faint
+327,Elattaria,379,octanoic acid,fruity-acid odor@unpleasant and irritating odor@slight odor
+327,Elattaria,159055,D-Camphor,fragrant and penetrating odor@penetrating aromatic odor
+327,Elattaria,1130,thiamine,slight
+327,Elattaria,1130,thiamine,characteristic
+327,Elattaria,31260,3-Methyl-1-butanol,characteristic
+327,Elattaria,31260,3-Methyl-1-butanol,disagreeable odor@disagreeable odor.
+327,Elattaria,527,Propionaldehyde,suffocating
+327,Elattaria,527,Propionaldehyde,fruity@characteristic odor similar to acetaldehyde@pungent
+327,Elattaria,527,Propionaldehyde,unpleasant@choking odor
+327,Elattaria,12388,Tridecane,hydrocarbon odor
+327,Elattaria,7847,Acrolein,extremely sharp@extremely acrid
+327,Elattaria,7847,Acrolein,pungent
+327,Elattaria,7847,Acrolein,burnt sweet@hot fat@disagreeable choking odor
+327,Elattaria,798,indole,almost floral odor when highly purified
+327,Elattaria,798,indole,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor
+327,Elattaria,6050,Tributyrin,fruity
+327,Elattaria,6050,Tributyrin,buttery
+327,Elattaria,650,"2,3-butanedione",quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor
+327,Elattaria,7794,Citronellal,intense lemon-citronella-rose odor
+327,Elattaria,5282108,Alpha-Ionone,it has a warm
+327,Elattaria,5282108,Alpha-Ionone,woody
+327,Elattaria,5282108,Alpha-Ionone,floral odor with balsamic and sweet tones and is strongly reminiscent of violet flowers.@sweet-floral odor
+327,Elattaria,5282108,Alpha-Ionone,reminiscent of violets
+327,Elattaria,1032,propionic acid,slightly pungent disagreeable
+327,Elattaria,1032,propionic acid,rancid odor
+327,Elattaria,643820,nerol,sweet rose@the odor of pure nerol is sweet
+327,Elattaria,643820,nerol,"rosy refreshing and wet"" seashore"""
+327,Elattaria,11552,3-Methylbutanal,apple-like odor@powerful penetrating
+327,Elattaria,11552,3-Methylbutanal,acrid odor
+327,Elattaria,445070,farnesol,delicate flowery odor@mild
+327,Elattaria,445070,farnesol,oily@weak citrus-lime odor
+327,Elattaria,638011,Citral,strong lemon odor
+327,Elattaria,6560,2-Methyl-1-propanol,sweet
+327,Elattaria,6560,2-Methyl-1-propanol,musty odor@odor like that of amyl alcohol
+327,Elattaria,6560,2-Methyl-1-propanol,but weaker@penetrating
+327,Elattaria,6560,2-Methyl-1-propanol,wine-like
+327,Elattaria,6560,2-Methyl-1-propanol,disagreeable odor@suffocating odor of fusel oil@slightly suffocating@nonresidual alcoholic
+327,Elattaria,5367719,Methyl jasmonate,sharp persistent odor
+327,Elattaria,89594,nicotine,fish-like odor when warm
+327,Elattaria,6616,Camphene,camphoraceous
+327,Elattaria,6616,Camphene,cooling
+327,Elattaria,6616,Camphene,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like
+327,Elattaria,8103,1-Hexanol,characteristic@sweet alcohol@pleasant
+327,Elattaria,8129,1-Heptanol,fragrant@faint
+327,Elattaria,8129,1-Heptanol,aromatic
+327,Elattaria,8129,1-Heptanol,fatty
+327,Elattaria,10106,"1,4-Cineole",minty lime oil odor
+327,Elattaria,22311,Dipentene,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor
+327,Elattaria,64685,Borneol,piney
+327,Elattaria,64685,Borneol,camphor-like odor
+327,Elattaria,8914,1-Nonanol,floral odor@odor of citronella oil
+327,Elattaria,6251,D-mannitol,odorless
+327,Elattaria,8900,Heptane,gasoline-like odor
+327,Elattaria,8294,Linalyl Acetate,...floral-fruity odor
+327,Elattaria,8294,Linalyl Acetate,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet
+327,Elattaria,8294,Linalyl Acetate,floral-fruity odor recalling bergamot and pear.
+327,Elattaria,26447,Menthone,slight peppermint odor@characteristic odor similar to menthol
+327,Elattaria,1549026,Geranyl Acetate,odor of lavender@sweet
+327,Elattaria,1549026,Geranyl Acetate,fruity-floral
+327,Elattaria,1549026,Geranyl Acetate,rosy
+327,Elattaria,1549026,Geranyl Acetate,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet
+327,Elattaria,1549026,Geranyl Acetate,fragrant odor
+327,Elattaria,7858,Allyl Alcohol,pungent
+327,Elattaria,7858,Allyl Alcohol,mustard-like odor
+327,Elattaria,11142,Beta-Phellandrene,pleasant odor
+327,Elattaria,6561,Isobutyraldehyde,extremely sharp@pungent odor
+327,Elattaria,7463,P-Cymene,sweetish aromatic odor@mild pleasant odor@when pure
+327,Elattaria,7463,P-Cymene,has a weak citrus odor
+327,Elattaria,9862,6-Methyl-5-Hepten-2-One,powerful
+327,Elattaria,9862,6-Methyl-5-Hepten-2-One,fatty
+327,Elattaria,9862,6-Methyl-5-Hepten-2-One,green
+327,Elattaria,9862,6-Methyl-5-Hepten-2-One,citrus odor
+327,Elattaria,454,Octanal,strong
+327,Elattaria,454,Octanal,fruity odor
+327,Elattaria,768,hydrogen cyanide,characteristic sweetish
+327,Elattaria,768,hydrogen cyanide,like almond@... bitter
+327,Elattaria,768,hydrogen cyanide,almond-like odor.
+327,Elattaria,2345,Benzyl Benzoate,faint pleasant aromatic odor
+327,Elattaria,8174,1-Decanol,sweet odor@floral
+327,Elattaria,8174,1-Decanol,fruity odor@resemble orange flowers
+327,Elattaria,12534,Tricosane,odorless
+327,Elattaria,445639,oleic acid,peculiar lard-like odor
+327,Elattaria,8857,Ethyl Acetate,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like
+327,Elattaria,8857,Ethyl Acetate,fruity odor@fruity with a brandy note
+327,Elattaria,643779,Neral,strong lemon odor
+327,Elattaria,7362,2-Furaldehyde,peculiar odor
+327,Elattaria,7362,2-Furaldehyde,somewhat resembling the odor of benzaldehyde@... almond-like odor ...
+327,Elattaria,8163,2-Undecanone,strong odor
+327,Elattaria,7288,3-Pentanone,acetone odor
+327,Elattaria,440917,D-Limonene,citrus odor
+327,Elattaria,31253,Myrcene,pleasant@terpene odor
+327,Elattaria,8130,Heptanal,fatty
+327,Elattaria,8130,Heptanal,pungent odor@penetrating fruity odor
+327,Elattaria,6654,Alpha-Pinene,characteristic odor of pine@odor of turpentine
+327,Elattaria,180,acetone,fruity odor@characteristic odor
+327,Elattaria,6569,2-Butanone,acetone-like odor@sweet
+327,Elattaria,6569,2-Butanone,pleasant
+327,Elattaria,6569,2-Butanone,pungent@moderately sharp
+327,Elattaria,6569,2-Butanone,fragrant
+327,Elattaria,6569,2-Butanone,mint- or acetone-like odor
+327,Elattaria,61503,D-Lactic acid,odorless@weak unpleasant odor@available forms have very slightly acrid odor
+327,Elattaria,6549,Linalool,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral
+327,Elattaria,6549,Linalool,spicy
+327,Elattaria,6549,Linalool,wood odor@flowery-fresh odor and reminiscent of lily of the valley
+330,Cinnamomum,323,coumarin,pleasant
+330,Cinnamomum,323,coumarin,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor
+330,Cinnamomum,6989,Thymol,odor of thyme@a spicy-herbal
+330,Cinnamomum,6989,Thymol,slightly medicinal odor reminiscent of thyme@aromatic odor
+330,Cinnamomum,7150,Methyl Benzoate,fragrant odor@fruity odor
+330,Cinnamomum,7150,Methyl Benzoate,also similar to cananga@medicinal odor
+330,Cinnamomum,637566,Geraniol,sweet rose odor@pleasant geranium-like odor@pleasant
+330,Cinnamomum,637566,Geraniol,floral odor
+330,Cinnamomum,11463,Terpinolene,sweet
+330,Cinnamomum,11463,Terpinolene,pine odor@pine-like aroma
+330,Cinnamomum,878,methanethiol,odor of rotten cabbage@sulfidy@powerful
+330,Cinnamomum,878,methanethiol,unpleasant odor@disagreeable odor like garlic@pungent
+330,Cinnamomum,878,methanethiol,decayed cabbage.
+330,Cinnamomum,3314,eugenol,odor of cloves@warm
+330,Cinnamomum,3314,eugenol,spicy
+330,Cinnamomum,3314,eugenol,floral
+330,Cinnamomum,240,benzaldehyde,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond
+330,Cinnamomum,244,benzyl alcohol,faint aromatic odor
+330,Cinnamomum,17100,alpha-TERPINEOL,floral
+330,Cinnamomum,17100,alpha-TERPINEOL,lilac
+330,Cinnamomum,6184,Hexanal,characteristic fruity odor (on dilution)@strong
+330,Cinnamomum,6184,Hexanal,green grass odor@sharp
+330,Cinnamomum,6184,Hexanal,aldehyde odor
+330,Cinnamomum,8094,Heptanoic Acid,disagreeable
+330,Cinnamomum,8094,Heptanoic Acid,rancid odor@faint tallow-like odor when spectroscopically pure.
+330,Cinnamomum,338,salicylic acid,synthetic acid is odorless
+330,Cinnamomum,1183,vanillin,sweetish smell@pleasant aromatic vanilla odor
+330,Cinnamomum,5280511,(Z)-cinnamyl alcohol,odor of hyacinth@pleasant
+330,Cinnamomum,5280511,(Z)-cinnamyl alcohol,floral odor
+330,Cinnamomum,14896,Beta-Pinene,characteristic turpentine odor@dry
+330,Cinnamomum,14896,Beta-Pinene,woody or resinous aroma@piney
+330,Cinnamomum,14896,Beta-Pinene,turpentine-like odor@terpene odor
+330,Cinnamomum,5315892,cinnamyl alcohol,odor of hyacinth@pleasant
+330,Cinnamomum,5315892,cinnamyl alcohol,floral odor
+330,Cinnamomum,784,hydrogen peroxide,odorless
+330,Cinnamomum,784,hydrogen peroxide,or having an odor resembling that of ozone@... slightly sharp odor ...
+330,Cinnamomum,853433,Isoeugenol,spice-clove odor
+330,Cinnamomum,2758,Eucalyptol,camphor-like odor
+330,Cinnamomum,6998,Salicylaldehyde,bitter almond-like odor@pungent
+330,Cinnamomum,6998,Salicylaldehyde,irritating odor similar to benzenaldehyde
+330,Cinnamomum,6998,Salicylaldehyde,acetophenone
+330,Cinnamomum,6998,Salicylaldehyde,& nitrobenzene
+330,Cinnamomum,6998,Salicylaldehyde,but with phenolic notes@phenolic odor
+330,Cinnamomum,999,Phenylacetic Acid,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.
+330,Cinnamomum,637511,cinnamaldehyde,pungent
+330,Cinnamomum,637511,cinnamaldehyde,spicy note@strong odor of cinnamon
+330,Cinnamomum,8452,Cyclopentanone,distinctive ethereal odor
+330,Cinnamomum,8452,Cyclopentanone,somewhat like peppermint
+330,Cinnamomum,6986,2-Isopropyl-5-methylcyclohexanone,slight peppermint odor@characteristic odor similar to menthol
+330,Cinnamomum,335,o-cresol,phenolic odor@sweet
+330,Cinnamomum,335,o-cresol,tarry odor
+330,Cinnamomum,8051,2-Heptanone,penetrating fruity odor@characteristic banana
+330,Cinnamomum,8051,2-Heptanone,slightly spicy odor@banana-like fruity odor
+330,Cinnamomum,6054,2-Phenylethanol,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.
+330,Cinnamomum,11230,Terpinen-4-ol,pine
+330,Cinnamomum,439263,(+)-Neomenthol,peppermint odor /dl-menthol/@cooling odor /89-78-1/
+330,Cinnamomum,1110,succinic acid,odorless
+330,Cinnamomum,31289,Nonanal,orange-rose odor@floral
+330,Cinnamomum,31289,Nonanal,waxy
+330,Cinnamomum,31289,Nonanal,green
+330,Cinnamomum,1549018,cis-Jasmone,odor of jasmine@woody
+330,Cinnamomum,1549018,cis-Jasmone,herbal and floral
+330,Cinnamomum,1549018,cis-Jasmone,with a citrus nuance
+330,Cinnamomum,159055,D-Camphor,fragrant and penetrating odor@penetrating aromatic odor
+330,Cinnamomum,31260,3-Methyl-1-butanol,characteristic
+330,Cinnamomum,31260,3-Methyl-1-butanol,disagreeable odor@disagreeable odor.
+330,Cinnamomum,527,Propionaldehyde,suffocating
+330,Cinnamomum,527,Propionaldehyde,fruity@characteristic odor similar to acetaldehyde@pungent
+330,Cinnamomum,527,Propionaldehyde,unpleasant@choking odor
+330,Cinnamomum,5144,safrole,sassafras odor
+330,Cinnamomum,7847,Acrolein,extremely sharp@extremely acrid
+330,Cinnamomum,7847,Acrolein,pungent
+330,Cinnamomum,7847,Acrolein,burnt sweet@hot fat@disagreeable choking odor
+330,Cinnamomum,6321405,Isoborneol,piney
+330,Cinnamomum,6321405,Isoborneol,camphoraceous odor
+330,Cinnamomum,798,indole,almost floral odor when highly purified
+330,Cinnamomum,798,indole,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor
+330,Cinnamomum,6050,Tributyrin,fruity
+330,Cinnamomum,6050,Tributyrin,buttery
+330,Cinnamomum,650,"2,3-butanedione",quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor
+330,Cinnamomum,7794,Citronellal,intense lemon-citronella-rose odor
+330,Cinnamomum,643820,nerol,sweet rose@the odor of pure nerol is sweet
+330,Cinnamomum,643820,nerol,"rosy refreshing and wet"" seashore"""
+330,Cinnamomum,11552,3-Methylbutanal,apple-like odor@powerful penetrating
+330,Cinnamomum,11552,3-Methylbutanal,acrid odor
+330,Cinnamomum,445070,farnesol,delicate flowery odor@mild
+330,Cinnamomum,445070,farnesol,oily@weak citrus-lime odor
+330,Cinnamomum,638011,Citral,strong lemon odor
+330,Cinnamomum,7127,Methyleugenol,mild-spicy
+330,Cinnamomum,7127,Methyleugenol,slightly herbal odor@clove
+330,Cinnamomum,7127,Methyleugenol,carnation odor
+330,Cinnamomum,5367719,Methyl jasmonate,sharp persistent odor
+330,Cinnamomum,89594,nicotine,fish-like odor when warm
+330,Cinnamomum,6616,Camphene,camphoraceous
+330,Cinnamomum,6616,Camphene,cooling
+330,Cinnamomum,6616,Camphene,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like
+330,Cinnamomum,22311,Dipentene,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor
+330,Cinnamomum,64685,Borneol,piney
+330,Cinnamomum,64685,Borneol,camphor-like odor
+330,Cinnamomum,6251,D-mannitol,odorless
+330,Cinnamomum,8294,Linalyl Acetate,...floral-fruity odor
+330,Cinnamomum,8294,Linalyl Acetate,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet
+330,Cinnamomum,8294,Linalyl Acetate,floral-fruity odor recalling bergamot and pear.
+330,Cinnamomum,26447,Menthone,slight peppermint odor@characteristic odor similar to menthol
+330,Cinnamomum,243,benzoic acid,odorless or with a slight benzaldehyde odor@faint
+330,Cinnamomum,243,benzoic acid,pleasant odor
+330,Cinnamomum,1549026,Geranyl Acetate,odor of lavender@sweet
+330,Cinnamomum,1549026,Geranyl Acetate,fruity-floral
+330,Cinnamomum,1549026,Geranyl Acetate,rosy
+330,Cinnamomum,1549026,Geranyl Acetate,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet
+330,Cinnamomum,1549026,Geranyl Acetate,fragrant odor
+330,Cinnamomum,996,phenol,distinct aromatic
+330,Cinnamomum,996,phenol,somewhat sickening sweet and acrid odor
+330,Cinnamomum,996,phenol,discernable at 0.5 to 5 ppm@sweet
+330,Cinnamomum,996,phenol,tarry odor@somewhat sickeningly sweet and acrid
+330,Cinnamomum,7858,Allyl Alcohol,pungent
+330,Cinnamomum,7858,Allyl Alcohol,mustard-like odor
+330,Cinnamomum,11142,Beta-Phellandrene,pleasant odor
+330,Cinnamomum,6561,Isobutyraldehyde,extremely sharp@pungent odor
+330,Cinnamomum,8815,Estragole,odor reminiscent of anise (differing from anethole)
+330,Cinnamomum,7463,P-Cymene,sweetish aromatic odor@mild pleasant odor@when pure
+330,Cinnamomum,7463,P-Cymene,has a weak citrus odor
+330,Cinnamomum,9862,6-Methyl-5-Hepten-2-One,powerful
+330,Cinnamomum,9862,6-Methyl-5-Hepten-2-One,fatty
+330,Cinnamomum,9862,6-Methyl-5-Hepten-2-One,green
+330,Cinnamomum,9862,6-Methyl-5-Hepten-2-One,citrus odor
+330,Cinnamomum,454,Octanal,strong
+330,Cinnamomum,454,Octanal,fruity odor
+330,Cinnamomum,6202,Thiamine Hydrochloride,slight
+330,Cinnamomum,6202,Thiamine Hydrochloride,characteristic
+330,Cinnamomum,768,hydrogen cyanide,characteristic sweetish
+330,Cinnamomum,768,hydrogen cyanide,like almond@... bitter
+330,Cinnamomum,768,hydrogen cyanide,almond-like odor.
+330,Cinnamomum,2345,Benzyl Benzoate,faint pleasant aromatic odor
+330,Cinnamomum,637563,trans-Anethole,anise oil odor
+330,Cinnamomum,31244,4-Methoxybenzaldehyde,characteristic hawthorn odor@odor resembles that of coumarin
+330,Cinnamomum,8857,Ethyl Acetate,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like
+330,Cinnamomum,8857,Ethyl Acetate,fruity odor@fruity with a brandy note
+330,Cinnamomum,643779,Neral,strong lemon odor
+330,Cinnamomum,7362,2-Furaldehyde,peculiar odor
+330,Cinnamomum,7362,2-Furaldehyde,somewhat resembling the odor of benzaldehyde@... almond-like odor ...
+330,Cinnamomum,8785,Benzyl Acetate,pear-like odor@characteristic flowery (jasmine) odor@powerful but thin
+330,Cinnamomum,8785,Benzyl Acetate,sweet floral fresh
+330,Cinnamomum,8785,Benzyl Acetate,fresh and light
+330,Cinnamomum,8785,Benzyl Acetate,fruity odor reminiscent of jasmin
+330,Cinnamomum,8785,Benzyl Acetate,gardenia
+330,Cinnamomum,8785,Benzyl Acetate,muguet
+330,Cinnamomum,8785,Benzyl Acetate,lily and other flowers.
+330,Cinnamomum,7288,3-Pentanone,acetone odor
+330,Cinnamomum,31253,Myrcene,pleasant@terpene odor
+330,Cinnamomum,8130,Heptanal,fatty
+330,Cinnamomum,8130,Heptanal,pungent odor@penetrating fruity odor
+330,Cinnamomum,6654,Alpha-Pinene,characteristic odor of pine@odor of turpentine
+330,Cinnamomum,180,acetone,fruity odor@characteristic odor
+330,Cinnamomum,6569,2-Butanone,acetone-like odor@sweet
+330,Cinnamomum,6569,2-Butanone,pleasant
+330,Cinnamomum,6569,2-Butanone,pungent@moderately sharp
+330,Cinnamomum,6569,2-Butanone,fragrant
+330,Cinnamomum,6569,2-Butanone,mint- or acetone-like odor
+330,Cinnamomum,31225,2-Phenylethyl propionate,flower fruit odor
+330,Cinnamomum,61503,D-Lactic acid,odorless@weak unpleasant odor@available forms have very slightly acrid odor
+330,Cinnamomum,6549,Linalool,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral
+330,Cinnamomum,6549,Linalool,spicy
+330,Cinnamomum,6549,Linalool,wood odor@flowery-fresh odor and reminiscent of lily of the valley
+330,Cinnamomum,10364,Carvacrol,thymol odor@medicinal smoke odor
+331,Syzygium,323,coumarin,pleasant
+331,Syzygium,323,coumarin,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor
+331,Syzygium,6989,Thymol,odor of thyme@a spicy-herbal
+331,Syzygium,6989,Thymol,slightly medicinal odor reminiscent of thyme@aromatic odor
+331,Syzygium,7150,Methyl Benzoate,fragrant odor@fruity odor
+331,Syzygium,7150,Methyl Benzoate,also similar to cananga@medicinal odor
+331,Syzygium,637566,Geraniol,sweet rose odor@pleasant geranium-like odor@pleasant
+331,Syzygium,637566,Geraniol,floral odor
+331,Syzygium,878,methanethiol,odor of rotten cabbage@sulfidy@powerful
+331,Syzygium,878,methanethiol,unpleasant odor@disagreeable odor like garlic@pungent
+331,Syzygium,878,methanethiol,decayed cabbage.
+331,Syzygium,3314,eugenol,odor of cloves@warm
+331,Syzygium,3314,eugenol,spicy
+331,Syzygium,3314,eugenol,floral
+331,Syzygium,240,benzaldehyde,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond
+331,Syzygium,11583,2-Hexanone,characteristic acetone like odor
+331,Syzygium,11583,2-Hexanone,but more pungent
+331,Syzygium,244,benzyl alcohol,faint aromatic odor
+331,Syzygium,17100,alpha-TERPINEOL,floral
+331,Syzygium,17100,alpha-TERPINEOL,lilac
+331,Syzygium,6184,Hexanal,characteristic fruity odor (on dilution)@strong
+331,Syzygium,6184,Hexanal,green grass odor@sharp
+331,Syzygium,6184,Hexanal,aldehyde odor
+331,Syzygium,957,1-octanol,fresh orange rose odor@penetrating aromatic odor
+331,Syzygium,8094,Heptanoic Acid,disagreeable
+331,Syzygium,8094,Heptanoic Acid,rancid odor@faint tallow-like odor when spectroscopically pure.
+331,Syzygium,338,salicylic acid,synthetic acid is odorless
+331,Syzygium,1183,vanillin,sweetish smell@pleasant aromatic vanilla odor
+331,Syzygium,5280511,(Z)-cinnamyl alcohol,odor of hyacinth@pleasant
+331,Syzygium,5280511,(Z)-cinnamyl alcohol,floral odor
+331,Syzygium,931,naphthalene,aromatic odor@odor of mothballs@characteritic odor (plates)
+331,Syzygium,14896,Beta-Pinene,characteristic turpentine odor@dry
+331,Syzygium,14896,Beta-Pinene,woody or resinous aroma@piney
+331,Syzygium,14896,Beta-Pinene,turpentine-like odor@terpene odor
+331,Syzygium,5315892,cinnamyl alcohol,odor of hyacinth@pleasant
+331,Syzygium,5315892,cinnamyl alcohol,floral odor
+331,Syzygium,784,hydrogen peroxide,odorless
+331,Syzygium,784,hydrogen peroxide,or having an odor resembling that of ozone@... slightly sharp odor ...
+331,Syzygium,8091,Methyl octanoate,powerful
+331,Syzygium,8091,Methyl octanoate,winey
+331,Syzygium,8091,Methyl octanoate,fruity
+331,Syzygium,8091,Methyl octanoate,and orange-like odor
+331,Syzygium,853433,Isoeugenol,spice-clove odor
+331,Syzygium,999,Phenylacetic Acid,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.
+331,Syzygium,3026,dibutyl phthalate,slight
+331,Syzygium,3026,dibutyl phthalate,aromatic odor
+331,Syzygium,637511,cinnamaldehyde,pungent
+331,Syzygium,637511,cinnamaldehyde,spicy note@strong odor of cinnamon
+331,Syzygium,8452,Cyclopentanone,distinctive ethereal odor
+331,Syzygium,8452,Cyclopentanone,somewhat like peppermint
+331,Syzygium,6986,2-Isopropyl-5-methylcyclohexanone,slight peppermint odor@characteristic odor similar to menthol
+331,Syzygium,8051,2-Heptanone,penetrating fruity odor@characteristic banana
+331,Syzygium,8051,2-Heptanone,slightly spicy odor@banana-like fruity odor
+331,Syzygium,6054,2-Phenylethanol,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.
+331,Syzygium,11230,Terpinen-4-ol,pine
+331,Syzygium,439263,(+)-Neomenthol,peppermint odor /dl-menthol/@cooling odor /89-78-1/
+331,Syzygium,1110,succinic acid,odorless
+331,Syzygium,1130,thiamine,slight
+331,Syzygium,1130,thiamine,characteristic
+331,Syzygium,31260,3-Methyl-1-butanol,characteristic
+331,Syzygium,31260,3-Methyl-1-butanol,disagreeable odor@disagreeable odor.
+331,Syzygium,527,Propionaldehyde,suffocating
+331,Syzygium,527,Propionaldehyde,fruity@characteristic odor similar to acetaldehyde@pungent
+331,Syzygium,527,Propionaldehyde,unpleasant@choking odor
+331,Syzygium,7847,Acrolein,extremely sharp@extremely acrid
+331,Syzygium,7847,Acrolein,pungent
+331,Syzygium,7847,Acrolein,burnt sweet@hot fat@disagreeable choking odor
+331,Syzygium,798,indole,almost floral odor when highly purified
+331,Syzygium,798,indole,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor
+331,Syzygium,6050,Tributyrin,fruity
+331,Syzygium,6050,Tributyrin,buttery
+331,Syzygium,650,"2,3-butanedione",quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor
+331,Syzygium,11552,3-Methylbutanal,apple-like odor@powerful penetrating
+331,Syzygium,11552,3-Methylbutanal,acrid odor
+331,Syzygium,445070,farnesol,delicate flowery odor@mild
+331,Syzygium,445070,farnesol,oily@weak citrus-lime odor
+331,Syzygium,638011,Citral,strong lemon odor
+331,Syzygium,7127,Methyleugenol,mild-spicy
+331,Syzygium,7127,Methyleugenol,slightly herbal odor@clove
+331,Syzygium,7127,Methyleugenol,carnation odor
+331,Syzygium,6584,Methyl Acetate,pleasant odor@fragrant
+331,Syzygium,6584,Methyl Acetate,fruity odor
+331,Syzygium,5367719,Methyl jasmonate,sharp persistent odor
+331,Syzygium,89594,nicotine,fish-like odor when warm
+331,Syzygium,8093,Octan-2-one,fatty
+331,Syzygium,8093,Octan-2-one,green cheese aroma@floral
+331,Syzygium,8093,Octan-2-one,bitter
+331,Syzygium,8093,Octan-2-one,fruity (unripe apple)@pleasant
+331,Syzygium,6251,D-mannitol,odorless
+331,Syzygium,5280804,Isoquercitrin,soln of good grades are practically odorless@almost odorless
+331,Syzygium,8294,Linalyl Acetate,...floral-fruity odor
+331,Syzygium,8294,Linalyl Acetate,reminiscent of bergamot and it also has some pear character@bergamot-lavender odor@sweet
+331,Syzygium,8294,Linalyl Acetate,floral-fruity odor recalling bergamot and pear.
+331,Syzygium,26447,Menthone,slight peppermint odor@characteristic odor similar to menthol
+331,Syzygium,243,benzoic acid,odorless or with a slight benzaldehyde odor@faint
+331,Syzygium,243,benzoic acid,pleasant odor
+331,Syzygium,1549026,Geranyl Acetate,odor of lavender@sweet
+331,Syzygium,1549026,Geranyl Acetate,fruity-floral
+331,Syzygium,1549026,Geranyl Acetate,rosy
+331,Syzygium,1549026,Geranyl Acetate,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet
+331,Syzygium,1549026,Geranyl Acetate,fragrant odor
+331,Syzygium,7361,Furfuryl Alcohol,faint burning odor
+331,Syzygium,7858,Allyl Alcohol,pungent
+331,Syzygium,7858,Allyl Alcohol,mustard-like odor
+331,Syzygium,6561,Isobutyraldehyde,extremely sharp@pungent odor
+331,Syzygium,8815,Estragole,odor reminiscent of anise (differing from anethole)
+331,Syzygium,9862,6-Methyl-5-Hepten-2-One,powerful
+331,Syzygium,9862,6-Methyl-5-Hepten-2-One,fatty
+331,Syzygium,9862,6-Methyl-5-Hepten-2-One,green
+331,Syzygium,9862,6-Methyl-5-Hepten-2-One,citrus odor
+331,Syzygium,454,Octanal,strong
+331,Syzygium,454,Octanal,fruity odor
+331,Syzygium,7410,Acetophenone,sweet
+331,Syzygium,7410,Acetophenone,pungent odor of acacia@orange blossom or jasmine-like
+331,Syzygium,768,hydrogen cyanide,characteristic sweetish
+331,Syzygium,768,hydrogen cyanide,like almond@... bitter
+331,Syzygium,768,hydrogen cyanide,almond-like odor.
+331,Syzygium,2345,Benzyl Benzoate,faint pleasant aromatic odor
+331,Syzygium,4133,methyl salicylate,liquid having the characteristic odor of wintergreen
+331,Syzygium,637563,trans-Anethole,anise oil odor
+331,Syzygium,8857,Ethyl Acetate,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like
+331,Syzygium,8857,Ethyl Acetate,fruity odor@fruity with a brandy note
+331,Syzygium,643779,Neral,strong lemon odor
+331,Syzygium,7362,2-Furaldehyde,peculiar odor
+331,Syzygium,7362,2-Furaldehyde,somewhat resembling the odor of benzaldehyde@... almond-like odor ...
+331,Syzygium,8785,Benzyl Acetate,pear-like odor@characteristic flowery (jasmine) odor@powerful but thin
+331,Syzygium,8785,Benzyl Acetate,sweet floral fresh
+331,Syzygium,8785,Benzyl Acetate,fresh and light
+331,Syzygium,8785,Benzyl Acetate,fruity odor reminiscent of jasmin
+331,Syzygium,8785,Benzyl Acetate,gardenia
+331,Syzygium,8785,Benzyl Acetate,muguet
+331,Syzygium,8785,Benzyl Acetate,lily and other flowers.
+331,Syzygium,8163,2-Undecanone,strong odor
+331,Syzygium,7288,3-Pentanone,acetone odor
+331,Syzygium,31253,Myrcene,pleasant@terpene odor
+331,Syzygium,8130,Heptanal,fatty
+331,Syzygium,8130,Heptanal,pungent odor@penetrating fruity odor
+331,Syzygium,6654,Alpha-Pinene,characteristic odor of pine@odor of turpentine
+331,Syzygium,180,acetone,fruity odor@characteristic odor
+331,Syzygium,6569,2-Butanone,acetone-like odor@sweet
+331,Syzygium,6569,2-Butanone,pleasant
+331,Syzygium,6569,2-Butanone,pungent@moderately sharp
+331,Syzygium,6569,2-Butanone,fragrant
+331,Syzygium,6569,2-Butanone,mint- or acetone-like odor
+331,Syzygium,61503,D-Lactic acid,odorless@weak unpleasant odor@available forms have very slightly acrid odor
+331,Syzygium,6549,Linalool,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral
+331,Syzygium,6549,Linalool,spicy
+331,Syzygium,6549,Linalool,wood odor@flowery-fresh odor and reminiscent of lily of the valley
+331,Syzygium,10364,Carvacrol,thymol odor@medicinal smoke odor
+172,Cocos Nucifera,20083,Octan-2-ol,characteristically disagreeable
+172,Cocos Nucifera,20083,Octan-2-ol,but aromatic
+172,Cocos Nucifera,323,coumarin,pleasant
+172,Cocos Nucifera,323,coumarin,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor
+172,Cocos Nucifera,7150,Methyl Benzoate,fragrant odor@fruity odor
+172,Cocos Nucifera,7150,Methyl Benzoate,also similar to cananga@medicinal odor
+172,Cocos Nucifera,637566,Geraniol,sweet rose odor@pleasant geranium-like odor@pleasant
+172,Cocos Nucifera,637566,Geraniol,floral odor
+172,Cocos Nucifera,878,methanethiol,odor of rotten cabbage@sulfidy@powerful
+172,Cocos Nucifera,878,methanethiol,unpleasant odor@disagreeable odor like garlic@pungent
+172,Cocos Nucifera,878,methanethiol,decayed cabbage.
+172,Cocos Nucifera,14778,Calcium Oxide,odorless
+172,Cocos Nucifera,1049,Pyridine,sharp
+172,Cocos Nucifera,1049,Pyridine,nauseating@burnt
+172,Cocos Nucifera,1049,Pyridine,sickening@nauseating fish-like odor.
+172,Cocos Nucifera,240,benzaldehyde,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond
+172,Cocos Nucifera,244,benzyl alcohol,faint aromatic odor
+172,Cocos Nucifera,12398,Heptadecane,fuel-like
+172,Cocos Nucifera,6184,Hexanal,characteristic fruity odor (on dilution)@strong
+172,Cocos Nucifera,6184,Hexanal,green grass odor@sharp
+172,Cocos Nucifera,6184,Hexanal,aldehyde odor
+172,Cocos Nucifera,957,1-octanol,fresh orange rose odor@penetrating aromatic odor
+172,Cocos Nucifera,8094,Heptanoic Acid,disagreeable
+172,Cocos Nucifera,8094,Heptanoic Acid,rancid odor@faint tallow-like odor when spectroscopically pure.
+172,Cocos Nucifera,338,salicylic acid,synthetic acid is odorless
+172,Cocos Nucifera,11005,Tetradecanoic acid,the odor should be faint with no rancidity.
+172,Cocos Nucifera,1183,vanillin,sweetish smell@pleasant aromatic vanilla odor
+172,Cocos Nucifera,5280511,(Z)-cinnamyl alcohol,odor of hyacinth@pleasant
+172,Cocos Nucifera,5280511,(Z)-cinnamyl alcohol,floral odor
+172,Cocos Nucifera,5315892,cinnamyl alcohol,odor of hyacinth@pleasant
+172,Cocos Nucifera,5315892,cinnamyl alcohol,floral odor
+172,Cocos Nucifera,784,hydrogen peroxide,odorless
+172,Cocos Nucifera,784,hydrogen peroxide,or having an odor resembling that of ozone@... slightly sharp odor ...
+172,Cocos Nucifera,8091,Methyl octanoate,powerful
+172,Cocos Nucifera,8091,Methyl octanoate,winey
+172,Cocos Nucifera,8091,Methyl octanoate,fruity
+172,Cocos Nucifera,8091,Methyl octanoate,and orange-like odor
+172,Cocos Nucifera,8892,Hexanoic Acid,characteristic goat-like odor
+172,Cocos Nucifera,853433,Isoeugenol,spice-clove odor
+172,Cocos Nucifera,999,Phenylacetic Acid,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.
+172,Cocos Nucifera,31284,Methyl tetradecanoate,honey & orris-like (iris florentina) odor@fatty coconut
+172,Cocos Nucifera,31284,Methyl tetradecanoate,cognac odor
+172,Cocos Nucifera,637511,cinnamaldehyde,pungent
+172,Cocos Nucifera,637511,cinnamaldehyde,spicy note@strong odor of cinnamon
+172,Cocos Nucifera,8063,Pentanal,powerful
+172,Cocos Nucifera,8063,Pentanal,acrid
+172,Cocos Nucifera,8063,Pentanal,pungent odor@strong
+172,Cocos Nucifera,8063,Pentanal,acrid
+172,Cocos Nucifera,8063,Pentanal,pungent odor
+172,Cocos Nucifera,8452,Cyclopentanone,distinctive ethereal odor
+172,Cocos Nucifera,8452,Cyclopentanone,somewhat like peppermint
+172,Cocos Nucifera,6986,2-Isopropyl-5-methylcyclohexanone,slight peppermint odor@characteristic odor similar to menthol
+172,Cocos Nucifera,8051,2-Heptanone,penetrating fruity odor@characteristic banana
+172,Cocos Nucifera,8051,2-Heptanone,slightly spicy odor@banana-like fruity odor
+172,Cocos Nucifera,6054,2-Phenylethanol,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.
+172,Cocos Nucifera,439263,(+)-Neomenthol,peppermint odor /dl-menthol/@cooling odor /89-78-1/
+172,Cocos Nucifera,8222,Eicosane,odorless
+172,Cocos Nucifera,1110,succinic acid,odorless
+172,Cocos Nucifera,31289,Nonanal,orange-rose odor@floral
+172,Cocos Nucifera,31289,Nonanal,waxy
+172,Cocos Nucifera,31289,Nonanal,green
+172,Cocos Nucifera,179,acetoin,buttery odor@bland
+172,Cocos Nucifera,179,acetoin,woody
+172,Cocos Nucifera,179,acetoin,yogurt odor
+172,Cocos Nucifera,3893,lauric acid,characteristic
+172,Cocos Nucifera,3893,lauric acid,like oil of bay
+172,Cocos Nucifera,379,octanoic acid,faint
+172,Cocos Nucifera,379,octanoic acid,fruity-acid odor@unpleasant and irritating odor@slight odor
+172,Cocos Nucifera,1130,thiamine,slight
+172,Cocos Nucifera,1130,thiamine,characteristic
+172,Cocos Nucifera,31260,3-Methyl-1-butanol,characteristic
+172,Cocos Nucifera,31260,3-Methyl-1-butanol,disagreeable odor@disagreeable odor.
+172,Cocos Nucifera,527,Propionaldehyde,suffocating
+172,Cocos Nucifera,527,Propionaldehyde,fruity@characteristic odor similar to acetaldehyde@pungent
+172,Cocos Nucifera,527,Propionaldehyde,unpleasant@choking odor
+172,Cocos Nucifera,12844,Delta-Dodecalactone,powerful
+172,Cocos Nucifera,12844,Delta-Dodecalactone,fresh-fruit
+172,Cocos Nucifera,12844,Delta-Dodecalactone,oily odor
+172,Cocos Nucifera,7847,Acrolein,extremely sharp@extremely acrid
+172,Cocos Nucifera,7847,Acrolein,pungent
+172,Cocos Nucifera,7847,Acrolein,burnt sweet@hot fat@disagreeable choking odor
+172,Cocos Nucifera,798,indole,almost floral odor when highly purified
+172,Cocos Nucifera,798,indole,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor
+172,Cocos Nucifera,6050,Tributyrin,fruity
+172,Cocos Nucifera,6050,Tributyrin,buttery
+172,Cocos Nucifera,650,"2,3-butanedione",quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor
+172,Cocos Nucifera,1032,propionic acid,slightly pungent disagreeable
+172,Cocos Nucifera,1032,propionic acid,rancid odor
+172,Cocos Nucifera,11552,3-Methylbutanal,apple-like odor@powerful penetrating
+172,Cocos Nucifera,11552,3-Methylbutanal,acrid odor
+172,Cocos Nucifera,445070,farnesol,delicate flowery odor@mild
+172,Cocos Nucifera,445070,farnesol,oily@weak citrus-lime odor
+172,Cocos Nucifera,638011,Citral,strong lemon odor
+172,Cocos Nucifera,12401,Nonadecane,fuel-like
+172,Cocos Nucifera,5367719,Methyl jasmonate,sharp persistent odor
+172,Cocos Nucifera,89594,nicotine,fish-like odor when warm
+172,Cocos Nucifera,8103,1-Hexanol,characteristic@sweet alcohol@pleasant
+172,Cocos Nucifera,22311,Dipentene,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor
+172,Cocos Nucifera,402,hydrogen sulfide,pure sulfur is odorless
+172,Cocos Nucifera,402,hydrogen sulfide,but traces of hydrocarbon impurity may impart an oily and/or rotten egg odor
+172,Cocos Nucifera,6251,D-mannitol,odorless
+172,Cocos Nucifera,26447,Menthone,slight peppermint odor@characteristic odor similar to menthol
+172,Cocos Nucifera,1549026,Geranyl Acetate,odor of lavender@sweet
+172,Cocos Nucifera,1549026,Geranyl Acetate,fruity-floral
+172,Cocos Nucifera,1549026,Geranyl Acetate,rosy
+172,Cocos Nucifera,1549026,Geranyl Acetate,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet
+172,Cocos Nucifera,1549026,Geranyl Acetate,fragrant odor
+172,Cocos Nucifera,7361,Furfuryl Alcohol,faint burning odor
+172,Cocos Nucifera,8139,Methyl Dodecanoate,fatty
+172,Cocos Nucifera,8139,Methyl Dodecanoate,floral odor reminiscent of wine@oily
+172,Cocos Nucifera,8139,Methyl Dodecanoate,winey
+172,Cocos Nucifera,8139,Methyl Dodecanoate,fatty odor
+172,Cocos Nucifera,7858,Allyl Alcohol,pungent
+172,Cocos Nucifera,7858,Allyl Alcohol,mustard-like odor
+172,Cocos Nucifera,16666,l-Menthol,peppermint odor
+172,Cocos Nucifera,8175,Decanal,floral-fatty odor@citrus odor@similar to that of an orange peel@penetrating
+172,Cocos Nucifera,8175,Decanal,sweet
+172,Cocos Nucifera,8175,Decanal,waxy
+172,Cocos Nucifera,8175,Decanal,floral
+172,Cocos Nucifera,8175,Decanal,citrus
+172,Cocos Nucifera,8175,Decanal,pronounced fatty odor that develops a floral character on dilution
+172,Cocos Nucifera,6561,Isobutyraldehyde,extremely sharp@pungent odor
+172,Cocos Nucifera,9862,6-Methyl-5-Hepten-2-One,powerful
+172,Cocos Nucifera,9862,6-Methyl-5-Hepten-2-One,fatty
+172,Cocos Nucifera,9862,6-Methyl-5-Hepten-2-One,green
+172,Cocos Nucifera,9862,6-Methyl-5-Hepten-2-One,citrus odor
+172,Cocos Nucifera,454,Octanal,strong
+172,Cocos Nucifera,454,Octanal,fruity odor
+172,Cocos Nucifera,6202,Thiamine Hydrochloride,slight
+172,Cocos Nucifera,6202,Thiamine Hydrochloride,characteristic
+172,Cocos Nucifera,768,hydrogen cyanide,characteristic sweetish
+172,Cocos Nucifera,768,hydrogen cyanide,like almond@... bitter
+172,Cocos Nucifera,768,hydrogen cyanide,almond-like odor.
+172,Cocos Nucifera,2345,Benzyl Benzoate,faint pleasant aromatic odor
+172,Cocos Nucifera,12534,Tricosane,odorless
+172,Cocos Nucifera,12403,Heneicosane,odorless
+172,Cocos Nucifera,445639,oleic acid,peculiar lard-like odor
+172,Cocos Nucifera,8857,Ethyl Acetate,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like
+172,Cocos Nucifera,8857,Ethyl Acetate,fruity odor@fruity with a brandy note
+172,Cocos Nucifera,643779,Neral,strong lemon odor
+172,Cocos Nucifera,7222,Benzothiazole,odor similar to that of quinoline@unpleasant odor
+172,Cocos Nucifera,8163,2-Undecanone,strong odor
+172,Cocos Nucifera,7288,3-Pentanone,acetone odor
+172,Cocos Nucifera,8130,Heptanal,fatty
+172,Cocos Nucifera,8130,Heptanal,pungent odor@penetrating fruity odor
+172,Cocos Nucifera,180,acetone,fruity odor@characteristic odor
+172,Cocos Nucifera,6569,2-Butanone,acetone-like odor@sweet
+172,Cocos Nucifera,6569,2-Butanone,pleasant
+172,Cocos Nucifera,6569,2-Butanone,pungent@moderately sharp
+172,Cocos Nucifera,6569,2-Butanone,fragrant
+172,Cocos Nucifera,6569,2-Butanone,mint- or acetone-like odor
+172,Cocos Nucifera,61503,D-Lactic acid,odorless@weak unpleasant odor@available forms have very slightly acrid odor
+172,Cocos Nucifera,7710,gamma-Nonanolactone,strong odor reminiscent of coconut
+172,Cocos Nucifera,11635,Octadecane,fuel-like
+172,Cocos Nucifera,8158,Nonanoic Acid,fatty odor@coconut aroma@slight odor
+333,Zingiber,20083,Octan-2-ol,characteristically disagreeable
+333,Zingiber,20083,Octan-2-ol,but aromatic
+333,Zingiber,323,coumarin,pleasant
+333,Zingiber,323,coumarin,fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor
+333,Zingiber,6989,Thymol,odor of thyme@a spicy-herbal
+333,Zingiber,6989,Thymol,slightly medicinal odor reminiscent of thyme@aromatic odor
+333,Zingiber,7150,Methyl Benzoate,fragrant odor@fruity odor
+333,Zingiber,7150,Methyl Benzoate,also similar to cananga@medicinal odor
+333,Zingiber,638011,Citral,strong lemon odor
+333,Zingiber,6560,2-Methyl-1-propanol,sweet
+333,Zingiber,6560,2-Methyl-1-propanol,musty odor@odor like that of amyl alcohol
+333,Zingiber,6560,2-Methyl-1-propanol,but weaker@penetrating
+333,Zingiber,6560,2-Methyl-1-propanol,wine-like
+333,Zingiber,6560,2-Methyl-1-propanol,disagreeable odor@suffocating odor of fusel oil@slightly suffocating@nonresidual alcoholic
+333,Zingiber,637566,Geraniol,sweet rose odor@pleasant geranium-like odor@pleasant
+333,Zingiber,637566,Geraniol,floral odor
+333,Zingiber,6584,Methyl Acetate,pleasant odor@fragrant
+333,Zingiber,6584,Methyl Acetate,fruity odor
+333,Zingiber,5367719,Methyl jasmonate,sharp persistent odor
+333,Zingiber,11463,Terpinolene,sweet
+333,Zingiber,11463,Terpinolene,pine odor@pine-like aroma
+333,Zingiber,89594,nicotine,fish-like odor when warm
+333,Zingiber,6616,Camphene,camphoraceous
+333,Zingiber,6616,Camphene,cooling
+333,Zingiber,6616,Camphene,piney wood with trephy nuances...citrus and green minty and green spicy notes@insipid odor@camphor-like
+333,Zingiber,878,methanethiol,odor of rotten cabbage@sulfidy@powerful
+333,Zingiber,878,methanethiol,unpleasant odor@disagreeable odor like garlic@pungent
+333,Zingiber,878,methanethiol,decayed cabbage.
+333,Zingiber,8103,1-Hexanol,characteristic@sweet alcohol@pleasant
+333,Zingiber,240,benzaldehyde,characteristic odor or volatile oil of almond@odor resembling oil of bitter almond
+333,Zingiber,65575,Cedrol,woody-earthy
+333,Zingiber,22311,Dipentene,characteristic odor ... becoming more pronounced and less agreeable on aging or exposure to air@penetrating odor@acquires terebinthinate odor upon oxidation@pleasant lemon-like@characteristic orange odor@characteristic odor of orange peels@citrus odor
+333,Zingiber,244,benzyl alcohol,faint aromatic odor
+333,Zingiber,64685,Borneol,piney
+333,Zingiber,64685,Borneol,camphor-like odor
+333,Zingiber,8914,1-Nonanol,floral odor@odor of citronella oil
+333,Zingiber,17100,alpha-TERPINEOL,floral
+333,Zingiber,17100,alpha-TERPINEOL,lilac
+333,Zingiber,6251,D-mannitol,odorless
+333,Zingiber,8842,Citronellol,fresh rosy odor@rose odor
+333,Zingiber,8900,Heptane,gasoline-like odor
+333,Zingiber,6552009,Borneol,piney
+333,Zingiber,6552009,Borneol,camphor-like odor
+333,Zingiber,26447,Menthone,slight peppermint odor@characteristic odor similar to menthol
+333,Zingiber,6184,Hexanal,characteristic fruity odor (on dilution)@strong
+333,Zingiber,6184,Hexanal,green grass odor@sharp
+333,Zingiber,6184,Hexanal,aldehyde odor
+333,Zingiber,1549026,Geranyl Acetate,odor of lavender@sweet
+333,Zingiber,1549026,Geranyl Acetate,fruity-floral
+333,Zingiber,1549026,Geranyl Acetate,rosy
+333,Zingiber,1549026,Geranyl Acetate,somewhat green and remotely lavender-like odor of moderate tenacity.@sweet
+333,Zingiber,1549026,Geranyl Acetate,fragrant odor
+333,Zingiber,957,1-octanol,fresh orange rose odor@penetrating aromatic odor
+333,Zingiber,8094,Heptanoic Acid,disagreeable
+333,Zingiber,8094,Heptanoic Acid,rancid odor@faint tallow-like odor when spectroscopically pure.
+333,Zingiber,338,salicylic acid,synthetic acid is odorless
+333,Zingiber,1183,vanillin,sweetish smell@pleasant aromatic vanilla odor
+333,Zingiber,5280511,(Z)-cinnamyl alcohol,odor of hyacinth@pleasant
+333,Zingiber,5280511,(Z)-cinnamyl alcohol,floral odor
+333,Zingiber,14896,Beta-Pinene,characteristic turpentine odor@dry
+333,Zingiber,14896,Beta-Pinene,woody or resinous aroma@piney
+333,Zingiber,14896,Beta-Pinene,turpentine-like odor@terpene odor
+333,Zingiber,5315892,cinnamyl alcohol,odor of hyacinth@pleasant
+333,Zingiber,5315892,cinnamyl alcohol,floral odor
+333,Zingiber,996,phenol,distinct aromatic
+333,Zingiber,996,phenol,somewhat sickening sweet and acrid odor
+333,Zingiber,996,phenol,discernable at 0.5 to 5 ppm@sweet
+333,Zingiber,996,phenol,tarry odor@somewhat sickeningly sweet and acrid
+333,Zingiber,7858,Allyl Alcohol,pungent
+333,Zingiber,7858,Allyl Alcohol,mustard-like odor
+333,Zingiber,784,hydrogen peroxide,odorless
+333,Zingiber,784,hydrogen peroxide,or having an odor resembling that of ozone@... slightly sharp odor ...
+333,Zingiber,11142,Beta-Phellandrene,pleasant odor
+333,Zingiber,8091,Methyl octanoate,powerful
+333,Zingiber,8091,Methyl octanoate,winey
+333,Zingiber,8091,Methyl octanoate,fruity
+333,Zingiber,8091,Methyl octanoate,and orange-like odor
+333,Zingiber,638014,Beta-Ionone,warm woody
+333,Zingiber,638014,Beta-Ionone,dry
+333,Zingiber,638014,Beta-Ionone,and fruity odor@odor reminiscent of cedar wood@violet-like upon dilution
+333,Zingiber,853433,Isoeugenol,spice-clove odor
+333,Zingiber,8175,Decanal,floral-fatty odor@citrus odor@similar to that of an orange peel@penetrating
+333,Zingiber,8175,Decanal,sweet
+333,Zingiber,8175,Decanal,waxy
+333,Zingiber,8175,Decanal,floral
+333,Zingiber,8175,Decanal,citrus
+333,Zingiber,8175,Decanal,pronounced fatty odor that develops a floral character on dilution
+333,Zingiber,2758,Eucalyptol,camphor-like odor
+333,Zingiber,10282,Piperitol,fresh pungent odor
+333,Zingiber,999,Phenylacetic Acid,floral odor@has a sweet honey-like odor when diluted@the odor of the concentrated solution is suffocating and unpleasant.
+333,Zingiber,6561,Isobutyraldehyde,extremely sharp@pungent odor
+333,Zingiber,637511,cinnamaldehyde,pungent
+333,Zingiber,637511,cinnamaldehyde,spicy note@strong odor of cinnamon
+333,Zingiber,8815,Estragole,odor reminiscent of anise (differing from anethole)
+333,Zingiber,7463,P-Cymene,sweetish aromatic odor@mild pleasant odor@when pure
+333,Zingiber,7463,P-Cymene,has a weak citrus odor
+333,Zingiber,7909,4-Methyl-2-pentanone,pleasant odor@faint
+333,Zingiber,7909,4-Methyl-2-pentanone,ketonic and camphor odor
+333,Zingiber,9862,6-Methyl-5-Hepten-2-One,powerful
+333,Zingiber,9862,6-Methyl-5-Hepten-2-One,fatty
+333,Zingiber,9862,6-Methyl-5-Hepten-2-One,green
+333,Zingiber,9862,6-Methyl-5-Hepten-2-One,citrus odor
+333,Zingiber,8452,Cyclopentanone,distinctive ethereal odor
+333,Zingiber,8452,Cyclopentanone,somewhat like peppermint
+333,Zingiber,6986,2-Isopropyl-5-methylcyclohexanone,slight peppermint odor@characteristic odor similar to menthol
+333,Zingiber,9609,Diethyl sulfide,garlic-like odor@ethereal odor
+333,Zingiber,8051,2-Heptanone,penetrating fruity odor@characteristic banana
+333,Zingiber,8051,2-Heptanone,slightly spicy odor@banana-like fruity odor
+333,Zingiber,6054,2-Phenylethanol,characteristic rose-like odor@pure pea has an extremely mild roselike odor. >@99% pure vary in odor because of the impurities present.
+333,Zingiber,11230,Terpinen-4-ol,pine
+333,Zingiber,246728,3-Octanone,mild fruity odor
+333,Zingiber,439263,(+)-Neomenthol,peppermint odor /dl-menthol/@cooling odor /89-78-1/
+333,Zingiber,1110,succinic acid,odorless
+333,Zingiber,454,Octanal,strong
+333,Zingiber,454,Octanal,fruity odor
+333,Zingiber,6202,Thiamine Hydrochloride,slight
+333,Zingiber,6202,Thiamine Hydrochloride,characteristic
+333,Zingiber,31289,Nonanal,orange-rose odor@floral
+333,Zingiber,31289,Nonanal,waxy
+333,Zingiber,31289,Nonanal,green
+333,Zingiber,768,hydrogen cyanide,characteristic sweetish
+333,Zingiber,768,hydrogen cyanide,like almond@... bitter
+333,Zingiber,768,hydrogen cyanide,almond-like odor.
+333,Zingiber,2345,Benzyl Benzoate,faint pleasant aromatic odor
+333,Zingiber,3893,lauric acid,characteristic
+333,Zingiber,3893,lauric acid,like oil of bay
+333,Zingiber,379,octanoic acid,faint
+333,Zingiber,379,octanoic acid,fruity-acid odor@unpleasant and irritating odor@slight odor
+333,Zingiber,8141,Nonane,gasoline-like odor
+333,Zingiber,6568,2-Butanol,has a strong vinous odor@sweet@wine odor liquid@strong
+333,Zingiber,6568,2-Butanol,pleasant odor
+333,Zingiber,159055,D-Camphor,fragrant and penetrating odor@penetrating aromatic odor
+333,Zingiber,1130,thiamine,slight
+333,Zingiber,1130,thiamine,characteristic
+333,Zingiber,637563,trans-Anethole,anise oil odor
+333,Zingiber,31260,3-Methyl-1-butanol,characteristic
+333,Zingiber,31260,3-Methyl-1-butanol,disagreeable odor@disagreeable odor.
+333,Zingiber,445639,oleic acid,peculiar lard-like odor
+333,Zingiber,8857,Ethyl Acetate,characteristic ether-like odor reminiscent of pineapple.@fragrant odor@ether-like
+333,Zingiber,8857,Ethyl Acetate,fruity odor@fruity with a brandy note
+333,Zingiber,527,Propionaldehyde,suffocating
+333,Zingiber,527,Propionaldehyde,fruity@characteristic odor similar to acetaldehyde@pungent
+333,Zingiber,527,Propionaldehyde,unpleasant@choking odor
+333,Zingiber,643779,Neral,strong lemon odor
+333,Zingiber,7362,2-Furaldehyde,peculiar odor
+333,Zingiber,7362,2-Furaldehyde,somewhat resembling the odor of benzaldehyde@... almond-like odor ...
+333,Zingiber,8163,2-Undecanone,strong odor
+333,Zingiber,7288,3-Pentanone,acetone odor
+333,Zingiber,1031,1-propanol,similar to ethanol@odor perception threshold: <@0.07-100 mg/cu-m@odor recognition threshold: 0.32-150 mg/cu m
+333,Zingiber,440917,D-Limonene,citrus odor
+333,Zingiber,7847,Acrolein,extremely sharp@extremely acrid
+333,Zingiber,7847,Acrolein,pungent
+333,Zingiber,7847,Acrolein,burnt sweet@hot fat@disagreeable choking odor
+333,Zingiber,6321405,Isoborneol,piney
+333,Zingiber,6321405,Isoborneol,camphoraceous odor
+333,Zingiber,798,indole,almost floral odor when highly purified
+333,Zingiber,798,indole,otherwise exhibits characteristic odor of feces@unpleasant odor in high concentration but pleasant in dilute solution.@light jasmine odor
+333,Zingiber,227829,Guaiol,woody
+333,Zingiber,227829,Guaiol,rose-like odor@floral@mild
+333,Zingiber,227829,Guaiol,pleasant odor reminiscent of that of tea roses and faintly of violets.
+333,Zingiber,6050,Tributyrin,fruity
+333,Zingiber,6050,Tributyrin,buttery
+333,Zingiber,31253,Myrcene,pleasant@terpene odor
+333,Zingiber,8130,Heptanal,fatty
+333,Zingiber,8130,Heptanal,pungent odor@penetrating fruity odor
+333,Zingiber,6654,Alpha-Pinene,characteristic odor of pine@odor of turpentine
+333,Zingiber,356,octane,gasoline-like
+333,Zingiber,180,acetone,fruity odor@characteristic odor
+333,Zingiber,31276,Isoamyl Acetate,pear-like odor@fruity
+333,Zingiber,31276,Isoamyl Acetate,banana
+333,Zingiber,31276,Isoamyl Acetate,sweet
+333,Zingiber,31276,Isoamyl Acetate,fragrant
+333,Zingiber,31276,Isoamyl Acetate,powerful odor@at room temperature
+333,Zingiber,31276,Isoamyl Acetate,the low molecular- weight ester isoamyl acetate (iaa)... is a liquid with an intense
+333,Zingiber,31276,Isoamyl Acetate,but pleasant banana-like odor.@sweet fruity smell
+333,Zingiber,6569,2-Butanone,acetone-like odor@sweet
+333,Zingiber,6569,2-Butanone,pleasant
+333,Zingiber,6569,2-Butanone,pungent@moderately sharp
+333,Zingiber,6569,2-Butanone,fragrant
+333,Zingiber,6569,2-Butanone,mint- or acetone-like odor
+333,Zingiber,650,"2,3-butanedione",quinone odor@vapors have a chlorine-like odor@very strong buttery odor in dilute solution@strong odor
+333,Zingiber,7794,Citronellal,intense lemon-citronella-rose odor
+333,Zingiber,61503,D-Lactic acid,odorless@weak unpleasant odor@available forms have very slightly acrid odor
+333,Zingiber,31211,Vanillylacetone,strong
+333,Zingiber,31211,Vanillylacetone,pungent odor reminiscent of ginger@sweet
+333,Zingiber,31211,Vanillylacetone,spicy aroma
+333,Zingiber,1548943,Capsaicin,highly volatile with a pungent odor
+333,Zingiber,6549,Linalool,odor similar to that of bergamot oil and french lavender@typical floral odor free from camphoraceous and terpenic notes@floral
+333,Zingiber,6549,Linalool,spicy
+333,Zingiber,6549,Linalool,wood odor@flowery-fresh odor and reminiscent of lily of the valley
+333,Zingiber,643820,nerol,sweet rose@the odor of pure nerol is sweet
+333,Zingiber,643820,nerol,"rosy refreshing and wet"" seashore"""
+333,Zingiber,10364,Carvacrol,thymol odor@medicinal smoke odor
+333,Zingiber,11552,3-Methylbutanal,apple-like odor@powerful penetrating
+333,Zingiber,11552,3-Methylbutanal,acrid odor
+333,Zingiber,445070,farnesol,delicate flowery odor@mild
+333,Zingiber,445070,farnesol,oily@weak citrus-lime odor

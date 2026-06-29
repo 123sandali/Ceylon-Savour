@@ -1,0 +1,12 @@
+﻿ceylonsavour_field,foundation_source,fndds_source,interpretation
+dish_name,selected food.description,food.description,Direct reference
+source_food_id,selected food.fdc_id,food.fdc_id,Direct reference
+food_category,food_category.description,wweia_food_category_description,Use the dataset-specific category relationship
+nutrient,food_nutrient.nutrient_id -> nutrient.id,food_nutrient.nutrient_id -> nutrient.nutrient_nbr,"Store master ID, nutrient number, amount, and unit"
+portion_grams,food_portion.gram_weight,food_portion.gram_weight,Optional portion reference
+ingredients,Not consistently available for final foods,input_food.csv provides ingredient/input-food references for many survey foods,"Useful for international structural study, but not complete or authoritative for Sri Lankan dishes"
+taste_profile,Not available,Not available,"Create from FlavorDB, surveys, and expert annotation"
+dietary_tags,Not directly available,Can be partially derived from input foods,Derive and validate using Sri Lankan ingredients and preparation methods
+allergy_tags,Not directly available,Can be partially derived from input foods,Derive with explicit allergen rules and manual validation
+authenticity_and_region,Not available,Not applicable to Sri Lankan authenticity,Collect from Sri Lankan experts and cultural sources
+tourist_friendliness,Not available,Not available,Create from tourist surveys and expert-defined rules

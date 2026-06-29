@@ -1,0 +1,15 @@
+﻿dataset,storage_area,extension,file_count,total_size_mb
+fndds,archive,,1,0.0
+fndds,archive,.dvc,1,0.0001
+fndds,archive,.zip,1,3.1716
+fndds,checksums,.csv,1,0.0002
+fndds,extracted,,1,0.0
+fndds,extracted,.csv,12,24.293
+fndds,extracted,.xlsx,1,0.0301
+foundation,archive,,1,0.0001
+foundation,archive,.dvc,1,0.0001
+foundation,archive,.zip,1,3.6483
+foundation,checksums,.csv,1,0.0002
+foundation,extracted,,1,0.0
+foundation,extracted,.csv,24,31.1963
+foundation,extracted,.xlsx,1,0.0313

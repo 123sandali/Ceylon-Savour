@@ -1,0 +1,9 @@
+﻿dataset,role,source_description,rows,columns,memory_mb
+foundation,food_all,generic food.csv including all record types,87990,5,20.8028
+foundation,food,actual Foundation Foods selected by subtype table/filter,395,5,0.0959
+foundation,food_nutrient,food_nutrient rows restricted to selected Foundation Foods,17008,9,1.3463
+foundation,nutrient_master,nutrient.csv master table,477,5,0.0709
+fndds,food,FNDDS food.csv,5432,5,1.3027
+fndds,food_nutrient,food_nutrient rows restricted to FNDDS food IDs,353015,9,25.2497
+fndds,nutrient_master,nutrient.csv master table,477,5,0.0709
+fndds,input_food,FNDDS ingredient/input-food references,18584,12,5.0229

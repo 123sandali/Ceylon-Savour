@@ -1,0 +1,12 @@
+﻿dataset,relationship,left_non_null_rows,matched_rows,unmatched_rows,match_percent,right_duplicate_keys,threshold_percent,relationship_valid
+foundation,food_nutrient to food,17008,17008,0,100.0,0,95.0,True
+foundation,food_nutrient to nutrient,17008,16975,33,99.806,0,95.0,True
+foundation,food_portion to food,123,123,0,100.0,0,95.0,True
+foundation,food_portion to measure_unit,123,123,0,100.0,0,95.0,True
+foundation,food to food_category,395,395,0,100.0,0,95.0,True
+fndds,food_nutrient to food,353015,353015,0,100.0,0,95.0,True
+fndds,food_nutrient to nutrient,353015,353015,0,100.0,0,95.0,True
+fndds,food_portion to food,22046,22046,0,100.0,0,95.0,True
+fndds,food_portion to measure_unit,22046,22046,0,100.0,0,95.0,True
+fndds,survey_fndds_food to food,5432,5432,0,100.0,0,95.0,True
+fndds,survey_fndds_food to WWEIA category,5432,5432,0,100.0,0,95.0,True

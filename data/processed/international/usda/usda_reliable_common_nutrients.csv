@@ -1,0 +1,15 @@
+﻿foundation_source_nutrient_id,foundation_nutrient_master_id,foundation_name,foundation_unit_name,foundation_foods_with_nutrient,foundation_total_foods,foundation_percent,name_key,unit_key,fndds_source_nutrient_id,fndds_nutrient_master_id,fndds_name,fndds_unit_name,fndds_foods_with_nutrient,fndds_total_foods,fndds_percent,difference_fndds_minus_foundation,minimum_completeness,mean_completeness
+1051.0,1051,Water,G,387,395,97.97,water,g,255.0,1051,Water,G,5431,5432,99.98,2.01,97.97,98.975
+1091.0,1091,"Phosphorus, P",MG,367,395,92.91,"phosphorus, p",mg,305.0,1091,"Phosphorus, P",MG,5431,5432,99.98,7.07,92.91,96.445
+1090.0,1090,"Magnesium, Mg",MG,367,395,92.91,"magnesium, mg",mg,304.0,1090,"Magnesium, Mg",MG,5431,5432,99.98,7.07,92.91,96.445
+1089.0,1089,"Iron, Fe",MG,367,395,92.91,"iron, fe",mg,303.0,1089,"Iron, Fe",MG,5431,5432,99.98,7.07,92.91,96.445
+1087.0,1087,"Calcium, Ca",MG,367,395,92.91,"calcium, ca",mg,301.0,1087,"Calcium, Ca",MG,5431,5432,99.98,7.07,92.91,96.445
+1098.0,1098,"Copper, Cu",MG,367,395,92.91,"copper, cu",mg,312.0,1098,"Copper, Cu",MG,5431,5432,99.98,7.07,92.91,96.445
+1095.0,1095,"Zinc, Zn",MG,367,395,92.91,"zinc, zn",mg,309.0,1095,"Zinc, Zn",MG,5431,5432,99.98,7.07,92.91,96.445
+1092.0,1092,"Potassium, K",MG,367,395,92.91,"potassium, k",mg,306.0,1092,"Potassium, K",MG,5431,5432,99.98,7.07,92.91,96.445
+1003.0,1003,Protein,G,353,395,89.37,protein,g,203.0,1003,Protein,G,5431,5432,99.98,10.61,89.37,94.675
+1093.0,1093,"Sodium, Na",MG,349,395,88.35,"sodium, na",mg,307.0,1093,"Sodium, Na",MG,5431,5432,99.98,11.63,88.35,94.165
+1004.0,1004,Total lipid (fat),G,341,395,86.33,total lipid (fat),g,204.0,1004,Total lipid (fat),G,5431,5432,99.98,13.65,86.33,93.155
+1005.0,1005,"Carbohydrate, by difference",G,322,395,81.52,"carbohydrate, by difference",g,205.0,1005,"Carbohydrate, by difference",G,5431,5432,99.98,18.46,81.52,90.75
+1175.0,1175,Vitamin B-6,MG,222,395,56.2,vitamin b-6,mg,415.0,1175,Vitamin B-6,MG,5431,5432,99.98,43.78,56.2,78.09
+1079.0,1079,"Fiber, total dietary",G,198,395,50.13,"fiber, total dietary",g,291.0,1079,"Fiber, total dietary",G,5431,5432,99.98,49.85,50.13,75.055
