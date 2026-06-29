@@ -1,0 +1,49 @@
+﻿dataset,dataset_label,release,storage_area,filename,extension,size_bytes,size_mb,relative_path
+foundation,Foundation Foods,release_2026_04,archive,.gitignore,,54,0.0001,data\raw\international\usda\foundation\release_2026_04\archive\.gitignore
+foundation,Foundation Foods,release_2026_04,archive,FoodData_Central_foundation_food_csv_2026-04-30.zip,.zip,3825517,3.6483,data\raw\international\usda\foundation\release_2026_04\archive\FoodData_Central_foundation_food_csv_2026-04-30.zip
+foundation,Foundation Foods,release_2026_04,archive,FoodData_Central_foundation_food_csv_2026-04-30.zip.dvc,.dvc,139,0.0001,data\raw\international\usda\foundation\release_2026_04\archive\FoodData_Central_foundation_food_csv_2026-04-30.zip.dvc
+foundation,Foundation Foods,release_2026_04,checksums,archive_sha256.csv,.csv,249,0.0002,data\raw\international\usda\foundation\release_2026_04\checksums\archive_sha256.csv
+foundation,Foundation Foods,release_2026_04,extracted,.gitkeep,,0,0.0,data\raw\international\usda\foundation\release_2026_04\extracted\.gitkeep
+foundation,Foundation Foods,release_2026_04,extracted,acquisition_samples.csv,.csv,155247,0.1481,data\raw\international\usda\foundation\release_2026_04\extracted\acquisition_samples.csv
+foundation,Foundation Foods,release_2026_04,extracted,agricultural_samples.csv,.csv,38059,0.0363,data\raw\international\usda\foundation\release_2026_04\extracted\agricultural_samples.csv
+foundation,Foundation Foods,release_2026_04,extracted,Download API Field Descriptions.xlsx,.xlsx,32849,0.0313,data\raw\international\usda\foundation\release_2026_04\extracted\Download API Field Descriptions.xlsx
+foundation,Foundation Foods,release_2026_04,extracted,food.csv,.csv,7229830,6.8949,data\raw\international\usda\foundation\release_2026_04\extracted\food.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_attribute.csv,.csv,753585,0.7187,data\raw\international\usda\foundation\release_2026_04\extracted\food_attribute.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_attribute_type.csv,.csv,331,0.0003,data\raw\international\usda\foundation\release_2026_04\extracted\food_attribute_type.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_calorie_conversion_factor.csv,.csv,12061,0.0115,data\raw\international\usda\foundation\release_2026_04\extracted\food_calorie_conversion_factor.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_category.csv,.csv,997,0.001,data\raw\international\usda\foundation\release_2026_04\extracted\food_category.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_component.csv,.csv,158565,0.1512,data\raw\international\usda\foundation\release_2026_04\extracted\food_component.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_nutrient.csv,.csv,10089141,9.6218,data\raw\international\usda\foundation\release_2026_04\extracted\food_nutrient.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_nutrient_conversion_factor.csv,.csv,197078,0.1879,data\raw\international\usda\foundation\release_2026_04\extracted\food_nutrient_conversion_factor.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_portion.csv,.csv,714051,0.681,data\raw\international\usda\foundation\release_2026_04\extracted\food_portion.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_protein_conversion_factor.csv,.csv,5516,0.0053,data\raw\international\usda\foundation\release_2026_04\extracted\food_protein_conversion_factor.csv
+foundation,Foundation Foods,release_2026_04,extracted,food_update_log_entry.csv,.csv,5235383,4.9929,data\raw\international\usda\foundation\release_2026_04\extracted\food_update_log_entry.csv
+foundation,Foundation Foods,release_2026_04,extracted,foundation_food.csv,.csv,17257,0.0165,data\raw\international\usda\foundation\release_2026_04\extracted\foundation_food.csv
+foundation,Foundation Foods,release_2026_04,extracted,input_food.csv,.csv,327265,0.3121,data\raw\international\usda\foundation\release_2026_04\extracted\input_food.csv
+foundation,Foundation Foods,release_2026_04,extracted,lab_method.csv,.csv,13084,0.0125,data\raw\international\usda\foundation\release_2026_04\extracted\lab_method.csv
+foundation,Foundation Foods,release_2026_04,extracted,lab_method_code.csv,.csv,4582,0.0044,data\raw\international\usda\foundation\release_2026_04\extracted\lab_method_code.csv
+foundation,Foundation Foods,release_2026_04,extracted,lab_method_nutrient.csv,.csv,9424,0.009,data\raw\international\usda\foundation\release_2026_04\extracted\lab_method_nutrient.csv
+foundation,Foundation Foods,release_2026_04,extracted,market_acquisition.csv,.csv,914133,0.8718,data\raw\international\usda\foundation\release_2026_04\extracted\market_acquisition.csv
+foundation,Foundation Foods,release_2026_04,extracted,measure_unit.csv,.csv,1969,0.0019,data\raw\international\usda\foundation\release_2026_04\extracted\measure_unit.csv
+foundation,Foundation Foods,release_2026_04,extracted,nutrient.csv,.csv,21556,0.0206,data\raw\international\usda\foundation\release_2026_04\extracted\nutrient.csv
+foundation,Foundation Foods,release_2026_04,extracted,sample_food.csv,.csv,39068,0.0373,data\raw\international\usda\foundation\release_2026_04\extracted\sample_food.csv
+foundation,Foundation Foods,release_2026_04,extracted,sub_sample_food.csv,.csv,1478511,1.41,data\raw\international\usda\foundation\release_2026_04\extracted\sub_sample_food.csv
+foundation,Foundation Foods,release_2026_04,extracted,sub_sample_result.csv,.csv,5294585,5.0493,data\raw\international\usda\foundation\release_2026_04\extracted\sub_sample_result.csv
+fndds,FNDDS,release_2024_10,archive,.gitignore,,50,0.0,data\raw\international\usda\fndds\release_2024_10\archive\.gitignore
+fndds,FNDDS,release_2024_10,archive,FoodData_Central_survey_food_csv_2024-10-31.zip,.zip,3325692,3.1716,data\raw\international\usda\fndds\release_2024_10\archive\FoodData_Central_survey_food_csv_2024-10-31.zip
+fndds,FNDDS,release_2024_10,archive,FoodData_Central_survey_food_csv_2024-10-31.zip.dvc,.dvc,135,0.0001,data\raw\international\usda\fndds\release_2024_10\archive\FoodData_Central_survey_food_csv_2024-10-31.zip.dvc
+fndds,FNDDS,release_2024_10,checksums,archive_sha256.csv,.csv,236,0.0002,data\raw\international\usda\fndds\release_2024_10\checksums\archive_sha256.csv
+fndds,FNDDS,release_2024_10,extracted,.gitkeep,,0,0.0,data\raw\international\usda\fndds\release_2024_10\extracted\.gitkeep
+fndds,FNDDS,release_2024_10,extracted,Download API Field Descriptions.xlsx,.xlsx,31584,0.0301,data\raw\international\usda\fndds\release_2024_10\extracted\Download API Field Descriptions.xlsx
+fndds,FNDDS,release_2024_10,extracted,fndds_derivation.csv,.csv,4826,0.0046,data\raw\international\usda\fndds\release_2024_10\extracted\fndds_derivation.csv
+fndds,FNDDS,release_2024_10,extracted,food.csv,.csv,480475,0.4582,data\raw\international\usda\fndds\release_2024_10\extracted\food.csv
+fndds,FNDDS,release_2024_10,extracted,food_attribute.csv,.csv,1608165,1.5337,data\raw\international\usda\fndds\release_2024_10\extracted\food_attribute.csv
+fndds,FNDDS,release_2024_10,extracted,food_attribute_type.csv,.csv,331,0.0003,data\raw\international\usda\fndds\release_2024_10\extracted\food_attribute_type.csv
+fndds,FNDDS,release_2024_10,extracted,food_nutrient.csv,.csv,19047892,18.1655,data\raw\international\usda\fndds\release_2024_10\extracted\food_nutrient.csv
+fndds,FNDDS,release_2024_10,extracted,food_portion.csv,.csv,1692573,1.6142,data\raw\international\usda\fndds\release_2024_10\extracted\food_portion.csv
+fndds,FNDDS,release_2024_10,extracted,food_update_log_entry.csv,.csv,333772,0.3183,data\raw\international\usda\fndds\release_2024_10\extracted\food_update_log_entry.csv
+fndds,FNDDS,release_2024_10,extracted,input_food.csv,.csv,1982818,1.891,data\raw\international\usda\fndds\release_2024_10\extracted\input_food.csv
+fndds,FNDDS,release_2024_10,extracted,measure_unit.csv,.csv,1955,0.0019,data\raw\international\usda\fndds\release_2024_10\extracted\measure_unit.csv
+fndds,FNDDS,release_2024_10,extracted,nutrient.csv,.csv,21566,0.0206,data\raw\international\usda\fndds\release_2024_10\extracted\nutrient.csv
+fndds,FNDDS,release_2024_10,extracted,survey_fndds_food.csv,.csv,293397,0.2798,data\raw\international\usda\fndds\release_2024_10\extracted\survey_fndds_food.csv
+fndds,FNDDS,release_2024_10,extracted,wweia_food_category.csv,.csv,5119,0.0049,data\raw\international\usda\fndds\release_2024_10\extracted\wweia_food_category.csv

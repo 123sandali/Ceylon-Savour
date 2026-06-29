@@ -1,0 +1,3 @@
+﻿dataset,food_count,food_nutrient_rows,nutrient_lookup_key,food_relationship_match_percent,nutrient_relationship_match_percent,category_coverage_percent
+foundation,395,17008,id,100.0,99.806,100.0
+fndds,5432,353015,nutrient_nbr,100.0,100.0,100.0

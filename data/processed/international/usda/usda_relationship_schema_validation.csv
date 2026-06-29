@@ -1,0 +1,12 @@
+﻿dataset,relationship,left_table,left_key,left_key_exists,right_table,right_key,right_key_exists,schema_valid
+foundation,food_nutrient to food,food_nutrient.csv,fdc_id,True,selected foundation food,fdc_id,True,True
+foundation,food_nutrient to nutrient,food_nutrient.csv,nutrient_id,True,nutrient.csv,id,True,True
+foundation,food_portion to food,food_portion.csv,fdc_id,True,selected foundation food,fdc_id,True,True
+foundation,food_portion to measure_unit,food_portion.csv,measure_unit_id,True,measure_unit.csv,id,True,True
+foundation,food to food_category,selected foundation food,food_category_id,True,food_category.csv,id,True,True
+fndds,food_nutrient to food,food_nutrient.csv,fdc_id,True,food.csv,fdc_id,True,True
+fndds,food_nutrient to nutrient,food_nutrient.csv,nutrient_id,True,nutrient.csv,nutrient_nbr,True,True
+fndds,food_portion to food,food_portion.csv,fdc_id,True,food.csv,fdc_id,True,True
+fndds,food_portion to measure_unit,food_portion.csv,measure_unit_id,True,measure_unit.csv,id,True,True
+fndds,survey_fndds_food to food,survey_fndds_food.csv,fdc_id,True,food.csv,fdc_id,True,True
+fndds,survey_fndds_food to WWEIA category,survey_fndds_food.csv,wweia_category_number,True,wweia_food_category.csv,wweia_food_category,True,True

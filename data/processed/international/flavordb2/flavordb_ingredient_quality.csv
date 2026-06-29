@@ -1,0 +1,6 @@
+﻿filename,entity_id,ingredient_name,category,molecule_count,total_taste_links,sweetness,sourness,bitterness,umami,spice_base,saltiness,top_aroma_tags,unique_odor_descriptors,has_entity_id,has_ingredient_name,has_molecules,has_taste_data,has_odor_data,data_quality_score,quality_level
+cardamom.json,327,Elattaria,Spice,173,147,0.1905,0.0204,0.1224,0.0,0.0952,0.0,"[""odorless"", ""characteristic"", ""fatty""]",143,True,True,True,True,True,1.0,high
+cinnamon.json,330,Cinnamomum,Spice,183,140,0.2,0.0071,0.15,0.0,0.1143,0.0,"[""floral odor"", ""odorless"", ""pungent""]",147,True,True,True,True,True,1.0,high
+clove.json,331,Syzygium,Spice,177,123,0.1951,0.0081,0.1789,0.0,0.0813,0.0,"[""fatty"", ""floral odor"", ""odorless""]",130,True,True,True,True,True,1.0,high
+coconut.json,172,Cocos Nucifera,Fruit,161,110,0.1545,0.0273,0.1455,0.0,0.0273,0.0,"[""odorless"", ""characteristic"", ""powerful""]",125,True,True,True,True,True,1.0,high
+ginger.json,333,Zingiber,Spice,251,158,0.2025,0.0127,0.1203,0.0,0.0886,0.0,"[""characteristic"", ""sweet"", ""camphor-like odor""]",164,True,True,True,True,True,1.0,high

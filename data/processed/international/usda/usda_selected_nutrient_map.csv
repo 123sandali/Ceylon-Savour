@@ -1,0 +1,15 @@
+﻿dataset,normalized_field,nutrient_master_id,nutrient_nbr,source_join_key,source_join_value,original_name,unit_name,observed_in_food_nutrient,status
+foundation,energy_kcal,1008,208.0,id,1008.0,Energy,KCAL,True,available_and_observed
+foundation,protein_g,1003,203.0,id,1003.0,Protein,G,True,available_and_observed
+foundation,carbohydrate_g,1005,205.0,id,1005.0,"Carbohydrate, by difference",G,True,available_and_observed
+foundation,fat_g,1004,204.0,id,1004.0,Total lipid (fat),G,True,available_and_observed
+foundation,fiber_g,1079,291.0,id,1079.0,"Fiber, total dietary",G,True,available_and_observed
+foundation,sugar_g,1063,269.3,id,1063.0,"Sugars, Total",G,True,available_and_observed
+foundation,sodium_mg,1093,307.0,id,1093.0,"Sodium, Na",MG,True,available_and_observed
+fndds,energy_kcal,1008,208.0,nutrient_nbr,208.0,Energy,KCAL,True,available_and_observed
+fndds,protein_g,1003,203.0,nutrient_nbr,203.0,Protein,G,True,available_and_observed
+fndds,carbohydrate_g,1005,205.0,nutrient_nbr,205.0,"Carbohydrate, by difference",G,True,available_and_observed
+fndds,fat_g,1004,204.0,nutrient_nbr,204.0,Total lipid (fat),G,True,available_and_observed
+fndds,fiber_g,1079,291.0,nutrient_nbr,291.0,"Fiber, total dietary",G,True,available_and_observed
+fndds,sugar_g,1063,269.3,nutrient_nbr,269.3,"Sugars, Total",G,False,available_but_not_observed
+fndds,sodium_mg,1093,307.0,nutrient_nbr,307.0,"Sodium, Na",MG,True,available_and_observed

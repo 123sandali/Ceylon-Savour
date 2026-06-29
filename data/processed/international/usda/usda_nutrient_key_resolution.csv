@@ -1,0 +1,5 @@
+﻿dataset,candidate_nutrient_key,non_null_rows,matched_rows,unmatched_rows,match_percent,selected
+foundation,id,17008,16975,33,99.806,True
+foundation,nutrient_nbr,17008,0,17008,0.0,False
+fndds,id,353015,0,353015,0.0,False
+fndds,nutrient_nbr,353015,353015,0,100.0,True

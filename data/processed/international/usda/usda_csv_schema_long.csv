@@ -1,0 +1,183 @@
+﻿dataset,dataset_label,scope,filename,column_position,column_name
+foundation,Foundation Foods,extracted_data_csv,acquisition_samples.csv,1,fdc_id_of_sample_food
+foundation,Foundation Foods,extracted_data_csv,acquisition_samples.csv,2,fdc_id_of_acquisition_food
+foundation,Foundation Foods,extracted_data_csv,agricultural_samples.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,agricultural_samples.csv,2,acquisition_date
+foundation,Foundation Foods,extracted_data_csv,agricultural_samples.csv,3,market_class
+foundation,Foundation Foods,extracted_data_csv,agricultural_samples.csv,4,treatment
+foundation,Foundation Foods,extracted_data_csv,agricultural_samples.csv,5,state
+foundation,Foundation Foods,extracted_data_csv,food.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food.csv,2,data_type
+foundation,Foundation Foods,extracted_data_csv,food.csv,3,description
+foundation,Foundation Foods,extracted_data_csv,food.csv,4,food_category_id
+foundation,Foundation Foods,extracted_data_csv,food.csv,5,publication_date
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,3,seq_num
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,4,food_attribute_type_id
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,5,name
+foundation,Foundation Foods,extracted_data_csv,food_attribute.csv,6,value
+foundation,Foundation Foods,extracted_data_csv,food_attribute_type.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_attribute_type.csv,2,name
+foundation,Foundation Foods,extracted_data_csv,food_attribute_type.csv,3,description
+foundation,Foundation Foods,extracted_data_csv,food_calorie_conversion_factor.csv,1,food_nutrient_conversion_factor_id
+foundation,Foundation Foods,extracted_data_csv,food_calorie_conversion_factor.csv,2,protein_value
+foundation,Foundation Foods,extracted_data_csv,food_calorie_conversion_factor.csv,3,fat_value
+foundation,Foundation Foods,extracted_data_csv,food_calorie_conversion_factor.csv,4,carbohydrate_value
+foundation,Foundation Foods,extracted_data_csv,food_category.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_category.csv,2,code
+foundation,Foundation Foods,extracted_data_csv,food_category.csv,3,description
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,3,name
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,4,pct_weight
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,5,is_refuse
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,6,gram_weight
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,7,data_points
+foundation,Foundation Foods,extracted_data_csv,food_component.csv,8,min_year_acqured
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,3,nutrient_id
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,4,amount
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,5,data_points
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,6,derivation_id
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,7,min
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,8,max
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,9,median
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,10,footnote
+foundation,Foundation Foods,extracted_data_csv,food_nutrient.csv,11,min_year_acquired
+foundation,Foundation Foods,extracted_data_csv,food_nutrient_conversion_factor.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_nutrient_conversion_factor.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,3,seq_num
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,4,amount
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,5,measure_unit_id
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,6,portion_description
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,7,modifier
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,8,gram_weight
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,9,data_points
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,10,footnote
+foundation,Foundation Foods,extracted_data_csv,food_portion.csv,11,min_year_acquired
+foundation,Foundation Foods,extracted_data_csv,food_protein_conversion_factor.csv,1,food_nutrient_conversion_factor_id
+foundation,Foundation Foods,extracted_data_csv,food_protein_conversion_factor.csv,2,value
+foundation,Foundation Foods,extracted_data_csv,food_update_log_entry.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,food_update_log_entry.csv,2,description
+foundation,Foundation Foods,extracted_data_csv,food_update_log_entry.csv,3,last_updated
+foundation,Foundation Foods,extracted_data_csv,foundation_food.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,foundation_food.csv,2,NDB_number
+foundation,Foundation Foods,extracted_data_csv,foundation_food.csv,3,footnote
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,2,fdc_id
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,3,fdc_of_input_food
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,4,seq_num
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,5,amount
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,6,ingredient_code
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,7,ingredient_description
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,8,unit
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,9,portion_code
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,10,portion_description
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,11,gram_weight
+foundation,Foundation Foods,extracted_data_csv,input_food.csv,12,retention_code
+foundation,Foundation Foods,extracted_data_csv,lab_method.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,lab_method.csv,2,description
+foundation,Foundation Foods,extracted_data_csv,lab_method.csv,3,technique
+foundation,Foundation Foods,extracted_data_csv,lab_method_code.csv,1,lab_method_id
+foundation,Foundation Foods,extracted_data_csv,lab_method_code.csv,2,code
+foundation,Foundation Foods,extracted_data_csv,lab_method_nutrient.csv,1,lab_method_id
+foundation,Foundation Foods,extracted_data_csv,lab_method_nutrient.csv,2,nutrient_id
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,2,brand_description
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,3,expiration_date
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,4,label_weight
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,5,location
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,6,acquisition_date
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,7,sales_type
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,8,sample_lot_nbr
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,9,sell_by_date
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,10,store_city
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,11,store_name
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,12,store_state
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,13,upc_code
+foundation,Foundation Foods,extracted_data_csv,market_acquisition.csv,14,acquisition_number
+foundation,Foundation Foods,extracted_data_csv,measure_unit.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,measure_unit.csv,2,name
+foundation,Foundation Foods,extracted_data_csv,nutrient.csv,1,id
+foundation,Foundation Foods,extracted_data_csv,nutrient.csv,2,name
+foundation,Foundation Foods,extracted_data_csv,nutrient.csv,3,unit_name
+foundation,Foundation Foods,extracted_data_csv,nutrient.csv,4,nutrient_nbr
+foundation,Foundation Foods,extracted_data_csv,nutrient.csv,5,rank
+foundation,Foundation Foods,extracted_data_csv,sample_food.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,sub_sample_food.csv,1,fdc_id
+foundation,Foundation Foods,extracted_data_csv,sub_sample_food.csv,2,fdc_id_of_sample_food
+foundation,Foundation Foods,extracted_data_csv,sub_sample_result.csv,1,food_nutrient_id
+foundation,Foundation Foods,extracted_data_csv,sub_sample_result.csv,2,adjusted_amount
+foundation,Foundation Foods,extracted_data_csv,sub_sample_result.csv,3,lab_method_id
+foundation,Foundation Foods,extracted_data_csv,sub_sample_result.csv,4,nutrient_name
+fndds,FNDDS,extracted_data_csv,fndds_derivation.csv,1,derivation code
+fndds,FNDDS,extracted_data_csv,fndds_derivation.csv,2,derivation description
+fndds,FNDDS,extracted_data_csv,food.csv,1,fdc_id
+fndds,FNDDS,extracted_data_csv,food.csv,2,data_type
+fndds,FNDDS,extracted_data_csv,food.csv,3,description
+fndds,FNDDS,extracted_data_csv,food.csv,4,food_category_id
+fndds,FNDDS,extracted_data_csv,food.csv,5,publication_date
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,1,id
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,2,fdc_id
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,3,seq_num
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,4,food_attribute_type_id
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,5,name
+fndds,FNDDS,extracted_data_csv,food_attribute.csv,6,value
+fndds,FNDDS,extracted_data_csv,food_attribute_type.csv,1,id
+fndds,FNDDS,extracted_data_csv,food_attribute_type.csv,2,name
+fndds,FNDDS,extracted_data_csv,food_attribute_type.csv,3,description
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,1,id
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,2,fdc_id
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,3,nutrient_id
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,4,amount
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,5,data_points
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,6,derivation_id
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,7,min
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,8,max
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,9,median
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,10,footnote
+fndds,FNDDS,extracted_data_csv,food_nutrient.csv,11,min_year_acquired
+fndds,FNDDS,extracted_data_csv,food_portion.csv,1,id
+fndds,FNDDS,extracted_data_csv,food_portion.csv,2,fdc_id
+fndds,FNDDS,extracted_data_csv,food_portion.csv,3,seq_num
+fndds,FNDDS,extracted_data_csv,food_portion.csv,4,amount
+fndds,FNDDS,extracted_data_csv,food_portion.csv,5,measure_unit_id
+fndds,FNDDS,extracted_data_csv,food_portion.csv,6,portion_description
+fndds,FNDDS,extracted_data_csv,food_portion.csv,7,modifier
+fndds,FNDDS,extracted_data_csv,food_portion.csv,8,gram_weight
+fndds,FNDDS,extracted_data_csv,food_portion.csv,9,data_points
+fndds,FNDDS,extracted_data_csv,food_portion.csv,10,footnote
+fndds,FNDDS,extracted_data_csv,food_portion.csv,11,min_year_acquired
+fndds,FNDDS,extracted_data_csv,food_update_log_entry.csv,1,id
+fndds,FNDDS,extracted_data_csv,food_update_log_entry.csv,2,description
+fndds,FNDDS,extracted_data_csv,food_update_log_entry.csv,3,last_updated
+fndds,FNDDS,extracted_data_csv,input_food.csv,1,id
+fndds,FNDDS,extracted_data_csv,input_food.csv,2,fdc_id
+fndds,FNDDS,extracted_data_csv,input_food.csv,3,fdc_of_input_food
+fndds,FNDDS,extracted_data_csv,input_food.csv,4,seq_num
+fndds,FNDDS,extracted_data_csv,input_food.csv,5,amount
+fndds,FNDDS,extracted_data_csv,input_food.csv,6,sr_code
+fndds,FNDDS,extracted_data_csv,input_food.csv,7,sr_description
+fndds,FNDDS,extracted_data_csv,input_food.csv,8,unit
+fndds,FNDDS,extracted_data_csv,input_food.csv,9,portion_code
+fndds,FNDDS,extracted_data_csv,input_food.csv,10,portion_description
+fndds,FNDDS,extracted_data_csv,input_food.csv,11,gram_weight
+fndds,FNDDS,extracted_data_csv,input_food.csv,12,retention_code
+fndds,FNDDS,extracted_data_csv,measure_unit.csv,1,id
+fndds,FNDDS,extracted_data_csv,measure_unit.csv,2,name
+fndds,FNDDS,extracted_data_csv,nutrient.csv,1,id
+fndds,FNDDS,extracted_data_csv,nutrient.csv,2,name
+fndds,FNDDS,extracted_data_csv,nutrient.csv,3,unit_name
+fndds,FNDDS,extracted_data_csv,nutrient.csv,4,nutrient_nbr
+fndds,FNDDS,extracted_data_csv,nutrient.csv,5,rank
+fndds,FNDDS,extracted_data_csv,survey_fndds_food.csv,1,fdc_id
+fndds,FNDDS,extracted_data_csv,survey_fndds_food.csv,2,food_code
+fndds,FNDDS,extracted_data_csv,survey_fndds_food.csv,3,wweia_category_number
+fndds,FNDDS,extracted_data_csv,survey_fndds_food.csv,4,start_date
+fndds,FNDDS,extracted_data_csv,survey_fndds_food.csv,5,end_date
+fndds,FNDDS,extracted_data_csv,wweia_food_category.csv,1,wweia_food_category
+fndds,FNDDS,extracted_data_csv,wweia_food_category.csv,2,wweia_food_category_description

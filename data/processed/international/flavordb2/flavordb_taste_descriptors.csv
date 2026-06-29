@@ -1,0 +1,679 @@
+﻿entity_id,ingredient_name,molecule_pubchem_id,molecule_name,taste_descriptor
+327,Elattaria,323,coumarin,bitter undertone@nut-like flavor on dilution@bitter
+327,Elattaria,323,coumarin,aromatic@burning taste
+327,Elattaria,6989,Thymol,pungent
+327,Elattaria,6989,Thymol,caustic@sweet
+327,Elattaria,6989,Thymol,medicinal
+327,Elattaria,6989,Thymol,spicy@aromatic taste
+327,Elattaria,7150,Methyl Benzoate,fruity
+327,Elattaria,7150,Methyl Benzoate,nutty
+327,Elattaria,7150,Methyl Benzoate,... with cherry taste
+327,Elattaria,637566,Geraniol,taste threshold values: taste characteristics at 10 ppm@sweet floral rose
+327,Elattaria,637566,Geraniol,citrus with fruity
+327,Elattaria,637566,Geraniol,waxy nuances
+327,Elattaria,878,methanethiol,unpleasant cabbage taste
+327,Elattaria,240,benzaldehyde,burning aromatic taste@similar to bitter almond
+327,Elattaria,244,benzyl alcohol,sharp burning taste
+327,Elattaria,17100,alpha-TERPINEOL,lime (distilled)@peach
+327,Elattaria,17100,alpha-TERPINEOL,floral (lilac) flavor@sweet
+327,Elattaria,17100,alpha-TERPINEOL,lime taste
+327,Elattaria,8842,Citronellol,bitter taste /d-citronellol/@sweet
+327,Elattaria,8842,Citronellol,peach-like flavor /l-citronellol/@taste characteristics at 20 ppm: floral
+327,Elattaria,8842,Citronellol,rose
+327,Elattaria,8842,Citronellol,sweet and green with fruity citrus nuances
+327,Elattaria,6184,Hexanal,characeteristic fruity taste (on dilution)@green
+327,Elattaria,6184,Hexanal,woody
+327,Elattaria,6184,Hexanal,vegetative
+327,Elattaria,6184,Hexanal,apple
+327,Elattaria,6184,Hexanal,grassy
+327,Elattaria,6184,Hexanal,citrus and orange with a fresh lingering aftertaste
+327,Elattaria,11128,Linamarin,bitter
+327,Elattaria,957,1-octanol,oily
+327,Elattaria,957,1-octanol,sweet
+327,Elattaria,957,1-octanol,slightly herbaceous taste
+327,Elattaria,338,salicylic acid,acrid taste@it has sweetish
+327,Elattaria,338,salicylic acid,afterward acrid
+327,Elattaria,338,salicylic acid,taste
+327,Elattaria,1183,vanillin,pleasant vanilla taste
+327,Elattaria,5280511,(Z)-cinnamyl alcohol,bitter taste
+327,Elattaria,14896,Beta-Pinene,piney
+327,Elattaria,14896,Beta-Pinene,turpentine-like taste
+327,Elattaria,5315892,cinnamyl alcohol,bitter taste
+327,Elattaria,784,hydrogen peroxide,slightly acid@bitter
+327,Elattaria,247,betaine,sweet
+327,Elattaria,2758,Eucalyptol,eucalyptus
+327,Elattaria,2758,Eucalyptol,bitter-sweet flavor@pungent
+327,Elattaria,2758,Eucalyptol,cooling
+327,Elattaria,2758,Eucalyptol,spicy taste
+327,Elattaria,637511,cinnamaldehyde,burning taste@sweet taste
+327,Elattaria,8063,Pentanal,warm
+327,Elattaria,8063,Pentanal,slightly fruity
+327,Elattaria,8063,Pentanal,& nut-like at low levels@pleasant
+327,Elattaria,8063,Pentanal,chocolate aroma & taste@... it has sharp
+327,Elattaria,8063,Pentanal,penetrating flavor
+327,Elattaria,6986,2-Isopropyl-5-methylcyclohexanone,bitter
+327,Elattaria,8051,2-Heptanone,pear-like flavor
+327,Elattaria,6054,2-Phenylethanol,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste
+327,Elattaria,11230,Terpinen-4-ol,herbal pepper flavoring
+327,Elattaria,439263,(+)-Neomenthol,peppermint taste /dl-menthol/@cooling taste /dl-menthol/
+327,Elattaria,1110,succinic acid,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow
+327,Elattaria,379,octanoic acid,slightly sour taste@slightly unpleasant rancid taste
+327,Elattaria,159055,D-Camphor,pungent aromatic taste
+327,Elattaria,31260,3-Methyl-1-butanol,pungent
+327,Elattaria,31260,3-Methyl-1-butanol,repulsive taste
+327,Elattaria,6050,Tributyrin,bitter taste
+327,Elattaria,650,"2,3-butanedione",taste characteristics at 50 ppm: sweet
+327,Elattaria,650,"2,3-butanedione",buttery
+327,Elattaria,650,"2,3-butanedione",creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).
+327,Elattaria,5282108,Alpha-Ionone,woody
+327,Elattaria,5282108,Alpha-Ionone,floral
+327,Elattaria,5282108,Alpha-Ionone,berry
+327,Elattaria,5282108,Alpha-Ionone,fruity with powdery nuances
+327,Elattaria,1032,propionic acid,sour & mildly cheese-like
+327,Elattaria,643820,nerol,bitter flavor@fresh
+327,Elattaria,643820,nerol,citrus
+327,Elattaria,643820,nerol,floral
+327,Elattaria,643820,nerol,green
+327,Elattaria,643820,nerol,sweet
+327,Elattaria,643820,nerol,lemon/lime and waxy with a spicy depth
+327,Elattaria,11552,3-Methylbutanal,at very low levels the flavor is warm
+327,Elattaria,11552,3-Methylbutanal,herbaceous
+327,Elattaria,11552,3-Methylbutanal,slightly fruit
+327,Elattaria,11552,3-Methylbutanal,and nut-like
+327,Elattaria,445070,farnesol,weak citrus-lime taste
+327,Elattaria,638011,Citral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+327,Elattaria,638011,Citral,32 to 460 ppb@beta-citral
+327,Elattaria,638011,Citral,30 to 460 ppb.@characteristic bittersweet
+327,Elattaria,6560,2-Methyl-1-propanol,sweet whiskey taste
+327,Elattaria,89594,nicotine,acrid
+327,Elattaria,89594,nicotine,burning
+327,Elattaria,6616,Camphene,camphoraceous taste@terpene
+327,Elattaria,6616,Camphene,camphoraceous taste...cooling
+327,Elattaria,6616,Camphene,minty
+327,Elattaria,6616,Camphene,with citrus and green spicy nuances
+327,Elattaria,8103,1-Hexanol,fatty
+327,Elattaria,8103,1-Hexanol,fruity@aromatic flavor
+327,Elattaria,8129,1-Heptanol,pungent
+327,Elattaria,8129,1-Heptanol,spicy taste
+327,Elattaria,10106,"1,4-Cineole",minty lime oil taste
+327,Elattaria,22311,Dipentene,characteristic ... taste
+327,Elattaria,22311,Dipentene,... becoming more pronounced and less agreeable on aging or exposure to air@sweet
+327,Elattaria,22311,Dipentene,citrus taste@characteristic orange taste@fresh
+327,Elattaria,22311,Dipentene,citrus taste
+327,Elattaria,64685,Borneol,burning taste somewhat reminiscent of mint
+327,Elattaria,6251,D-mannitol,sweetish taste
+327,Elattaria,8294,Linalyl Acetate,persistent sweet
+327,Elattaria,8294,Linalyl Acetate,acrid taste@sweet
+327,Elattaria,8294,Linalyl Acetate,fruity
+327,Elattaria,8294,Linalyl Acetate,pear-like with a faintly floral note
+327,Elattaria,26447,Menthone,bitter
+327,Elattaria,1549026,Geranyl Acetate,taste threshold values: taste characteristics at 20 ppm: green
+327,Elattaria,1549026,Geranyl Acetate,floral
+327,Elattaria,1549026,Geranyl Acetate,fruity with a citrus nuance@sweet
+327,Elattaria,1549026,Geranyl Acetate,fruity
+327,Elattaria,1549026,Geranyl Acetate,overall nondescript taste with notes resembling those of banana
+327,Elattaria,1549026,Geranyl Acetate,pear
+327,Elattaria,1549026,Geranyl Acetate,apple and peach
+327,Elattaria,1549026,Geranyl Acetate,but not a purely sweet aftertaste.
+327,Elattaria,11142,Beta-Phellandrene,burning taste
+327,Elattaria,6561,Isobutyraldehyde,fruity taste
+327,Elattaria,9862,6-Methyl-5-Hepten-2-One,fruity taste
+327,Elattaria,454,Octanal,characteristic pungent
+327,Elattaria,454,Octanal,fatty flavor
+327,Elattaria,768,hydrogen cyanide,bitter
+327,Elattaria,768,hydrogen cyanide,burning taste
+327,Elattaria,2345,Benzyl Benzoate,sharp burning taste
+327,Elattaria,8174,1-Decanol,slight
+327,Elattaria,8174,1-Decanol,characteristic fatty taste
+327,Elattaria,445639,oleic acid,peculiar lard-like taste
+327,Elattaria,8857,Ethyl Acetate,pleasant taste when diluted@bittersweet
+327,Elattaria,8857,Ethyl Acetate,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.
+327,Elattaria,643779,Neral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+327,Elattaria,643779,Neral,32 to 460 ppb@beta-citral
+327,Elattaria,643779,Neral,30 to 460 ppb.@characteristic bittersweet
+327,Elattaria,7362,2-Furaldehyde,distinct caramel taste
+327,Elattaria,440917,D-Limonene,fresh
+327,Elattaria,440917,D-Limonene,citrus taste
+327,Elattaria,31253,Myrcene,sweet
+327,Elattaria,31253,Myrcene,citrus
+327,Elattaria,8130,Heptanal,fatty taste
+327,Elattaria,180,acetone,pungent
+327,Elattaria,180,acetone,sweetish
+327,Elattaria,61503,D-Lactic acid,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid
+327,Elattaria,6549,Linalool,taste characteristics at 30 ppm: floral
+327,Elattaria,6549,Linalool,woody
+327,Elattaria,6549,Linalool,sweet with a green
+327,Elattaria,6549,Linalool,spicy tropical nuance@flavor characteristics: light
+327,Elattaria,6549,Linalool,floral@spicy
+327,Elattaria,6549,Linalool,citrus taste
+330,Cinnamomum,323,coumarin,bitter undertone@nut-like flavor on dilution@bitter
+330,Cinnamomum,323,coumarin,aromatic@burning taste
+330,Cinnamomum,6989,Thymol,pungent
+330,Cinnamomum,6989,Thymol,caustic@sweet
+330,Cinnamomum,6989,Thymol,medicinal
+330,Cinnamomum,6989,Thymol,spicy@aromatic taste
+330,Cinnamomum,7150,Methyl Benzoate,fruity
+330,Cinnamomum,7150,Methyl Benzoate,nutty
+330,Cinnamomum,7150,Methyl Benzoate,... with cherry taste
+330,Cinnamomum,637566,Geraniol,taste threshold values: taste characteristics at 10 ppm@sweet floral rose
+330,Cinnamomum,637566,Geraniol,citrus with fruity
+330,Cinnamomum,637566,Geraniol,waxy nuances
+330,Cinnamomum,11463,Terpinolene,somewhat sweet
+330,Cinnamomum,11463,Terpinolene,citrus flavor@terpene taste
+330,Cinnamomum,878,methanethiol,unpleasant cabbage taste
+330,Cinnamomum,3314,eugenol,spicy
+330,Cinnamomum,3314,eugenol,pungent taste
+330,Cinnamomum,240,benzaldehyde,burning aromatic taste@similar to bitter almond
+330,Cinnamomum,244,benzyl alcohol,sharp burning taste
+330,Cinnamomum,17100,alpha-TERPINEOL,lime (distilled)@peach
+330,Cinnamomum,17100,alpha-TERPINEOL,floral (lilac) flavor@sweet
+330,Cinnamomum,17100,alpha-TERPINEOL,lime taste
+330,Cinnamomum,6184,Hexanal,characeteristic fruity taste (on dilution)@green
+330,Cinnamomum,6184,Hexanal,woody
+330,Cinnamomum,6184,Hexanal,vegetative
+330,Cinnamomum,6184,Hexanal,apple
+330,Cinnamomum,6184,Hexanal,grassy
+330,Cinnamomum,6184,Hexanal,citrus and orange with a fresh lingering aftertaste
+330,Cinnamomum,11128,Linamarin,bitter
+330,Cinnamomum,338,salicylic acid,acrid taste@it has sweetish
+330,Cinnamomum,338,salicylic acid,afterward acrid
+330,Cinnamomum,338,salicylic acid,taste
+330,Cinnamomum,1183,vanillin,pleasant vanilla taste
+330,Cinnamomum,5280511,(Z)-cinnamyl alcohol,bitter taste
+330,Cinnamomum,14896,Beta-Pinene,piney
+330,Cinnamomum,14896,Beta-Pinene,turpentine-like taste
+330,Cinnamomum,5315892,cinnamyl alcohol,bitter taste
+330,Cinnamomum,784,hydrogen peroxide,slightly acid@bitter
+330,Cinnamomum,247,betaine,sweet
+330,Cinnamomum,2758,Eucalyptol,eucalyptus
+330,Cinnamomum,2758,Eucalyptol,bitter-sweet flavor@pungent
+330,Cinnamomum,2758,Eucalyptol,cooling
+330,Cinnamomum,2758,Eucalyptol,spicy taste
+330,Cinnamomum,6998,Salicylaldehyde,nut-like
+330,Cinnamomum,6998,Salicylaldehyde,coumarin flavor at low levels@burning taste@spicy
+330,Cinnamomum,6998,Salicylaldehyde,nut taste
+330,Cinnamomum,637511,cinnamaldehyde,burning taste@sweet taste
+330,Cinnamomum,6986,2-Isopropyl-5-methylcyclohexanone,bitter
+330,Cinnamomum,8051,2-Heptanone,pear-like flavor
+330,Cinnamomum,6054,2-Phenylethanol,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste
+330,Cinnamomum,11230,Terpinen-4-ol,herbal pepper flavoring
+330,Cinnamomum,439263,(+)-Neomenthol,peppermint taste /dl-menthol/@cooling taste /dl-menthol/
+330,Cinnamomum,1110,succinic acid,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow
+330,Cinnamomum,1549018,cis-Jasmone,woody
+330,Cinnamomum,1549018,cis-Jasmone,bitter
+330,Cinnamomum,1549018,cis-Jasmone,tea
+330,Cinnamomum,1549018,cis-Jasmone,with a citrus and floral nuance at 25 ppm
+330,Cinnamomum,159055,D-Camphor,pungent aromatic taste
+330,Cinnamomum,31260,3-Methyl-1-butanol,pungent
+330,Cinnamomum,31260,3-Methyl-1-butanol,repulsive taste
+330,Cinnamomum,6050,Tributyrin,bitter taste
+330,Cinnamomum,650,"2,3-butanedione",taste characteristics at 50 ppm: sweet
+330,Cinnamomum,650,"2,3-butanedione",buttery
+330,Cinnamomum,650,"2,3-butanedione",creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).
+330,Cinnamomum,643820,nerol,bitter flavor@fresh
+330,Cinnamomum,643820,nerol,citrus
+330,Cinnamomum,643820,nerol,floral
+330,Cinnamomum,643820,nerol,green
+330,Cinnamomum,643820,nerol,sweet
+330,Cinnamomum,643820,nerol,lemon/lime and waxy with a spicy depth
+330,Cinnamomum,11552,3-Methylbutanal,at very low levels the flavor is warm
+330,Cinnamomum,11552,3-Methylbutanal,herbaceous
+330,Cinnamomum,11552,3-Methylbutanal,slightly fruit
+330,Cinnamomum,11552,3-Methylbutanal,and nut-like
+330,Cinnamomum,445070,farnesol,weak citrus-lime taste
+330,Cinnamomum,638011,Citral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+330,Cinnamomum,638011,Citral,32 to 460 ppb@beta-citral
+330,Cinnamomum,638011,Citral,30 to 460 ppb.@characteristic bittersweet
+330,Cinnamomum,7127,Methyleugenol,bitter
+330,Cinnamomum,7127,Methyleugenol,burning taste
+330,Cinnamomum,89594,nicotine,acrid
+330,Cinnamomum,89594,nicotine,burning
+330,Cinnamomum,6616,Camphene,camphoraceous taste@terpene
+330,Cinnamomum,6616,Camphene,camphoraceous taste...cooling
+330,Cinnamomum,6616,Camphene,minty
+330,Cinnamomum,6616,Camphene,with citrus and green spicy nuances
+330,Cinnamomum,22311,Dipentene,characteristic ... taste
+330,Cinnamomum,22311,Dipentene,... becoming more pronounced and less agreeable on aging or exposure to air@sweet
+330,Cinnamomum,22311,Dipentene,citrus taste@characteristic orange taste@fresh
+330,Cinnamomum,22311,Dipentene,citrus taste
+330,Cinnamomum,64685,Borneol,burning taste somewhat reminiscent of mint
+330,Cinnamomum,6251,D-mannitol,sweetish taste
+330,Cinnamomum,8294,Linalyl Acetate,persistent sweet
+330,Cinnamomum,8294,Linalyl Acetate,acrid taste@sweet
+330,Cinnamomum,8294,Linalyl Acetate,fruity
+330,Cinnamomum,8294,Linalyl Acetate,pear-like with a faintly floral note
+330,Cinnamomum,26447,Menthone,bitter
+330,Cinnamomum,243,benzoic acid,almost tasteless /benzoic acid usp/@bitter taste@taste detection 8.5x10+1 ppm /media and purity not specified/
+330,Cinnamomum,1549026,Geranyl Acetate,taste threshold values: taste characteristics at 20 ppm: green
+330,Cinnamomum,1549026,Geranyl Acetate,floral
+330,Cinnamomum,1549026,Geranyl Acetate,fruity with a citrus nuance@sweet
+330,Cinnamomum,1549026,Geranyl Acetate,fruity
+330,Cinnamomum,1549026,Geranyl Acetate,overall nondescript taste with notes resembling those of banana
+330,Cinnamomum,1549026,Geranyl Acetate,pear
+330,Cinnamomum,1549026,Geranyl Acetate,apple and peach
+330,Cinnamomum,1549026,Geranyl Acetate,but not a purely sweet aftertaste.
+330,Cinnamomum,996,phenol,sharp
+330,Cinnamomum,996,phenol,burning taste@when in very weak solution it has a sweetish taste.
+330,Cinnamomum,11142,Beta-Phellandrene,burning taste
+330,Cinnamomum,6561,Isobutyraldehyde,fruity taste
+330,Cinnamomum,8815,Estragole,sweet taste reminiscent of anise (differing from anethole)
+330,Cinnamomum,9862,6-Methyl-5-Hepten-2-One,fruity taste
+330,Cinnamomum,454,Octanal,characteristic pungent
+330,Cinnamomum,454,Octanal,fatty flavor
+330,Cinnamomum,768,hydrogen cyanide,bitter
+330,Cinnamomum,768,hydrogen cyanide,burning taste
+330,Cinnamomum,2345,Benzyl Benzoate,sharp burning taste
+330,Cinnamomum,637563,trans-Anethole,sweet taste
+330,Cinnamomum,8857,Ethyl Acetate,pleasant taste when diluted@bittersweet
+330,Cinnamomum,8857,Ethyl Acetate,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.
+330,Cinnamomum,643779,Neral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+330,Cinnamomum,643779,Neral,32 to 460 ppb@beta-citral
+330,Cinnamomum,643779,Neral,30 to 460 ppb.@characteristic bittersweet
+330,Cinnamomum,7362,2-Furaldehyde,distinct caramel taste
+330,Cinnamomum,8785,Benzyl Acetate,bitter
+330,Cinnamomum,8785,Benzyl Acetate,pungent taste
+330,Cinnamomum,31253,Myrcene,sweet
+330,Cinnamomum,31253,Myrcene,citrus
+330,Cinnamomum,8130,Heptanal,fatty taste
+330,Cinnamomum,180,acetone,pungent
+330,Cinnamomum,180,acetone,sweetish
+330,Cinnamomum,61503,D-Lactic acid,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid
+330,Cinnamomum,6549,Linalool,taste characteristics at 30 ppm: floral
+330,Cinnamomum,6549,Linalool,woody
+330,Cinnamomum,6549,Linalool,sweet with a green
+330,Cinnamomum,6549,Linalool,spicy tropical nuance@flavor characteristics: light
+330,Cinnamomum,6549,Linalool,floral@spicy
+330,Cinnamomum,6549,Linalool,citrus taste
+330,Cinnamomum,10364,Carvacrol,excellent smoke taste
+330,Cinnamomum,10364,Carvacrol,@ 1-5 ppm
+331,Syzygium,323,coumarin,bitter undertone@nut-like flavor on dilution@bitter
+331,Syzygium,323,coumarin,aromatic@burning taste
+331,Syzygium,6989,Thymol,pungent
+331,Syzygium,6989,Thymol,caustic@sweet
+331,Syzygium,6989,Thymol,medicinal
+331,Syzygium,6989,Thymol,spicy@aromatic taste
+331,Syzygium,7150,Methyl Benzoate,fruity
+331,Syzygium,7150,Methyl Benzoate,nutty
+331,Syzygium,7150,Methyl Benzoate,... with cherry taste
+331,Syzygium,637566,Geraniol,taste threshold values: taste characteristics at 10 ppm@sweet floral rose
+331,Syzygium,637566,Geraniol,citrus with fruity
+331,Syzygium,637566,Geraniol,waxy nuances
+331,Syzygium,878,methanethiol,unpleasant cabbage taste
+331,Syzygium,3314,eugenol,spicy
+331,Syzygium,3314,eugenol,pungent taste
+331,Syzygium,240,benzaldehyde,burning aromatic taste@similar to bitter almond
+331,Syzygium,244,benzyl alcohol,sharp burning taste
+331,Syzygium,17100,alpha-TERPINEOL,lime (distilled)@peach
+331,Syzygium,17100,alpha-TERPINEOL,floral (lilac) flavor@sweet
+331,Syzygium,17100,alpha-TERPINEOL,lime taste
+331,Syzygium,6184,Hexanal,characeteristic fruity taste (on dilution)@green
+331,Syzygium,6184,Hexanal,woody
+331,Syzygium,6184,Hexanal,vegetative
+331,Syzygium,6184,Hexanal,apple
+331,Syzygium,6184,Hexanal,grassy
+331,Syzygium,6184,Hexanal,citrus and orange with a fresh lingering aftertaste
+331,Syzygium,11128,Linamarin,bitter
+331,Syzygium,957,1-octanol,oily
+331,Syzygium,957,1-octanol,sweet
+331,Syzygium,957,1-octanol,slightly herbaceous taste
+331,Syzygium,338,salicylic acid,acrid taste@it has sweetish
+331,Syzygium,338,salicylic acid,afterward acrid
+331,Syzygium,338,salicylic acid,taste
+331,Syzygium,1183,vanillin,pleasant vanilla taste
+331,Syzygium,5280511,(Z)-cinnamyl alcohol,bitter taste
+331,Syzygium,14896,Beta-Pinene,piney
+331,Syzygium,14896,Beta-Pinene,turpentine-like taste
+331,Syzygium,5315892,cinnamyl alcohol,bitter taste
+331,Syzygium,784,hydrogen peroxide,slightly acid@bitter
+331,Syzygium,8091,Methyl octanoate,oily
+331,Syzygium,8091,Methyl octanoate,somewhat orange taste
+331,Syzygium,247,betaine,sweet
+331,Syzygium,3026,dibutyl phthalate,tastes strong and bitter
+331,Syzygium,637511,cinnamaldehyde,burning taste@sweet taste
+331,Syzygium,6986,2-Isopropyl-5-methylcyclohexanone,bitter
+331,Syzygium,8051,2-Heptanone,pear-like flavor
+331,Syzygium,6054,2-Phenylethanol,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste
+331,Syzygium,11230,Terpinen-4-ol,herbal pepper flavoring
+331,Syzygium,439263,(+)-Neomenthol,peppermint taste /dl-menthol/@cooling taste /dl-menthol/
+331,Syzygium,1110,succinic acid,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow
+331,Syzygium,31260,3-Methyl-1-butanol,pungent
+331,Syzygium,31260,3-Methyl-1-butanol,repulsive taste
+331,Syzygium,6050,Tributyrin,bitter taste
+331,Syzygium,650,"2,3-butanedione",taste characteristics at 50 ppm: sweet
+331,Syzygium,650,"2,3-butanedione",buttery
+331,Syzygium,650,"2,3-butanedione",creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).
+331,Syzygium,11552,3-Methylbutanal,at very low levels the flavor is warm
+331,Syzygium,11552,3-Methylbutanal,herbaceous
+331,Syzygium,11552,3-Methylbutanal,slightly fruit
+331,Syzygium,11552,3-Methylbutanal,and nut-like
+331,Syzygium,445070,farnesol,weak citrus-lime taste
+331,Syzygium,638011,Citral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+331,Syzygium,638011,Citral,32 to 460 ppb@beta-citral
+331,Syzygium,638011,Citral,30 to 460 ppb.@characteristic bittersweet
+331,Syzygium,7127,Methyleugenol,bitter
+331,Syzygium,7127,Methyleugenol,burning taste
+331,Syzygium,6584,Methyl Acetate,fleeting
+331,Syzygium,6584,Methyl Acetate,fruity taste
+331,Syzygium,89594,nicotine,acrid
+331,Syzygium,89594,nicotine,burning
+331,Syzygium,8093,Octan-2-one,camphor taste@cheese@bitter
+331,Syzygium,6251,D-mannitol,sweetish taste
+331,Syzygium,5280804,Isoquercitrin,soln of good grades are practically tasteless@poorer quality (dark) grades have unpleasant flavor and odor
+331,Syzygium,5280804,Isoquercitrin,probably due to tannic acid
+331,Syzygium,8294,Linalyl Acetate,persistent sweet
+331,Syzygium,8294,Linalyl Acetate,acrid taste@sweet
+331,Syzygium,8294,Linalyl Acetate,fruity
+331,Syzygium,8294,Linalyl Acetate,pear-like with a faintly floral note
+331,Syzygium,26447,Menthone,bitter
+331,Syzygium,243,benzoic acid,almost tasteless /benzoic acid usp/@bitter taste@taste detection 8.5x10+1 ppm /media and purity not specified/
+331,Syzygium,1549026,Geranyl Acetate,taste threshold values: taste characteristics at 20 ppm: green
+331,Syzygium,1549026,Geranyl Acetate,floral
+331,Syzygium,1549026,Geranyl Acetate,fruity with a citrus nuance@sweet
+331,Syzygium,1549026,Geranyl Acetate,fruity
+331,Syzygium,1549026,Geranyl Acetate,overall nondescript taste with notes resembling those of banana
+331,Syzygium,1549026,Geranyl Acetate,pear
+331,Syzygium,1549026,Geranyl Acetate,apple and peach
+331,Syzygium,1549026,Geranyl Acetate,but not a purely sweet aftertaste.
+331,Syzygium,7361,Furfuryl Alcohol,bitter
+331,Syzygium,6561,Isobutyraldehyde,fruity taste
+331,Syzygium,8815,Estragole,sweet taste reminiscent of anise (differing from anethole)
+331,Syzygium,9862,6-Methyl-5-Hepten-2-One,fruity taste
+331,Syzygium,454,Octanal,characteristic pungent
+331,Syzygium,454,Octanal,fatty flavor
+331,Syzygium,7410,Acetophenone,bitter
+331,Syzygium,7410,Acetophenone,aromatic flavor
+331,Syzygium,768,hydrogen cyanide,bitter
+331,Syzygium,768,hydrogen cyanide,burning taste
+331,Syzygium,2345,Benzyl Benzoate,sharp burning taste
+331,Syzygium,4133,methyl salicylate,liquid having the characteristic taste of wintergreen
+331,Syzygium,637563,trans-Anethole,sweet taste
+331,Syzygium,8857,Ethyl Acetate,pleasant taste when diluted@bittersweet
+331,Syzygium,8857,Ethyl Acetate,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.
+331,Syzygium,643779,Neral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+331,Syzygium,643779,Neral,32 to 460 ppb@beta-citral
+331,Syzygium,643779,Neral,30 to 460 ppb.@characteristic bittersweet
+331,Syzygium,7362,2-Furaldehyde,distinct caramel taste
+331,Syzygium,8785,Benzyl Acetate,bitter
+331,Syzygium,8785,Benzyl Acetate,pungent taste
+331,Syzygium,31253,Myrcene,sweet
+331,Syzygium,31253,Myrcene,citrus
+331,Syzygium,8130,Heptanal,fatty taste
+331,Syzygium,180,acetone,pungent
+331,Syzygium,180,acetone,sweetish
+331,Syzygium,61503,D-Lactic acid,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid
+331,Syzygium,6549,Linalool,taste characteristics at 30 ppm: floral
+331,Syzygium,6549,Linalool,woody
+331,Syzygium,6549,Linalool,sweet with a green
+331,Syzygium,6549,Linalool,spicy tropical nuance@flavor characteristics: light
+331,Syzygium,6549,Linalool,floral@spicy
+331,Syzygium,6549,Linalool,citrus taste
+331,Syzygium,10364,Carvacrol,excellent smoke taste
+331,Syzygium,10364,Carvacrol,@ 1-5 ppm
+172,Cocos Nucifera,323,coumarin,bitter undertone@nut-like flavor on dilution@bitter
+172,Cocos Nucifera,323,coumarin,aromatic@burning taste
+172,Cocos Nucifera,7150,Methyl Benzoate,fruity
+172,Cocos Nucifera,7150,Methyl Benzoate,nutty
+172,Cocos Nucifera,7150,Methyl Benzoate,... with cherry taste
+172,Cocos Nucifera,637566,Geraniol,taste threshold values: taste characteristics at 10 ppm@sweet floral rose
+172,Cocos Nucifera,637566,Geraniol,citrus with fruity
+172,Cocos Nucifera,637566,Geraniol,waxy nuances
+172,Cocos Nucifera,878,methanethiol,unpleasant cabbage taste
+172,Cocos Nucifera,1049,Pyridine,amine taste
+172,Cocos Nucifera,240,benzaldehyde,burning aromatic taste@similar to bitter almond
+172,Cocos Nucifera,244,benzyl alcohol,sharp burning taste
+172,Cocos Nucifera,6184,Hexanal,characeteristic fruity taste (on dilution)@green
+172,Cocos Nucifera,6184,Hexanal,woody
+172,Cocos Nucifera,6184,Hexanal,vegetative
+172,Cocos Nucifera,6184,Hexanal,apple
+172,Cocos Nucifera,6184,Hexanal,grassy
+172,Cocos Nucifera,6184,Hexanal,citrus and orange with a fresh lingering aftertaste
+172,Cocos Nucifera,11128,Linamarin,bitter
+172,Cocos Nucifera,957,1-octanol,oily
+172,Cocos Nucifera,957,1-octanol,sweet
+172,Cocos Nucifera,957,1-octanol,slightly herbaceous taste
+172,Cocos Nucifera,338,salicylic acid,acrid taste@it has sweetish
+172,Cocos Nucifera,338,salicylic acid,afterward acrid
+172,Cocos Nucifera,338,salicylic acid,taste
+172,Cocos Nucifera,1183,vanillin,pleasant vanilla taste
+172,Cocos Nucifera,5280511,(Z)-cinnamyl alcohol,bitter taste
+172,Cocos Nucifera,5315892,cinnamyl alcohol,bitter taste
+172,Cocos Nucifera,784,hydrogen peroxide,slightly acid@bitter
+172,Cocos Nucifera,8091,Methyl octanoate,oily
+172,Cocos Nucifera,8091,Methyl octanoate,somewhat orange taste
+172,Cocos Nucifera,247,betaine,sweet
+172,Cocos Nucifera,31284,Methyl tetradecanoate,honey & orris-like flavor at trace levels@coconut taste
+172,Cocos Nucifera,637511,cinnamaldehyde,burning taste@sweet taste
+172,Cocos Nucifera,8063,Pentanal,warm
+172,Cocos Nucifera,8063,Pentanal,slightly fruity
+172,Cocos Nucifera,8063,Pentanal,& nut-like at low levels@pleasant
+172,Cocos Nucifera,8063,Pentanal,chocolate aroma & taste@... it has sharp
+172,Cocos Nucifera,8063,Pentanal,penetrating flavor
+172,Cocos Nucifera,6986,2-Isopropyl-5-methylcyclohexanone,bitter
+172,Cocos Nucifera,8051,2-Heptanone,pear-like flavor
+172,Cocos Nucifera,6054,2-Phenylethanol,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste
+172,Cocos Nucifera,439263,(+)-Neomenthol,peppermint taste /dl-menthol/@cooling taste /dl-menthol/
+172,Cocos Nucifera,1110,succinic acid,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow
+172,Cocos Nucifera,179,acetoin,"fatty creamy tub"" butter taste"""
+172,Cocos Nucifera,379,octanoic acid,slightly sour taste@slightly unpleasant rancid taste
+172,Cocos Nucifera,31260,3-Methyl-1-butanol,pungent
+172,Cocos Nucifera,31260,3-Methyl-1-butanol,repulsive taste
+172,Cocos Nucifera,12844,Delta-Dodecalactone,creamy taste@at low levels has peach
+172,Cocos Nucifera,12844,Delta-Dodecalactone,pear
+172,Cocos Nucifera,12844,Delta-Dodecalactone,plum-like flavor
+172,Cocos Nucifera,6050,Tributyrin,bitter taste
+172,Cocos Nucifera,650,"2,3-butanedione",taste characteristics at 50 ppm: sweet
+172,Cocos Nucifera,650,"2,3-butanedione",buttery
+172,Cocos Nucifera,650,"2,3-butanedione",creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).
+172,Cocos Nucifera,1032,propionic acid,sour & mildly cheese-like
+172,Cocos Nucifera,11552,3-Methylbutanal,at very low levels the flavor is warm
+172,Cocos Nucifera,11552,3-Methylbutanal,herbaceous
+172,Cocos Nucifera,11552,3-Methylbutanal,slightly fruit
+172,Cocos Nucifera,11552,3-Methylbutanal,and nut-like
+172,Cocos Nucifera,445070,farnesol,weak citrus-lime taste
+172,Cocos Nucifera,638011,Citral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+172,Cocos Nucifera,638011,Citral,32 to 460 ppb@beta-citral
+172,Cocos Nucifera,638011,Citral,30 to 460 ppb.@characteristic bittersweet
+172,Cocos Nucifera,89594,nicotine,acrid
+172,Cocos Nucifera,89594,nicotine,burning
+172,Cocos Nucifera,8103,1-Hexanol,fatty
+172,Cocos Nucifera,8103,1-Hexanol,fruity@aromatic flavor
+172,Cocos Nucifera,22311,Dipentene,characteristic ... taste
+172,Cocos Nucifera,22311,Dipentene,... becoming more pronounced and less agreeable on aging or exposure to air@sweet
+172,Cocos Nucifera,22311,Dipentene,citrus taste@characteristic orange taste@fresh
+172,Cocos Nucifera,22311,Dipentene,citrus taste
+172,Cocos Nucifera,402,hydrogen sulfide,faint taste@tasteless
+172,Cocos Nucifera,6251,D-mannitol,sweetish taste
+172,Cocos Nucifera,26447,Menthone,bitter
+172,Cocos Nucifera,1549026,Geranyl Acetate,taste threshold values: taste characteristics at 20 ppm: green
+172,Cocos Nucifera,1549026,Geranyl Acetate,floral
+172,Cocos Nucifera,1549026,Geranyl Acetate,fruity with a citrus nuance@sweet
+172,Cocos Nucifera,1549026,Geranyl Acetate,fruity
+172,Cocos Nucifera,1549026,Geranyl Acetate,overall nondescript taste with notes resembling those of banana
+172,Cocos Nucifera,1549026,Geranyl Acetate,pear
+172,Cocos Nucifera,1549026,Geranyl Acetate,apple and peach
+172,Cocos Nucifera,1549026,Geranyl Acetate,but not a purely sweet aftertaste.
+172,Cocos Nucifera,7361,Furfuryl Alcohol,bitter
+172,Cocos Nucifera,8139,Methyl Dodecanoate,fatty taste
+172,Cocos Nucifera,16666,l-Menthol,peppermint taste
+172,Cocos Nucifera,8175,Decanal,fatty
+172,Cocos Nucifera,8175,Decanal,citrus-like odor@sharp
+172,Cocos Nucifera,8175,Decanal,orange flavor
+172,Cocos Nucifera,6561,Isobutyraldehyde,fruity taste
+172,Cocos Nucifera,9862,6-Methyl-5-Hepten-2-One,fruity taste
+172,Cocos Nucifera,454,Octanal,characteristic pungent
+172,Cocos Nucifera,454,Octanal,fatty flavor
+172,Cocos Nucifera,768,hydrogen cyanide,bitter
+172,Cocos Nucifera,768,hydrogen cyanide,burning taste
+172,Cocos Nucifera,2345,Benzyl Benzoate,sharp burning taste
+172,Cocos Nucifera,445639,oleic acid,peculiar lard-like taste
+172,Cocos Nucifera,8857,Ethyl Acetate,pleasant taste when diluted@bittersweet
+172,Cocos Nucifera,8857,Ethyl Acetate,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.
+172,Cocos Nucifera,643779,Neral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+172,Cocos Nucifera,643779,Neral,32 to 460 ppb@beta-citral
+172,Cocos Nucifera,643779,Neral,30 to 460 ppb.@characteristic bittersweet
+172,Cocos Nucifera,8130,Heptanal,fatty taste
+172,Cocos Nucifera,180,acetone,pungent
+172,Cocos Nucifera,180,acetone,sweetish
+172,Cocos Nucifera,61503,D-Lactic acid,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid
+172,Cocos Nucifera,7710,gamma-Nonanolactone,taste characteristics at 10 ppm: coconut
+172,Cocos Nucifera,7710,gamma-Nonanolactone,creamy
+172,Cocos Nucifera,7710,gamma-Nonanolactone,waxy with fatty milky notes
+172,Cocos Nucifera,8158,Nonanoic Acid,unpleasant taste@excellent coconut taste
+333,Zingiber,323,coumarin,bitter undertone@nut-like flavor on dilution@bitter
+333,Zingiber,323,coumarin,aromatic@burning taste
+333,Zingiber,6989,Thymol,pungent
+333,Zingiber,6989,Thymol,caustic@sweet
+333,Zingiber,6989,Thymol,medicinal
+333,Zingiber,6989,Thymol,spicy@aromatic taste
+333,Zingiber,7150,Methyl Benzoate,fruity
+333,Zingiber,7150,Methyl Benzoate,nutty
+333,Zingiber,7150,Methyl Benzoate,... with cherry taste
+333,Zingiber,638011,Citral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+333,Zingiber,638011,Citral,32 to 460 ppb@beta-citral
+333,Zingiber,638011,Citral,30 to 460 ppb.@characteristic bittersweet
+333,Zingiber,6560,2-Methyl-1-propanol,sweet whiskey taste
+333,Zingiber,637566,Geraniol,taste threshold values: taste characteristics at 10 ppm@sweet floral rose
+333,Zingiber,637566,Geraniol,citrus with fruity
+333,Zingiber,637566,Geraniol,waxy nuances
+333,Zingiber,6584,Methyl Acetate,fleeting
+333,Zingiber,6584,Methyl Acetate,fruity taste
+333,Zingiber,11463,Terpinolene,somewhat sweet
+333,Zingiber,11463,Terpinolene,citrus flavor@terpene taste
+333,Zingiber,89594,nicotine,acrid
+333,Zingiber,89594,nicotine,burning
+333,Zingiber,6616,Camphene,camphoraceous taste@terpene
+333,Zingiber,6616,Camphene,camphoraceous taste...cooling
+333,Zingiber,6616,Camphene,minty
+333,Zingiber,6616,Camphene,with citrus and green spicy nuances
+333,Zingiber,878,methanethiol,unpleasant cabbage taste
+333,Zingiber,8103,1-Hexanol,fatty
+333,Zingiber,8103,1-Hexanol,fruity@aromatic flavor
+333,Zingiber,240,benzaldehyde,burning aromatic taste@similar to bitter almond
+333,Zingiber,22311,Dipentene,characteristic ... taste
+333,Zingiber,22311,Dipentene,... becoming more pronounced and less agreeable on aging or exposure to air@sweet
+333,Zingiber,22311,Dipentene,citrus taste@characteristic orange taste@fresh
+333,Zingiber,22311,Dipentene,citrus taste
+333,Zingiber,244,benzyl alcohol,sharp burning taste
+333,Zingiber,64685,Borneol,burning taste somewhat reminiscent of mint
+333,Zingiber,17100,alpha-TERPINEOL,lime (distilled)@peach
+333,Zingiber,17100,alpha-TERPINEOL,floral (lilac) flavor@sweet
+333,Zingiber,17100,alpha-TERPINEOL,lime taste
+333,Zingiber,6251,D-mannitol,sweetish taste
+333,Zingiber,8842,Citronellol,bitter taste /d-citronellol/@sweet
+333,Zingiber,8842,Citronellol,peach-like flavor /l-citronellol/@taste characteristics at 20 ppm: floral
+333,Zingiber,8842,Citronellol,rose
+333,Zingiber,8842,Citronellol,sweet and green with fruity citrus nuances
+333,Zingiber,6552009,Borneol,burning taste somewhat reminiscent of mint
+333,Zingiber,26447,Menthone,bitter
+333,Zingiber,6184,Hexanal,characeteristic fruity taste (on dilution)@green
+333,Zingiber,6184,Hexanal,woody
+333,Zingiber,6184,Hexanal,vegetative
+333,Zingiber,6184,Hexanal,apple
+333,Zingiber,6184,Hexanal,grassy
+333,Zingiber,6184,Hexanal,citrus and orange with a fresh lingering aftertaste
+333,Zingiber,1549026,Geranyl Acetate,taste threshold values: taste characteristics at 20 ppm: green
+333,Zingiber,1549026,Geranyl Acetate,floral
+333,Zingiber,1549026,Geranyl Acetate,fruity with a citrus nuance@sweet
+333,Zingiber,1549026,Geranyl Acetate,fruity
+333,Zingiber,1549026,Geranyl Acetate,overall nondescript taste with notes resembling those of banana
+333,Zingiber,1549026,Geranyl Acetate,pear
+333,Zingiber,1549026,Geranyl Acetate,apple and peach
+333,Zingiber,1549026,Geranyl Acetate,but not a purely sweet aftertaste.
+333,Zingiber,11128,Linamarin,bitter
+333,Zingiber,957,1-octanol,oily
+333,Zingiber,957,1-octanol,sweet
+333,Zingiber,957,1-octanol,slightly herbaceous taste
+333,Zingiber,338,salicylic acid,acrid taste@it has sweetish
+333,Zingiber,338,salicylic acid,afterward acrid
+333,Zingiber,338,salicylic acid,taste
+333,Zingiber,1183,vanillin,pleasant vanilla taste
+333,Zingiber,5280511,(Z)-cinnamyl alcohol,bitter taste
+333,Zingiber,14896,Beta-Pinene,piney
+333,Zingiber,14896,Beta-Pinene,turpentine-like taste
+333,Zingiber,5315892,cinnamyl alcohol,bitter taste
+333,Zingiber,996,phenol,sharp
+333,Zingiber,996,phenol,burning taste@when in very weak solution it has a sweetish taste.
+333,Zingiber,784,hydrogen peroxide,slightly acid@bitter
+333,Zingiber,11142,Beta-Phellandrene,burning taste
+333,Zingiber,8091,Methyl octanoate,oily
+333,Zingiber,8091,Methyl octanoate,somewhat orange taste
+333,Zingiber,638014,Beta-Ionone,woody
+333,Zingiber,638014,Beta-Ionone,berry
+333,Zingiber,638014,Beta-Ionone,floral
+333,Zingiber,638014,Beta-Ionone,green and fruity
+333,Zingiber,247,betaine,sweet
+333,Zingiber,8175,Decanal,fatty
+333,Zingiber,8175,Decanal,citrus-like odor@sharp
+333,Zingiber,8175,Decanal,orange flavor
+333,Zingiber,2758,Eucalyptol,eucalyptus
+333,Zingiber,2758,Eucalyptol,bitter-sweet flavor@pungent
+333,Zingiber,2758,Eucalyptol,cooling
+333,Zingiber,2758,Eucalyptol,spicy taste
+333,Zingiber,10282,Piperitol,fresh pungent taste
+333,Zingiber,6561,Isobutyraldehyde,fruity taste
+333,Zingiber,637511,cinnamaldehyde,burning taste@sweet taste
+333,Zingiber,8815,Estragole,sweet taste reminiscent of anise (differing from anethole)
+333,Zingiber,9862,6-Methyl-5-Hepten-2-One,fruity taste
+333,Zingiber,6986,2-Isopropyl-5-methylcyclohexanone,bitter
+333,Zingiber,8051,2-Heptanone,pear-like flavor
+333,Zingiber,6054,2-Phenylethanol,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste
+333,Zingiber,11230,Terpinen-4-ol,herbal pepper flavoring
+333,Zingiber,439263,(+)-Neomenthol,peppermint taste /dl-menthol/@cooling taste /dl-menthol/
+333,Zingiber,1110,succinic acid,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow
+333,Zingiber,454,Octanal,characteristic pungent
+333,Zingiber,454,Octanal,fatty flavor
+333,Zingiber,768,hydrogen cyanide,bitter
+333,Zingiber,768,hydrogen cyanide,burning taste
+333,Zingiber,2345,Benzyl Benzoate,sharp burning taste
+333,Zingiber,379,octanoic acid,slightly sour taste@slightly unpleasant rancid taste
+333,Zingiber,159055,D-Camphor,pungent aromatic taste
+333,Zingiber,637563,trans-Anethole,sweet taste
+333,Zingiber,31260,3-Methyl-1-butanol,pungent
+333,Zingiber,31260,3-Methyl-1-butanol,repulsive taste
+333,Zingiber,445639,oleic acid,peculiar lard-like taste
+333,Zingiber,8857,Ethyl Acetate,pleasant taste when diluted@bittersweet
+333,Zingiber,8857,Ethyl Acetate,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.
+333,Zingiber,643779,Neral,taste threshold values: detection: 28 to 120 ppb@alpha-citral
+333,Zingiber,643779,Neral,32 to 460 ppb@beta-citral
+333,Zingiber,643779,Neral,30 to 460 ppb.@characteristic bittersweet
+333,Zingiber,7362,2-Furaldehyde,distinct caramel taste
+333,Zingiber,1031,1-propanol,characteristic ripe
+333,Zingiber,1031,1-propanol,fruity flavor@taste detection: 7.50x10+3 ppm
+333,Zingiber,1031,1-propanol,purity of sample not specified@burning taste
+333,Zingiber,440917,D-Limonene,fresh
+333,Zingiber,440917,D-Limonene,citrus taste
+333,Zingiber,6050,Tributyrin,bitter taste
+333,Zingiber,31253,Myrcene,sweet
+333,Zingiber,31253,Myrcene,citrus
+333,Zingiber,8130,Heptanal,fatty taste
+333,Zingiber,180,acetone,pungent
+333,Zingiber,180,acetone,sweetish
+333,Zingiber,31276,Isoamyl Acetate,bittersweet taste reminiscent of pear ... taste characteristics at 30 ppm: sweet fruity
+333,Zingiber,31276,Isoamyl Acetate,banana-like with a green ripe nuance.@slight apple taste
+333,Zingiber,650,"2,3-butanedione",taste characteristics at 50 ppm: sweet
+333,Zingiber,650,"2,3-butanedione",buttery
+333,Zingiber,650,"2,3-butanedione",creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).
+333,Zingiber,61503,D-Lactic acid,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid
+333,Zingiber,31211,Vanillylacetone,sharp taste similar to ginger@sweet
+333,Zingiber,31211,Vanillylacetone,spicy taste
+333,Zingiber,1548943,Capsaicin,burning taste detectable in 1 part in 100
+333,Zingiber,1548943,Capsaicin,000
+333,Zingiber,6549,Linalool,taste characteristics at 30 ppm: floral
+333,Zingiber,6549,Linalool,woody
+333,Zingiber,6549,Linalool,sweet with a green
+333,Zingiber,6549,Linalool,spicy tropical nuance@flavor characteristics: light
+333,Zingiber,6549,Linalool,floral@spicy
+333,Zingiber,6549,Linalool,citrus taste
+333,Zingiber,643820,nerol,bitter flavor@fresh
+333,Zingiber,643820,nerol,citrus
+333,Zingiber,643820,nerol,floral
+333,Zingiber,643820,nerol,green
+333,Zingiber,643820,nerol,sweet
+333,Zingiber,643820,nerol,lemon/lime and waxy with a spicy depth
+333,Zingiber,10364,Carvacrol,excellent smoke taste
+333,Zingiber,10364,Carvacrol,@ 1-5 ppm
+333,Zingiber,11552,3-Methylbutanal,at very low levels the flavor is warm
+333,Zingiber,11552,3-Methylbutanal,herbaceous
+333,Zingiber,11552,3-Methylbutanal,slightly fruit
+333,Zingiber,11552,3-Methylbutanal,and nut-like
+333,Zingiber,445070,farnesol,weak citrus-lime taste

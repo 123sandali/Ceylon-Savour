@@ -1,0 +1,553 @@
+﻿entity_id,ingredient_name,taste_descriptor,molecule_count
+330,Cinnamomum,bitter,7
+330,Cinnamomum,bitter taste,3
+330,Cinnamomum,burning taste,3
+330,Cinnamomum,fruity,3
+330,Cinnamomum,pungent,3
+330,Cinnamomum,sweet,3
+330,Cinnamomum,woody,3
+330,Cinnamomum,30 to 460 ppb.@characteristic bittersweet,2
+330,Cinnamomum,32 to 460 ppb@beta-citral,2
+330,Cinnamomum,citrus,2
+330,Cinnamomum,citrus taste,2
+330,Cinnamomum,floral,2
+330,Cinnamomum,fruity taste,2
+330,Cinnamomum,pungent taste,2
+330,Cinnamomum,sharp burning taste,2
+330,Cinnamomum,taste threshold values: detection: 28 to 120 ppb@alpha-citral,2
+330,Cinnamomum,... becoming more pronounced and less agreeable on aging or exposure to air@sweet,1
+330,Cinnamomum,... with cherry taste,1
+330,Cinnamomum,@ 1-5 ppm,1
+330,Cinnamomum,acrid,1
+330,Cinnamomum,acrid taste@it has sweetish,1
+330,Cinnamomum,acrid taste@sweet,1
+330,Cinnamomum,afterward acrid,1
+330,Cinnamomum,almost tasteless /benzoic acid usp/@bitter taste@taste detection 8.5x10+1 ppm /media and purity not specified/,1
+330,Cinnamomum,and nut-like,1
+330,Cinnamomum,apple,1
+330,Cinnamomum,apple and peach,1
+330,Cinnamomum,aromatic@burning taste,1
+330,Cinnamomum,at very low levels the flavor is warm,1
+330,Cinnamomum,bitter flavor@fresh,1
+330,Cinnamomum,bitter undertone@nut-like flavor on dilution@bitter,1
+330,Cinnamomum,bitter-sweet flavor@pungent,1
+330,Cinnamomum,burning,1
+330,Cinnamomum,burning aromatic taste@similar to bitter almond,1
+330,Cinnamomum,burning taste somewhat reminiscent of mint,1
+330,Cinnamomum,burning taste@sweet taste,1
+330,Cinnamomum,burning taste@when in very weak solution it has a sweetish taste.,1
+330,Cinnamomum,but not a purely sweet aftertaste.,1
+330,Cinnamomum,buttery,1
+330,Cinnamomum,camphoraceous taste...cooling,1
+330,Cinnamomum,camphoraceous taste@terpene,1
+330,Cinnamomum,caustic@sweet,1
+330,Cinnamomum,characeteristic fruity taste (on dilution)@green,1
+330,Cinnamomum,characteristic ... taste,1
+330,Cinnamomum,characteristic pungent,1
+330,Cinnamomum,citrus and orange with a fresh lingering aftertaste,1
+330,Cinnamomum,citrus flavor@terpene taste,1
+330,Cinnamomum,citrus taste@characteristic orange taste@fresh,1
+330,Cinnamomum,citrus with fruity,1
+330,Cinnamomum,cooling,1
+330,Cinnamomum,coumarin flavor at low levels@burning taste@spicy,1
+330,Cinnamomum,creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).,1
+330,Cinnamomum,distinct caramel taste,1
+330,Cinnamomum,eucalyptus,1
+330,Cinnamomum,excellent smoke taste,1
+330,Cinnamomum,fatty flavor,1
+330,Cinnamomum,fatty taste,1
+330,Cinnamomum,floral (lilac) flavor@sweet,1
+330,Cinnamomum,floral@spicy,1
+330,Cinnamomum,fruity with a citrus nuance@sweet,1
+330,Cinnamomum,grassy,1
+330,Cinnamomum,green,1
+330,Cinnamomum,herbaceous,1
+330,Cinnamomum,herbal pepper flavoring,1
+330,Cinnamomum,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste,1
+330,Cinnamomum,lemon/lime and waxy with a spicy depth,1
+330,Cinnamomum,lime (distilled)@peach,1
+330,Cinnamomum,lime taste,1
+330,Cinnamomum,medicinal,1
+330,Cinnamomum,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid,1
+330,Cinnamomum,minty,1
+330,Cinnamomum,nut taste,1
+330,Cinnamomum,nut-like,1
+330,Cinnamomum,nutty,1
+330,Cinnamomum,overall nondescript taste with notes resembling those of banana,1
+330,Cinnamomum,pear,1
+330,Cinnamomum,pear-like flavor,1
+330,Cinnamomum,pear-like with a faintly floral note,1
+330,Cinnamomum,peppermint taste /dl-menthol/@cooling taste /dl-menthol/,1
+330,Cinnamomum,persistent sweet,1
+330,Cinnamomum,piney,1
+330,Cinnamomum,pleasant taste when diluted@bittersweet,1
+330,Cinnamomum,pleasant vanilla taste,1
+330,Cinnamomum,pungent aromatic taste,1
+330,Cinnamomum,repulsive taste,1
+330,Cinnamomum,sharp,1
+330,Cinnamomum,slightly acid@bitter,1
+330,Cinnamomum,slightly fruit,1
+330,Cinnamomum,somewhat sweet,1
+330,Cinnamomum,spicy,1
+330,Cinnamomum,spicy taste,1
+330,Cinnamomum,spicy tropical nuance@flavor characteristics: light,1
+330,Cinnamomum,spicy@aromatic taste,1
+330,Cinnamomum,sweet taste,1
+330,Cinnamomum,sweet taste reminiscent of anise (differing from anethole),1
+330,Cinnamomum,sweet with a green,1
+330,Cinnamomum,sweetish,1
+330,Cinnamomum,sweetish taste,1
+330,Cinnamomum,taste,1
+330,Cinnamomum,taste characteristics at 30 ppm: floral,1
+330,Cinnamomum,taste characteristics at 50 ppm: sweet,1
+330,Cinnamomum,taste threshold values: taste characteristics at 10 ppm@sweet floral rose,1
+330,Cinnamomum,taste threshold values: taste characteristics at 20 ppm: green,1
+330,Cinnamomum,tea,1
+330,Cinnamomum,turpentine-like taste,1
+330,Cinnamomum,unpleasant cabbage taste,1
+330,Cinnamomum,vegetative,1
+330,Cinnamomum,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow,1
+330,Cinnamomum,waxy nuances,1
+330,Cinnamomum,weak citrus-lime taste,1
+330,Cinnamomum,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.,1
+330,Cinnamomum,with a citrus and floral nuance at 25 ppm,1
+330,Cinnamomum,with citrus and green spicy nuances,1
+172,Cocos Nucifera,bitter,5
+172,Cocos Nucifera,bitter taste,3
+172,Cocos Nucifera,30 to 460 ppb.@characteristic bittersweet,2
+172,Cocos Nucifera,32 to 460 ppb@beta-citral,2
+172,Cocos Nucifera,fatty,2
+172,Cocos Nucifera,fatty taste,2
+172,Cocos Nucifera,fruity,2
+172,Cocos Nucifera,fruity taste,2
+172,Cocos Nucifera,oily,2
+172,Cocos Nucifera,pear,2
+172,Cocos Nucifera,pungent,2
+172,Cocos Nucifera,sharp burning taste,2
+172,Cocos Nucifera,sweet,2
+172,Cocos Nucifera,taste threshold values: detection: 28 to 120 ppb@alpha-citral,2
+172,Cocos Nucifera,& nut-like at low levels@pleasant,1
+172,Cocos Nucifera,... becoming more pronounced and less agreeable on aging or exposure to air@sweet,1
+172,Cocos Nucifera,... with cherry taste,1
+172,Cocos Nucifera,acrid,1
+172,Cocos Nucifera,acrid taste@it has sweetish,1
+172,Cocos Nucifera,afterward acrid,1
+172,Cocos Nucifera,amine taste,1
+172,Cocos Nucifera,and nut-like,1
+172,Cocos Nucifera,apple,1
+172,Cocos Nucifera,apple and peach,1
+172,Cocos Nucifera,aromatic@burning taste,1
+172,Cocos Nucifera,at very low levels the flavor is warm,1
+172,Cocos Nucifera,bitter undertone@nut-like flavor on dilution@bitter,1
+172,Cocos Nucifera,burning,1
+172,Cocos Nucifera,burning aromatic taste@similar to bitter almond,1
+172,Cocos Nucifera,burning taste,1
+172,Cocos Nucifera,burning taste@sweet taste,1
+172,Cocos Nucifera,but not a purely sweet aftertaste.,1
+172,Cocos Nucifera,buttery,1
+172,Cocos Nucifera,characeteristic fruity taste (on dilution)@green,1
+172,Cocos Nucifera,characteristic ... taste,1
+172,Cocos Nucifera,characteristic pungent,1
+172,Cocos Nucifera,chocolate aroma & taste@... it has sharp,1
+172,Cocos Nucifera,citrus and orange with a fresh lingering aftertaste,1
+172,Cocos Nucifera,citrus taste,1
+172,Cocos Nucifera,citrus taste@characteristic orange taste@fresh,1
+172,Cocos Nucifera,citrus with fruity,1
+172,Cocos Nucifera,citrus-like odor@sharp,1
+172,Cocos Nucifera,creamy,1
+172,Cocos Nucifera,creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).,1
+172,Cocos Nucifera,creamy taste@at low levels has peach,1
+172,Cocos Nucifera,faint taste@tasteless,1
+172,Cocos Nucifera,"fatty creamy tub"" butter taste""",1
+172,Cocos Nucifera,fatty flavor,1
+172,Cocos Nucifera,floral,1
+172,Cocos Nucifera,fruity with a citrus nuance@sweet,1
+172,Cocos Nucifera,fruity@aromatic flavor,1
+172,Cocos Nucifera,grassy,1
+172,Cocos Nucifera,herbaceous,1
+172,Cocos Nucifera,honey & orris-like flavor at trace levels@coconut taste,1
+172,Cocos Nucifera,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste,1
+172,Cocos Nucifera,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid,1
+172,Cocos Nucifera,nutty,1
+172,Cocos Nucifera,orange flavor,1
+172,Cocos Nucifera,overall nondescript taste with notes resembling those of banana,1
+172,Cocos Nucifera,pear-like flavor,1
+172,Cocos Nucifera,peculiar lard-like taste,1
+172,Cocos Nucifera,penetrating flavor,1
+172,Cocos Nucifera,peppermint taste,1
+172,Cocos Nucifera,peppermint taste /dl-menthol/@cooling taste /dl-menthol/,1
+172,Cocos Nucifera,pleasant taste when diluted@bittersweet,1
+172,Cocos Nucifera,pleasant vanilla taste,1
+172,Cocos Nucifera,plum-like flavor,1
+172,Cocos Nucifera,repulsive taste,1
+172,Cocos Nucifera,slightly acid@bitter,1
+172,Cocos Nucifera,slightly fruit,1
+172,Cocos Nucifera,slightly fruity,1
+172,Cocos Nucifera,slightly herbaceous taste,1
+172,Cocos Nucifera,slightly sour taste@slightly unpleasant rancid taste,1
+172,Cocos Nucifera,somewhat orange taste,1
+172,Cocos Nucifera,sour & mildly cheese-like,1
+172,Cocos Nucifera,sweetish,1
+172,Cocos Nucifera,sweetish taste,1
+172,Cocos Nucifera,taste,1
+172,Cocos Nucifera,taste characteristics at 10 ppm: coconut,1
+172,Cocos Nucifera,taste characteristics at 50 ppm: sweet,1
+172,Cocos Nucifera,taste threshold values: taste characteristics at 10 ppm@sweet floral rose,1
+172,Cocos Nucifera,taste threshold values: taste characteristics at 20 ppm: green,1
+172,Cocos Nucifera,unpleasant cabbage taste,1
+172,Cocos Nucifera,unpleasant taste@excellent coconut taste,1
+172,Cocos Nucifera,vegetative,1
+172,Cocos Nucifera,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow,1
+172,Cocos Nucifera,warm,1
+172,Cocos Nucifera,waxy nuances,1
+172,Cocos Nucifera,waxy with fatty milky notes,1
+172,Cocos Nucifera,weak citrus-lime taste,1
+172,Cocos Nucifera,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.,1
+172,Cocos Nucifera,woody,1
+327,Elattaria,bitter,4
+327,Elattaria,pungent,4
+327,Elattaria,sweet,4
+327,Elattaria,bitter taste,3
+327,Elattaria,citrus taste,3
+327,Elattaria,floral,3
+327,Elattaria,fruity,3
+327,Elattaria,woody,3
+327,Elattaria,30 to 460 ppb.@characteristic bittersweet,2
+327,Elattaria,32 to 460 ppb@beta-citral,2
+327,Elattaria,burning taste,2
+327,Elattaria,citrus,2
+327,Elattaria,fruity taste,2
+327,Elattaria,sharp burning taste,2
+327,Elattaria,spicy taste,2
+327,Elattaria,taste threshold values: detection: 28 to 120 ppb@alpha-citral,2
+327,Elattaria,& nut-like at low levels@pleasant,1
+327,Elattaria,... becoming more pronounced and less agreeable on aging or exposure to air@sweet,1
+327,Elattaria,... with cherry taste,1
+327,Elattaria,acrid,1
+327,Elattaria,acrid taste@it has sweetish,1
+327,Elattaria,acrid taste@sweet,1
+327,Elattaria,afterward acrid,1
+327,Elattaria,and nut-like,1
+327,Elattaria,apple,1
+327,Elattaria,apple and peach,1
+327,Elattaria,aromatic@burning taste,1
+327,Elattaria,at very low levels the flavor is warm,1
+327,Elattaria,berry,1
+327,Elattaria,bitter flavor@fresh,1
+327,Elattaria,bitter taste /d-citronellol/@sweet,1
+327,Elattaria,bitter undertone@nut-like flavor on dilution@bitter,1
+327,Elattaria,bitter-sweet flavor@pungent,1
+327,Elattaria,burning,1
+327,Elattaria,burning aromatic taste@similar to bitter almond,1
+327,Elattaria,burning taste somewhat reminiscent of mint,1
+327,Elattaria,burning taste@sweet taste,1
+327,Elattaria,but not a purely sweet aftertaste.,1
+327,Elattaria,buttery,1
+327,Elattaria,camphoraceous taste...cooling,1
+327,Elattaria,camphoraceous taste@terpene,1
+327,Elattaria,caustic@sweet,1
+327,Elattaria,characeteristic fruity taste (on dilution)@green,1
+327,Elattaria,characteristic ... taste,1
+327,Elattaria,characteristic fatty taste,1
+327,Elattaria,characteristic pungent,1
+327,Elattaria,chocolate aroma & taste@... it has sharp,1
+327,Elattaria,citrus and orange with a fresh lingering aftertaste,1
+327,Elattaria,citrus taste@characteristic orange taste@fresh,1
+327,Elattaria,citrus with fruity,1
+327,Elattaria,cooling,1
+327,Elattaria,creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).,1
+327,Elattaria,distinct caramel taste,1
+327,Elattaria,eucalyptus,1
+327,Elattaria,fatty,1
+327,Elattaria,fatty flavor,1
+327,Elattaria,fatty taste,1
+327,Elattaria,floral (lilac) flavor@sweet,1
+327,Elattaria,floral@spicy,1
+327,Elattaria,fresh,1
+327,Elattaria,fruity with a citrus nuance@sweet,1
+327,Elattaria,fruity with powdery nuances,1
+327,Elattaria,fruity@aromatic flavor,1
+327,Elattaria,grassy,1
+327,Elattaria,green,1
+327,Elattaria,herbaceous,1
+327,Elattaria,herbal pepper flavoring,1
+327,Elattaria,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste,1
+327,Elattaria,lemon/lime and waxy with a spicy depth,1
+327,Elattaria,lime (distilled)@peach,1
+327,Elattaria,lime taste,1
+327,Elattaria,medicinal,1
+327,Elattaria,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid,1
+327,Elattaria,minty,1
+327,Elattaria,minty lime oil taste,1
+327,Elattaria,nutty,1
+327,Elattaria,oily,1
+327,Elattaria,overall nondescript taste with notes resembling those of banana,1
+327,Elattaria,peach-like flavor /l-citronellol/@taste characteristics at 20 ppm: floral,1
+327,Elattaria,pear,1
+327,Elattaria,pear-like flavor,1
+327,Elattaria,pear-like with a faintly floral note,1
+327,Elattaria,peculiar lard-like taste,1
+327,Elattaria,penetrating flavor,1
+327,Elattaria,peppermint taste /dl-menthol/@cooling taste /dl-menthol/,1
+327,Elattaria,persistent sweet,1
+327,Elattaria,piney,1
+327,Elattaria,pleasant taste when diluted@bittersweet,1
+327,Elattaria,pleasant vanilla taste,1
+327,Elattaria,pungent aromatic taste,1
+327,Elattaria,repulsive taste,1
+327,Elattaria,rose,1
+327,Elattaria,slight,1
+327,Elattaria,slightly acid@bitter,1
+327,Elattaria,slightly fruit,1
+327,Elattaria,slightly fruity,1
+327,Elattaria,slightly herbaceous taste,1
+327,Elattaria,slightly sour taste@slightly unpleasant rancid taste,1
+327,Elattaria,sour & mildly cheese-like,1
+327,Elattaria,spicy tropical nuance@flavor characteristics: light,1
+327,Elattaria,spicy@aromatic taste,1
+327,Elattaria,sweet and green with fruity citrus nuances,1
+327,Elattaria,sweet whiskey taste,1
+327,Elattaria,sweet with a green,1
+327,Elattaria,sweetish,1
+327,Elattaria,sweetish taste,1
+327,Elattaria,taste,1
+327,Elattaria,taste characteristics at 30 ppm: floral,1
+327,Elattaria,taste characteristics at 50 ppm: sweet,1
+327,Elattaria,taste threshold values: taste characteristics at 10 ppm@sweet floral rose,1
+327,Elattaria,taste threshold values: taste characteristics at 20 ppm: green,1
+327,Elattaria,turpentine-like taste,1
+327,Elattaria,unpleasant cabbage taste,1
+327,Elattaria,vegetative,1
+327,Elattaria,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow,1
+327,Elattaria,warm,1
+327,Elattaria,waxy nuances,1
+327,Elattaria,weak citrus-lime taste,1
+327,Elattaria,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.,1
+327,Elattaria,with citrus and green spicy nuances,1
+331,Syzygium,bitter,8
+331,Syzygium,bitter taste,3
+331,Syzygium,fruity,3
+331,Syzygium,fruity taste,3
+331,Syzygium,pungent,3
+331,Syzygium,sweet,3
+331,Syzygium,30 to 460 ppb.@characteristic bittersweet,2
+331,Syzygium,32 to 460 ppb@beta-citral,2
+331,Syzygium,burning taste,2
+331,Syzygium,oily,2
+331,Syzygium,pungent taste,2
+331,Syzygium,sharp burning taste,2
+331,Syzygium,taste threshold values: detection: 28 to 120 ppb@alpha-citral,2
+331,Syzygium,woody,2
+331,Syzygium,... with cherry taste,1
+331,Syzygium,@ 1-5 ppm,1
+331,Syzygium,acrid,1
+331,Syzygium,acrid taste@it has sweetish,1
+331,Syzygium,acrid taste@sweet,1
+331,Syzygium,afterward acrid,1
+331,Syzygium,almost tasteless /benzoic acid usp/@bitter taste@taste detection 8.5x10+1 ppm /media and purity not specified/,1
+331,Syzygium,and nut-like,1
+331,Syzygium,apple,1
+331,Syzygium,apple and peach,1
+331,Syzygium,aromatic flavor,1
+331,Syzygium,aromatic@burning taste,1
+331,Syzygium,at very low levels the flavor is warm,1
+331,Syzygium,bitter undertone@nut-like flavor on dilution@bitter,1
+331,Syzygium,burning,1
+331,Syzygium,burning aromatic taste@similar to bitter almond,1
+331,Syzygium,burning taste@sweet taste,1
+331,Syzygium,but not a purely sweet aftertaste.,1
+331,Syzygium,buttery,1
+331,Syzygium,camphor taste@cheese@bitter,1
+331,Syzygium,caustic@sweet,1
+331,Syzygium,characeteristic fruity taste (on dilution)@green,1
+331,Syzygium,characteristic pungent,1
+331,Syzygium,citrus,1
+331,Syzygium,citrus and orange with a fresh lingering aftertaste,1
+331,Syzygium,citrus taste,1
+331,Syzygium,citrus with fruity,1
+331,Syzygium,creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).,1
+331,Syzygium,distinct caramel taste,1
+331,Syzygium,excellent smoke taste,1
+331,Syzygium,fatty flavor,1
+331,Syzygium,fatty taste,1
+331,Syzygium,fleeting,1
+331,Syzygium,floral,1
+331,Syzygium,floral (lilac) flavor@sweet,1
+331,Syzygium,floral@spicy,1
+331,Syzygium,fruity with a citrus nuance@sweet,1
+331,Syzygium,grassy,1
+331,Syzygium,herbaceous,1
+331,Syzygium,herbal pepper flavoring,1
+331,Syzygium,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste,1
+331,Syzygium,lime (distilled)@peach,1
+331,Syzygium,lime taste,1
+331,Syzygium,liquid having the characteristic taste of wintergreen,1
+331,Syzygium,medicinal,1
+331,Syzygium,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid,1
+331,Syzygium,nutty,1
+331,Syzygium,overall nondescript taste with notes resembling those of banana,1
+331,Syzygium,pear,1
+331,Syzygium,pear-like flavor,1
+331,Syzygium,pear-like with a faintly floral note,1
+331,Syzygium,peppermint taste /dl-menthol/@cooling taste /dl-menthol/,1
+331,Syzygium,persistent sweet,1
+331,Syzygium,piney,1
+331,Syzygium,pleasant taste when diluted@bittersweet,1
+331,Syzygium,pleasant vanilla taste,1
+331,Syzygium,probably due to tannic acid,1
+331,Syzygium,repulsive taste,1
+331,Syzygium,slightly acid@bitter,1
+331,Syzygium,slightly fruit,1
+331,Syzygium,slightly herbaceous taste,1
+331,Syzygium,soln of good grades are practically tasteless@poorer quality (dark) grades have unpleasant flavor and odor,1
+331,Syzygium,somewhat orange taste,1
+331,Syzygium,spicy,1
+331,Syzygium,spicy tropical nuance@flavor characteristics: light,1
+331,Syzygium,spicy@aromatic taste,1
+331,Syzygium,sweet taste,1
+331,Syzygium,sweet taste reminiscent of anise (differing from anethole),1
+331,Syzygium,sweet with a green,1
+331,Syzygium,sweetish,1
+331,Syzygium,sweetish taste,1
+331,Syzygium,taste,1
+331,Syzygium,taste characteristics at 30 ppm: floral,1
+331,Syzygium,taste characteristics at 50 ppm: sweet,1
+331,Syzygium,taste threshold values: taste characteristics at 10 ppm@sweet floral rose,1
+331,Syzygium,taste threshold values: taste characteristics at 20 ppm: green,1
+331,Syzygium,tastes strong and bitter,1
+331,Syzygium,turpentine-like taste,1
+331,Syzygium,unpleasant cabbage taste,1
+331,Syzygium,vegetative,1
+331,Syzygium,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow,1
+331,Syzygium,waxy nuances,1
+331,Syzygium,weak citrus-lime taste,1
+331,Syzygium,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.,1
+333,Zingiber,bitter,4
+333,Zingiber,sweet,4
+333,Zingiber,bitter taste,3
+333,Zingiber,citrus taste,3
+333,Zingiber,floral,3
+333,Zingiber,fruity taste,3
+333,Zingiber,pungent,3
+333,Zingiber,woody,3
+333,Zingiber,30 to 460 ppb.@characteristic bittersweet,2
+333,Zingiber,32 to 460 ppb@beta-citral,2
+333,Zingiber,burning taste,2
+333,Zingiber,burning taste somewhat reminiscent of mint,2
+333,Zingiber,citrus,2
+333,Zingiber,fatty,2
+333,Zingiber,fruity,2
+333,Zingiber,oily,2
+333,Zingiber,sharp burning taste,2
+333,Zingiber,spicy taste,2
+333,Zingiber,taste threshold values: detection: 28 to 120 ppb@alpha-citral,2
+333,Zingiber,... becoming more pronounced and less agreeable on aging or exposure to air@sweet,1
+333,Zingiber,... with cherry taste,1
+333,Zingiber,000,1
+333,Zingiber,@ 1-5 ppm,1
+333,Zingiber,acrid,1
+333,Zingiber,acrid taste@it has sweetish,1
+333,Zingiber,afterward acrid,1
+333,Zingiber,and nut-like,1
+333,Zingiber,apple,1
+333,Zingiber,apple and peach,1
+333,Zingiber,aromatic@burning taste,1
+333,Zingiber,at very low levels the flavor is warm,1
+333,Zingiber,banana-like with a green ripe nuance.@slight apple taste,1
+333,Zingiber,berry,1
+333,Zingiber,bitter flavor@fresh,1
+333,Zingiber,bitter taste /d-citronellol/@sweet,1
+333,Zingiber,bitter undertone@nut-like flavor on dilution@bitter,1
+333,Zingiber,bitter-sweet flavor@pungent,1
+333,Zingiber,bittersweet taste reminiscent of pear ... taste characteristics at 30 ppm: sweet fruity,1
+333,Zingiber,burning,1
+333,Zingiber,burning aromatic taste@similar to bitter almond,1
+333,Zingiber,burning taste detectable in 1 part in 100,1
+333,Zingiber,burning taste@sweet taste,1
+333,Zingiber,burning taste@when in very weak solution it has a sweetish taste.,1
+333,Zingiber,but not a purely sweet aftertaste.,1
+333,Zingiber,buttery,1
+333,Zingiber,camphoraceous taste...cooling,1
+333,Zingiber,camphoraceous taste@terpene,1
+333,Zingiber,caustic@sweet,1
+333,Zingiber,characeteristic fruity taste (on dilution)@green,1
+333,Zingiber,characteristic ... taste,1
+333,Zingiber,characteristic pungent,1
+333,Zingiber,characteristic ripe,1
+333,Zingiber,citrus and orange with a fresh lingering aftertaste,1
+333,Zingiber,citrus flavor@terpene taste,1
+333,Zingiber,citrus taste@characteristic orange taste@fresh,1
+333,Zingiber,citrus with fruity,1
+333,Zingiber,citrus-like odor@sharp,1
+333,Zingiber,cooling,1
+333,Zingiber,creamy and milky@threshold taste detection in milk (gas chromatically pure): 1.40x10-2 ppm and 2.90x10-2 ppm@in skim milk: 1.00x10-1 ppm@threshold taste detection in water (gas chromatically pure): 5.40x10-3 ppm@in water: 1.00x10-8% (volume/volume or wg/wg).,1
+333,Zingiber,distinct caramel taste,1
+333,Zingiber,eucalyptus,1
+333,Zingiber,excellent smoke taste,1
+333,Zingiber,fatty flavor,1
+333,Zingiber,fatty taste,1
+333,Zingiber,fleeting,1
+333,Zingiber,floral (lilac) flavor@sweet,1
+333,Zingiber,floral@spicy,1
+333,Zingiber,fresh,1
+333,Zingiber,fresh pungent taste,1
+333,Zingiber,fruity flavor@taste detection: 7.50x10+3 ppm,1
+333,Zingiber,fruity with a citrus nuance@sweet,1
+333,Zingiber,fruity@aromatic flavor,1
+333,Zingiber,grassy,1
+333,Zingiber,green,1
+333,Zingiber,green and fruity,1
+333,Zingiber,herbaceous,1
+333,Zingiber,herbal pepper flavoring,1
+333,Zingiber,initially slightly bitter taste then sweet & reminiscent of peach@sharp burning taste,1
+333,Zingiber,lemon/lime and waxy with a spicy depth,1
+333,Zingiber,lime (distilled)@peach,1
+333,Zingiber,lime taste,1
+333,Zingiber,medicinal,1
+333,Zingiber,mild acid taste and does not overpower weaker aromatic flavors@taste is acrid,1
+333,Zingiber,minty,1
+333,Zingiber,nutty,1
+333,Zingiber,orange flavor,1
+333,Zingiber,overall nondescript taste with notes resembling those of banana,1
+333,Zingiber,peach-like flavor /l-citronellol/@taste characteristics at 20 ppm: floral,1
+333,Zingiber,pear,1
+333,Zingiber,pear-like flavor,1
+333,Zingiber,peculiar lard-like taste,1
+333,Zingiber,peppermint taste /dl-menthol/@cooling taste /dl-menthol/,1
+333,Zingiber,piney,1
+333,Zingiber,pleasant taste when diluted@bittersweet,1
+333,Zingiber,pleasant vanilla taste,1
+333,Zingiber,pungent aromatic taste,1
+333,Zingiber,purity of sample not specified@burning taste,1
+333,Zingiber,repulsive taste,1
+333,Zingiber,rose,1
+333,Zingiber,sharp,1
+333,Zingiber,sharp taste similar to ginger@sweet,1
+333,Zingiber,slightly acid@bitter,1
+333,Zingiber,slightly fruit,1
+333,Zingiber,slightly herbaceous taste,1
+333,Zingiber,slightly sour taste@slightly unpleasant rancid taste,1
+333,Zingiber,somewhat orange taste,1
+333,Zingiber,somewhat sweet,1
+333,Zingiber,spicy tropical nuance@flavor characteristics: light,1
+333,Zingiber,spicy@aromatic taste,1
+333,Zingiber,sweet and green with fruity citrus nuances,1
+333,Zingiber,sweet taste,1
+333,Zingiber,sweet taste reminiscent of anise (differing from anethole),1
+333,Zingiber,sweet whiskey taste,1
+333,Zingiber,sweet with a green,1
+333,Zingiber,sweetish,1
+333,Zingiber,sweetish taste,1
+333,Zingiber,taste,1
+333,Zingiber,taste characteristics at 30 ppm: floral,1
+333,Zingiber,taste characteristics at 50 ppm: sweet,1
+333,Zingiber,taste threshold values: taste characteristics at 10 ppm@sweet floral rose,1
+333,Zingiber,taste threshold values: taste characteristics at 20 ppm: green,1
+333,Zingiber,turpentine-like taste,1
+333,Zingiber,unpleasant cabbage taste,1
+333,Zingiber,vegetative,1
+333,Zingiber,very acid taste@tart taste@pure aq soln are slightly bitter & taste build up is slow,1
+333,Zingiber,waxy nuances,1
+333,Zingiber,weak citrus-lime taste,1
+333,Zingiber,wine-like burning taste.@ethyl acetate ... contributes a fruity flavor to beer.,1
+333,Zingiber,with citrus and green spicy nuances,1

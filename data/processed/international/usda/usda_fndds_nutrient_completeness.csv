@@ -1,0 +1,66 @@
+﻿dataset,source_nutrient_id,nutrient_master_id,name,unit_name,foods_with_nutrient,total_foods,completeness_percent
+fndds,203.0,1003,Protein,G,5431,5432,99.98
+fndds,204.0,1004,Total lipid (fat),G,5431,5432,99.98
+fndds,205.0,1005,"Carbohydrate, by difference",G,5431,5432,99.98
+fndds,208.0,1008,Energy,KCAL,5431,5432,99.98
+fndds,221.0,1018,"Alcohol, ethyl",G,5431,5432,99.98
+fndds,255.0,1051,Water,G,5431,5432,99.98
+fndds,262.0,1057,Caffeine,MG,5431,5432,99.98
+fndds,263.0,1058,Theobromine,MG,5431,5432,99.98
+fndds,269.0,2000,Total Sugars,G,5431,5432,99.98
+fndds,291.0,1079,"Fiber, total dietary",G,5431,5432,99.98
+fndds,301.0,1087,"Calcium, Ca",MG,5431,5432,99.98
+fndds,303.0,1089,"Iron, Fe",MG,5431,5432,99.98
+fndds,304.0,1090,"Magnesium, Mg",MG,5431,5432,99.98
+fndds,305.0,1091,"Phosphorus, P",MG,5431,5432,99.98
+fndds,306.0,1092,"Potassium, K",MG,5431,5432,99.98
+fndds,307.0,1093,"Sodium, Na",MG,5431,5432,99.98
+fndds,309.0,1095,"Zinc, Zn",MG,5431,5432,99.98
+fndds,312.0,1098,"Copper, Cu",MG,5431,5432,99.98
+fndds,317.0,1103,"Selenium, Se",UG,5431,5432,99.98
+fndds,319.0,1105,Retinol,UG,5431,5432,99.98
+fndds,320.0,1106,"Vitamin A, RAE",UG,5431,5432,99.98
+fndds,321.0,1107,"Carotene, beta",UG,5431,5432,99.98
+fndds,322.0,1108,"Carotene, alpha",UG,5431,5432,99.98
+fndds,323.0,1109,Vitamin E (alpha-tocopherol),MG,5431,5432,99.98
+fndds,328.0,1114,Vitamin D (D2 + D3),UG,5431,5432,99.98
+fndds,334.0,1120,"Cryptoxanthin, beta",UG,5431,5432,99.98
+fndds,337.0,1122,Lycopene,UG,5431,5432,99.98
+fndds,338.0,1123,Lutein + zeaxanthin,UG,5431,5432,99.98
+fndds,401.0,1162,"Vitamin C, total ascorbic acid",MG,5431,5432,99.98
+fndds,404.0,1165,Thiamin,MG,5431,5432,99.98
+fndds,405.0,1166,Riboflavin,MG,5431,5432,99.98
+fndds,406.0,1167,Niacin,MG,5431,5432,99.98
+fndds,415.0,1175,Vitamin B-6,MG,5431,5432,99.98
+fndds,417.0,1177,"Folate, total",UG,5431,5432,99.98
+fndds,418.0,1178,Vitamin B-12,UG,5431,5432,99.98
+fndds,421.0,1180,"Choline, total",MG,5431,5432,99.98
+fndds,430.0,1185,Vitamin K (phylloquinone),UG,5431,5432,99.98
+fndds,431.0,1186,Folic acid,UG,5431,5432,99.98
+fndds,432.0,1187,"Folate, food",UG,5431,5432,99.98
+fndds,435.0,1190,"Folate, DFE",UG,5431,5432,99.98
+fndds,573.0,1242,"Vitamin E, added",MG,5431,5432,99.98
+fndds,578.0,1246,"Vitamin B-12, added",UG,5431,5432,99.98
+fndds,601.0,1253,Cholesterol,MG,5431,5432,99.98
+fndds,606.0,1258,"Fatty acids, total saturated",G,5431,5432,99.98
+fndds,607.0,1259,SFA 4:0,G,5431,5432,99.98
+fndds,608.0,1260,SFA 6:0,G,5431,5432,99.98
+fndds,609.0,1261,SFA 8:0,G,5431,5432,99.98
+fndds,610.0,1262,SFA 10:0,G,5431,5432,99.98
+fndds,611.0,1263,SFA 12:0,G,5431,5432,99.98
+fndds,612.0,1264,SFA 14:0,G,5431,5432,99.98
+fndds,613.0,1265,SFA 16:0,G,5431,5432,99.98
+fndds,614.0,1266,SFA 18:0,G,5431,5432,99.98
+fndds,617.0,1268,MUFA 18:1,G,5431,5432,99.98
+fndds,618.0,1269,PUFA 18:2,G,5431,5432,99.98
+fndds,619.0,1270,PUFA 18:3,G,5431,5432,99.98
+fndds,620.0,1271,PUFA 20:4,G,5431,5432,99.98
+fndds,621.0,1272,PUFA 22:6 n-3 (DHA),G,5431,5432,99.98
+fndds,626.0,1275,MUFA 16:1,G,5431,5432,99.98
+fndds,627.0,1276,PUFA 18:4,G,5431,5432,99.98
+fndds,628.0,1277,MUFA 20:1,G,5431,5432,99.98
+fndds,629.0,1278,PUFA 20:5 n-3 (EPA),G,5431,5432,99.98
+fndds,630.0,1279,MUFA 22:1,G,5431,5432,99.98
+fndds,631.0,1280,PUFA 22:5 n-3 (DPA),G,5431,5432,99.98
+fndds,645.0,1292,"Fatty acids, total monounsaturated",G,5431,5432,99.98
+fndds,646.0,1293,"Fatty acids, total polyunsaturated",G,5431,5432,99.98

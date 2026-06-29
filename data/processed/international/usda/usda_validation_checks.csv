@@ -1,0 +1,12 @@
+﻿check,value,expected,passed
+Both USDA releases ready,True,True,True
+Actual Foundation Foods selected,395,> 0,True
+Foundation selection excludes generic extra records,87595,>= 0; normally > 0,True
+Foundation nutrient value relationship,99.806,>= 95.0%,True
+FNDDS nutrient lookup key,nutrient_nbr,nutrient_nbr,True
+FNDDS nutrient value relationship,100.0,>= 95.0%,True
+FNDDS completeness names populated,0,0,True
+Common nutrient comparison populated,57,> 0,True
+FNDDS selected nutrients use observed join values,6,> 0,True
+FNDDS normalized nutrient values created,32586,> 0,True
+Quality normalized reference created,5763,> 0,True

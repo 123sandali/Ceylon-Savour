@@ -1,0 +1,7 @@
+﻿area,finding
+Ingredient representation,FlavorDB represents natural ingredients as entities linked to multiple flavor molecules.
+Taste information,"Taste descriptors can support ingredient-level sweetness, sourness, bitterness, umami, spice, and saltiness evidence."
+Aroma information,Odor descriptors provide useful aroma tags for ingredient and dish profiles.
+CeylonSavour use,FlavorDB can enrich ingredient taste and aroma features before dish-level aggregation.
+Limitation,Descriptor frequency is an evidence score and must not be treated as an exact sensory intensity.
+Sri Lankan ingredients,Ingredients missing from FlavorDB require manual annotation and expert validation.

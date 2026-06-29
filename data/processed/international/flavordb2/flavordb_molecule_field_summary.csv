@@ -1,0 +1,44 @@
+﻿field,type,sample_value
+pubchem_id,int,323
+iupac_name,str,chromen-2-one
+common_name,str,coumarin
+smile,str,C1=CC=C2C(=C1)C=CC(=O)O2
+molecular_weight,float,146.145
+hbd_count,int,0
+hba_count,int,2
+num_rotatablebonds,int,0
+complexity,float,196.0
+topological_polor_surfacearea,float,26.3
+monoisotopic_mass,float,146.037
+exact_mass,float,146.037
+xlogp,str,1.4
+charge,int,0
+heavy_atom_count,int,11
+atom_stereo_count,int,0
+defined_atom_stereocenter_count,int,0
+undefined_atom_stereocenter_count,int,0
+bond_stereo_count,int,0
+defined_bond_stereocenter_count,int,0
+undefined_bond_stereocenter_count,int,0
+isotope_atom_count,int,0
+covalently_bonded_unit_count,int,1
+cas_id,str,91-64-5
+fema_number,NoneType,None
+fema_flavor_profile,NoneType,None
+odor,str,"pleasant, fragrant odor resembling that of vanilla beans.@hay-like bittersweet odor"
+taste,str,"bitter undertone@nut-like flavor on dilution@bitter, aromatic@burning taste"
+functional_groups,str,oxo(het)arene@aromatic compound@heterocyclic compound
+inchi,str,InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H
+volume3d,str,116.3
+fooddb_flavor_profile,str,new mown hay@bitter@green@sweet@tonka
+super_sweet,str,Sweet
+bitter,int,1
+supersweetdb_id,str,10853
+bitterdb_id,str,49
+fooddb_id,str,FDB030742
+flavornet_id,int,1
+fenoroli_and_os,int,1
+natural,int,1
+unknown_natural,int,0
+synthetic,int,0
+flavor_profile,str,sweet@new mown hay@green@tonka@bitter

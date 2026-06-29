@@ -1,0 +1,652 @@
+[
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "acquisition_samples.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\acquisition_samples.csv",
+    "size_mb": 0.1481,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id_of_sample_food",
+      "fdc_id_of_acquisition_food"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "agricultural_samples.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\agricultural_samples.csv",
+    "size_mb": 0.0363,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "acquisition_date",
+      "market_class",
+      "treatment",
+      "state"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food.csv",
+    "size_mb": 6.8949,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "data_type",
+      "description",
+      "food_category_id",
+      "publication_date"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_attribute.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_attribute.csv",
+    "size_mb": 0.7187,
+    "column_count": 6,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "seq_num",
+      "food_attribute_type_id",
+      "name",
+      "value"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_attribute_type.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_attribute_type.csv",
+    "size_mb": 0.0003,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name",
+      "description"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_calorie_conversion_factor.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_calorie_conversion_factor.csv",
+    "size_mb": 0.0115,
+    "column_count": 4,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "food_nutrient_conversion_factor_id",
+      "protein_value",
+      "fat_value",
+      "carbohydrate_value"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_category.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_category.csv",
+    "size_mb": 0.001,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "code",
+      "description"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_component.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_component.csv",
+    "size_mb": 0.1512,
+    "column_count": 8,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "name",
+      "pct_weight",
+      "is_refuse",
+      "gram_weight",
+      "data_points",
+      "min_year_acqured"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_nutrient.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_nutrient.csv",
+    "size_mb": 9.6218,
+    "column_count": 11,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "nutrient_id",
+      "amount",
+      "data_points",
+      "derivation_id",
+      "min",
+      "max",
+      "median",
+      "footnote",
+      "min_year_acquired"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_nutrient_conversion_factor.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_nutrient_conversion_factor.csv",
+    "size_mb": 0.1879,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_portion.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_portion.csv",
+    "size_mb": 0.681,
+    "column_count": 11,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "seq_num",
+      "amount",
+      "measure_unit_id",
+      "portion_description",
+      "modifier",
+      "gram_weight",
+      "data_points",
+      "footnote",
+      "min_year_acquired"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_protein_conversion_factor.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_protein_conversion_factor.csv",
+    "size_mb": 0.0053,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "food_nutrient_conversion_factor_id",
+      "value"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "food_update_log_entry.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\food_update_log_entry.csv",
+    "size_mb": 4.9929,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "description",
+      "last_updated"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "foundation_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\foundation_food.csv",
+    "size_mb": 0.0165,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "NDB_number",
+      "footnote"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "input_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\input_food.csv",
+    "size_mb": 0.3121,
+    "column_count": 12,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "fdc_of_input_food",
+      "seq_num",
+      "amount",
+      "ingredient_code",
+      "ingredient_description",
+      "unit",
+      "portion_code",
+      "portion_description",
+      "gram_weight",
+      "retention_code"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "lab_method.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\lab_method.csv",
+    "size_mb": 0.0125,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "description",
+      "technique"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "lab_method_code.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\lab_method_code.csv",
+    "size_mb": 0.0044,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "lab_method_id",
+      "code"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "lab_method_nutrient.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\lab_method_nutrient.csv",
+    "size_mb": 0.009,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "lab_method_id",
+      "nutrient_id"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "market_acquisition.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\market_acquisition.csv",
+    "size_mb": 0.8718,
+    "column_count": 14,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "brand_description",
+      "expiration_date",
+      "label_weight",
+      "location",
+      "acquisition_date",
+      "sales_type",
+      "sample_lot_nbr",
+      "sell_by_date",
+      "store_city",
+      "store_name",
+      "store_state",
+      "upc_code",
+      "acquisition_number"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "measure_unit.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\measure_unit.csv",
+    "size_mb": 0.0019,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "nutrient.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\nutrient.csv",
+    "size_mb": 0.0206,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name",
+      "unit_name",
+      "nutrient_nbr",
+      "rank"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "sample_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\sample_food.csv",
+    "size_mb": 0.0373,
+    "column_count": 1,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "sub_sample_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\sub_sample_food.csv",
+    "size_mb": 1.41,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "fdc_id_of_sample_food"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "foundation",
+    "dataset_label": "Foundation Foods",
+    "scope": "extracted_data_csv",
+    "filename": "sub_sample_result.csv",
+    "relative_path": "data\\raw\\international\\usda\\foundation\\release_2026_04\\extracted\\sub_sample_result.csv",
+    "size_mb": 5.0493,
+    "column_count": 4,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "food_nutrient_id",
+      "adjusted_amount",
+      "lab_method_id",
+      "nutrient_name"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "fndds_derivation.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\fndds_derivation.csv",
+    "size_mb": 0.0046,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "derivation code",
+      "derivation description"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food.csv",
+    "size_mb": 0.4582,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "data_type",
+      "description",
+      "food_category_id",
+      "publication_date"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food_attribute.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food_attribute.csv",
+    "size_mb": 1.5337,
+    "column_count": 6,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "seq_num",
+      "food_attribute_type_id",
+      "name",
+      "value"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food_attribute_type.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food_attribute_type.csv",
+    "size_mb": 0.0003,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name",
+      "description"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food_nutrient.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food_nutrient.csv",
+    "size_mb": 18.1655,
+    "column_count": 11,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "nutrient_id",
+      "amount",
+      "data_points",
+      "derivation_id",
+      "min",
+      "max",
+      "median",
+      "footnote",
+      "min_year_acquired"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food_portion.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food_portion.csv",
+    "size_mb": 1.6142,
+    "column_count": 11,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "seq_num",
+      "amount",
+      "measure_unit_id",
+      "portion_description",
+      "modifier",
+      "gram_weight",
+      "data_points",
+      "footnote",
+      "min_year_acquired"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "food_update_log_entry.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\food_update_log_entry.csv",
+    "size_mb": 0.3183,
+    "column_count": 3,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "description",
+      "last_updated"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "input_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\input_food.csv",
+    "size_mb": 1.891,
+    "column_count": 12,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "fdc_id",
+      "fdc_of_input_food",
+      "seq_num",
+      "amount",
+      "sr_code",
+      "sr_description",
+      "unit",
+      "portion_code",
+      "portion_description",
+      "gram_weight",
+      "retention_code"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "measure_unit.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\measure_unit.csv",
+    "size_mb": 0.0019,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "nutrient.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\nutrient.csv",
+    "size_mb": 0.0206,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "id",
+      "name",
+      "unit_name",
+      "nutrient_nbr",
+      "rank"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "survey_fndds_food.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\survey_fndds_food.csv",
+    "size_mb": 0.2798,
+    "column_count": 5,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "fdc_id",
+      "food_code",
+      "wweia_category_number",
+      "start_date",
+      "end_date"
+    ],
+    "error": null
+  },
+  {
+    "dataset": "fndds",
+    "dataset_label": "FNDDS",
+    "scope": "extracted_data_csv",
+    "filename": "wweia_food_category.csv",
+    "relative_path": "data\\raw\\international\\usda\\fndds\\release_2024_10\\extracted\\wweia_food_category.csv",
+    "size_mb": 0.0049,
+    "column_count": 2,
+    "encoding": "utf-8-sig",
+    "columns": [
+      "wweia_food_category",
+      "wweia_food_category_description"
+    ],
+    "error": null
+  }
+]

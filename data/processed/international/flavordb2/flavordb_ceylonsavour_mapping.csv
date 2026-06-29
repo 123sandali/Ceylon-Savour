@@ -1,0 +1,6 @@
+﻿source_entity_id,canonical_ingredient_name,source_category,flavor_molecule_count,taste_evidence_count,odor_descriptor_count,sweetness,sourness,bitterness,umami,spice_base,saltiness,aroma_tags,data_quality_score,quality_level,source_dataset,source_license,profile_method
+327,Elattaria,Spice,173,147,143,0.1905,0.0204,0.1224,0.0,0.0952,0.0,"[""odorless"", ""characteristic"", ""fatty""]",1.0,high,flavordb2,CC BY-NC-SA 3.0,descriptor-frequency mapping
+330,Cinnamomum,Spice,183,140,147,0.2,0.0071,0.15,0.0,0.1143,0.0,"[""floral odor"", ""odorless"", ""pungent""]",1.0,high,flavordb2,CC BY-NC-SA 3.0,descriptor-frequency mapping
+331,Syzygium,Spice,177,123,130,0.1951,0.0081,0.1789,0.0,0.0813,0.0,"[""fatty"", ""floral odor"", ""odorless""]",1.0,high,flavordb2,CC BY-NC-SA 3.0,descriptor-frequency mapping
+172,Cocos Nucifera,Fruit,161,110,125,0.1545,0.0273,0.1455,0.0,0.0273,0.0,"[""odorless"", ""characteristic"", ""powerful""]",1.0,high,flavordb2,CC BY-NC-SA 3.0,descriptor-frequency mapping
+333,Zingiber,Spice,251,158,164,0.2025,0.0127,0.1203,0.0,0.0886,0.0,"[""characteristic"", ""sweet"", ""camphor-like odor""]",1.0,high,flavordb2,CC BY-NC-SA 3.0,descriptor-frequency mapping
