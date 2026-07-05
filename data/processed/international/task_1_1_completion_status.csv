@@ -1,0 +1,7 @@
+﻿requirement,status,evidence
+Create notebook 01_international_db_analysis.ipynb,Completed,"Notebook contains USDA, FlavorDB2, Open Food Facts and commercial API review sections."
+Explore USDA FoodData Central,Completed,"Foundation Foods and FNDDS tables loaded, validated, normalized and exported."
+Explore FlavorDB,Completed,"Ingredient JSON structures inspected; molecule, taste and odour descriptors normalized."
+Explore Open Food Facts API,Completed,"API products collected; allergens, labels, nutriments and dietary-safety mapping created."
+Browse Spoonacular and Edamam,Completed as API field review,Commercial API comparison and CeylonSavour field mapping created.
+Write 2-page analysis report,Completed,Final report section added to notebook.

@@ -1,0 +1,8 @@
+﻿ceylonsavour_field,spoonacular_support,edamam_support,notes
+ingredient_name,Yes,Yes,Both APIs can support ingredient or food-name lookup.
+nutrition_profile,Yes,Yes,"Useful for calories, protein, fat, carbs and micronutrients."
+dietary_tags,Yes,Yes,"Can support vegan, vegetarian, gluten-free and similar labels."
+allergen_tags,Yes,Yes,Useful for allergy/intolerance checking.
+taste_profile,Partial,Limited,Not enough to replace FlavorDB. Better used only as supporting evidence.
+sri_lankan_dish_identity,Limited,Limited,Sri Lankan dishes still require manual local database creation.
+restaurant_menu_modifier,Limited,Limited,Restaurant-specific spice adaptation or ingredient substitution must be collected locally.
