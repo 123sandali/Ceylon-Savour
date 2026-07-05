@@ -1,0 +1,5 @@
+﻿area,finding
+Main use,"Open Food Facts is useful for allergen, dietary-label, ingredient-text and nutriment reference."
+CeylonSavour role,It supports dietary-safety mapping rather than direct Sri Lankan dish taste-profile construction.
+Limitation,"The data is crowdsourced, so completeness and accuracy vary across products."
+Required validation,Final Sri Lankan dish allergen and dietary tags require manual recipe and restaurant validation.

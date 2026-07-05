@@ -1,0 +1,6 @@
+﻿check,value,note
+Products returned,40,Total normalized products
+Products with ingredient text,38,Useful for ingredient/allergen analysis
+Products with allergens,10,Useful for dietary safety mapping
+Products with dietary labels,33,Useful for vegan/vegetarian/halal labels
+Products with nutriments,34,Useful for nutrition comparison

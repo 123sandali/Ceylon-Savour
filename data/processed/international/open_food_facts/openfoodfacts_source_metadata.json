@@ -1,0 +1,15 @@
+{
+  "database_name": "Open Food Facts",
+  "website": "https://world.openfoodfacts.org/",
+  "api_documentation": "https://openfoodfacts.github.io/openfoodfacts-server/api/",
+  "main_use_for_ceylonsavour": [
+    "ingredient text",
+    "allergen tags",
+    "dietary labels",
+    "nutriments",
+    "product categories",
+    "NOVA processing group"
+  ],
+  "data_type": "crowdsourced packaged food product database",
+  "important_limitation": "Coverage and field completeness vary by product and country."
+}
